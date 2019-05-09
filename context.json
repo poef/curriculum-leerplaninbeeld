@@ -44,7 +44,7 @@
             "anyOf": [
                 {
                     "required": ["id","title","lpib_vak_id","lpib_bouw_id","lpib_leereenheid_id"]
-                },
+                }
             ],
             "not": {
                 "anyOf": [
@@ -92,7 +92,7 @@
             "anyOf": [
                 {
                     "required": ["id","title","lpib_vak_id","lpib_bouw_id"]
-                },
+                }
             ],
             "not": {
                 "anyOf": [
@@ -128,7 +128,7 @@
             "anyOf": [
                 {
                     "required": ["id","title","lpib_vakkern_id"]
-                },
+                }
             ],
             "not": {
                 "anyOf": [
@@ -173,7 +173,7 @@
             "anyOf": [
                 {
                     "required": ["id","title","lpib_vaksubkern_id","lpib_leereenheid_id"]
-                },
+                }
             ],
             "not": {
                 "anyOf": [
@@ -206,7 +206,7 @@
             "anyOf": [
                 {
                     "required": ["id","title","lpib_leereenheid_id"]
-                },
+                }
             ],
             "not": {
                 "anyOf": [
@@ -248,18 +248,18 @@
             "anyOf": [
                 {
                     "required": ["id","lpib_leerdoel_id","lpib_inhoud_id"]
-                },
+                }
             ]
         },
         "lpib_inhoud": {
-            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ]
         },
         "lpib_doel": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
             "properties": {
                 "bron" : {"type" : "string" },
                 "sloID" : {"type" : "string" }
-            },
+            }
         },
         "lpib_leerdoel": {
             "properties": {
