@@ -1,0 +1,82 @@
+{
+	"@context": {
+		"leerplaninbeeld": "http://opendata.slo.nl/curriculum/schemas/leerplaninbeeld.jsonld",
+		"id": {
+			"@id": "@id"
+		},
+		"title": {
+			"@id": "http://purl.org/dc/terms/title",
+			"@type": "@id"
+		},
+		"lpib_vak_id": {
+			"@container": "@set"
+		},
+		"lpib_vakkern_id": {
+			"@container": "@set"
+		},
+		"lpib_vaksubkern_id": {
+			"@container": "@set"
+		},
+		"lpib_inhoud_id": {
+			"@container": "@set"
+		},
+		"lpib_leerdoel_id": {
+			"@container": "@set"
+		},
+		"lpib_leereenheid_id": {
+			"@container": "@set"
+		},
+		"lpib_doel_id": {
+			"@container": "@set"
+		},
+		"lpib_bouw_id": {
+			"@container": "@set"
+		},
+		"lpib_opleidingsniveau_id": {
+			"@container": "@set"
+		},
+		"lpib_beheersingsniveau_id": {
+			"@container": "@set"
+		},
+
+		"lpib_leerlijn": {
+			"@id": "leerplaninbeeld:#lpib_leerlijn"
+		},
+		"lpib_vakkencluster": {
+			"@id": "leerplaninbeeld:#lpib_vakkencluster"
+		},
+		"lpib_vak": {
+			"@id": "leerplaninbeeld:#lpib_vak"
+		},
+		"lpib_vakkern": {
+			"@id": "leerplaninbeeld:#lpib_vakkern"
+		},
+		"lpib_vaksubkern": {
+			"@id": "leerplaninbeeld:#lpib_vaksubkern"
+		},
+		"lpib_inhoud": {
+			"@id": "leerplaninbeeld:#lpib_inhoud"
+		},
+		"lpib_doel": {
+			"@id": "leerplaninbeeld:#lpib_doel"
+		},
+		"lpib_leerdoel": {
+			"@id": "leerplaninbeeld:#lpib_leerdoel"
+		},
+		"lpib_leereeneheid": {
+			"@id": "leerplaninbeeld:#lpib_leereenheid"
+		},
+		"lpib_opleidingsniveau": {
+			"@id": "leerplaninbeeld:#lpib_opleidingsniveau"
+		},
+		"lpib_beheersingsniveau": {
+			"@id": "leerplaninbeeld:#lpib_beheersingsniveau"
+		},
+		"lpib_bouw": {
+			"@id": "leerplaninbeeld:#lpib_bouw"
+		},
+		"lpib_deprecated": {
+			"@id": "leerplaninbeeld:#lpib_deprecated"
+		}
+	}
+}

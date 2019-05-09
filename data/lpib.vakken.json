@@ -1,0 +1,848 @@
+{
+    "lpib_vak": [
+        {
+            "id": "c0f3b769-606e-488a-aeb1-405bf46df24a",
+            "sloID": "55",
+            "title": "21e eeuwse vaardigheden",
+            "lpib_vakkern_id": [
+                "1719b731-8370-427a-b544-513483a61cab",
+                "80146d9c-a41a-4d0b-b292-7de716381362",
+                "9824065e-4cf2-42d6-9b19-4de2920e4860",
+                "feb35f28-ff32-46eb-b320-d54d659fc53c",
+                "2c2d3a0f-b051-4b75-84f8-ee6514a2ca36",
+                "f390110f-d85c-4b9f-a2e7-f14d992eba4c",
+                "f02c3d97-a9ac-48d0-9f29-2c5ab88aa0fb",
+                "d869af88-bd14-4046-a425-69be747a850d",
+                "97e8f73c-380a-4d6c-8694-30db5423e299",
+                "282711be-bdf7-43d6-8829-2f5062db9b71",
+                "56dc5fe8-514d-4eb5-bbf2-96757f946740"
+            ]
+        },
+        {
+            "id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
+            "sloID": "1",
+            "title": "Aardrijkskunde",
+            "lpib_vakkern_id": [
+                "6e8db1e8-d4ad-48fe-b3a2-8e927a665665",
+                "2fce5bd6-f19b-4601-b3fe-30c52ebeb539",
+                "0e3b6e67-6dc0-4645-a145-e191ca7d9405",
+                "214c750d-6283-4c0d-9887-23fe011d7ae0",
+                "4066d9dc-8e04-4290-a3f6-dbf5f4e97a5f",
+                "45456d92-1506-4488-b6a8-5ed517b70a6b",
+                "360e75ce-acab-4e5c-98e0-86f2e2b1e0b2",
+                "336e97ca-a674-4cf2-b5a1-1970a838aa69",
+                "1bccd62d-678c-43c8-a681-dba4c4edfc0c",
+                "e75e604d-3040-443e-8450-7e03dfe916fe",
+                "a3d06912-4e59-40c7-a0d4-fe1019186799",
+                "e463d6a7-cd43-4d10-b9e2-7466158ab22e",
+                "62075821-bf43-4d10-8deb-9e405c828757"
+            ]
+        },
+        {
+            "id": "182462b2-662f-42e5-8464-f9075afee3ba",
+            "sloID": "2",
+            "title": "Algemene natuurwetenschappen",
+            "lpib_vakkern_id": [
+                "f97c1a1e-d308-412b-b32a-94da1f565fa9",
+                "59bf9201-fd0d-4fd8-94dd-3ef01618fb01",
+                "1776cfa0-50d7-48e0-9eb6-92bdca47a9f9",
+                "9db0a453-76cb-49ea-8690-551bfd579825"
+            ]
+        },
+        {
+            "id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
+            "sloID": "57",
+            "title": "Bedrijfseconomie",
+            "lpib_vakkern_id": [
+                "c516b0c6-75f2-4017-8a60-fc78373ca0ff",
+                "87512196-3d6b-49de-9c22-3a4b6ab8d41c",
+                "5862c3cc-823d-464c-8393-bab36d3fd91d",
+                "c50eb58e-56bb-4a72-af02-8a0cfe8da8a2",
+                "097a5c80-54ff-43fd-9963-9e5d50f0be0e",
+                "17f209b5-d4c3-42df-96d8-b472ed6e7eee",
+                "991b7180-071c-4913-bcbb-5dadac8f52b2",
+                "d9b40ac7-ba78-4bd5-a108-337d2be35827"
+            ]
+        },
+        {
+            "id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc",
+            "sloID": "3",
+            "title": "Bewegen en sport",
+            "lpib_vakkern_id": [
+                "711d8468-c31b-42ae-a9b2-169958353afb",
+                "364f3648-ed5a-45c8-8aa8-a6f796ee0505",
+                "821c328e-4cb5-4ba5-9215-caa4007d71ef",
+                "7d71171d-3ec7-4961-8931-bfaaddd62082"
+            ]
+        },
+        {
+            "id": "18361045-bd2b-4c50-9267-cd24dc3498bb",
+            "sloID": "4",
+            "title": "Bewegen, sport en maatschappij",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "9d6793a3-a5d6-4719-9ad3-24b5677bec26",
+            "sloID": "5",
+            "title": "Bewegingsonderwijs",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "41dd7292-3cce-411b-8097-11db8c875a89",
+            "sloID": "6",
+            "title": "Biologie",
+            "lpib_vakkern_id": [
+                "2400e03b-d163-4dba-98af-26e425eb4872",
+                "c658f98a-86c1-46c6-9f8d-87ed374efc1f",
+                "4ba7e4f4-a95f-43cc-87c3-c9d575b78c46",
+                "6a8312ad-1e81-4524-b87f-b4aa989fdd33",
+                "f308b6cd-89df-4a42-8f33-a994e7f8a733",
+                "fced5a91-a770-431d-a191-bae82a29fea1",
+                "bbfdd51a-3193-4cb9-b34d-db4ffe968f54",
+                "4a5b8ba8-30bc-4a66-b672-95e14dc667b3",
+                "7137bb39-b652-4f5f-b7e9-d4b027e3622a",
+                "bc7cb31a-5618-4ff1-9b51-fd01ab4a3b46",
+                "dcb90d31-6979-4189-a460-384636e2e586",
+                "99a36df9-74d5-47a7-beb7-ebf0fb69e5b0",
+                "ae1ac7ed-4c29-4985-b5ff-7e94136b42db",
+                "bb200f23-88b5-4132-b80a-f113a1eff1fa",
+                "1788c7c2-91df-45d3-b1d4-55bfbf283162"
+            ]
+        },
+        {
+            "id": "26eb622d-6239-4f26-bdef-0c9662891285",
+            "sloID": "68",
+            "title": "Bouwen, Wonen en Interieur",
+            "lpib_vakkern_id": [
+                "5aee87c0-28a0-490f-aada-a8ddea52310d",
+                "261c775c-2726-4edd-b471-dbfdeb9fa77c",
+                "37d33cd1-3457-4d0a-8543-e25af5629f93",
+                "48b2e1d0-22fb-46ff-83ff-1c6364c26e67",
+                "09fcfe9e-f8b7-4fb7-90a4-1beb73514f09",
+                "88c9707b-920d-454d-9b80-b7dc879a31fc",
+                "8f8a5f29-44f5-4fc1-9423-de45204cebc1"
+            ]
+        },
+        {
+            "id": "7316c15e-d1d1-4d73-b4df-94b46b04aadd",
+            "sloID": "56",
+            "title": "Cultureel erfgoed",
+            "lpib_vakkern_id": [
+                "dcfb8a03-371a-4473-ad03-d0d840887377",
+                "bd3c8ce1-3f94-433c-b670-d33d8ec28cef",
+                "eca40860-d20d-41c2-9fc0-bdfe09993581",
+                "d4e1ef6f-ce81-43fe-a122-f00ad58657b7"
+            ]
+        },
+        {
+            "id": "a70b035e-2c79-4b7d-81de-03678354cdc1",
+            "sloID": "50",
+            "title": "Culturele en kunstzinnige vorming",
+            "lpib_vakkern_id": [
+                "66158df9-33c7-456f-8cac-73450a2a9d9b",
+                "2b4fd7fc-2df0-407e-a5ba-116c5af40c48",
+                "2b4b3312-6f94-45f5-a7f9-da77dcdd825f",
+                "b352ebb7-4d34-4ac0-bb87-c792317064dc"
+            ]
+        },
+        {
+            "id": "8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2",
+            "sloID": "60",
+            "title": "Dienstverlening en Producten",
+            "lpib_vakkern_id": [
+                "15dc2637-9e78-4161-82a1-2f3f16b17ac2",
+                "80332363-e7bd-441b-a2d7-c8e770cfcbd9",
+                "76842c70-6ad3-42d3-8559-4142c7b282fe",
+                "2d722f58-4481-4c49-b4df-357f755c4f9c",
+                "0823481b-e4de-4dd0-9467-9ea47220a6e1",
+                "73fc01b1-8845-4633-935e-eb0bf9cfa274",
+                "3ec37fff-610e-48ba-8815-d63fd0688591"
+            ]
+        },
+        {
+            "id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
+            "sloID": "7",
+            "title": "Duits",
+            "lpib_vakkern_id": [
+                "2affa696-9540-4448-8897-683b28fcb493",
+                "f1d8fa8b-0f94-4f3d-b059-ce9f1d14e73f",
+                "ea0d0b6b-f33c-478a-b550-c275caf31d3a",
+                "201fe4a2-9c23-40e9-b4a2-44ae070b513f",
+                "33f70664-17d2-40d4-b85a-52c6ea16d19d"
+            ]
+        },
+        {
+            "id": "8755f202-3f28-405d-929e-990ee4fdc521",
+            "sloID": "8",
+            "title": "Economie",
+            "lpib_vakkern_id": [
+                "87d62f23-1d59-4823-a4d7-e9bd034eaa3f",
+                "7fe3c440-5c99-40fc-a077-d73d5f58aefd",
+                "571c5569-dfbe-4ac7-88b9-ee75a9e45249",
+                "3f0ed38b-b3d3-4711-bd28-f1aa239e5920",
+                "8ffe98c1-b0c5-4b75-91f3-5c06e64c28c9",
+                "bdf30cc9-bb47-440e-9784-184968a6c93e",
+                "e7c4f5be-fd40-4d82-8c9d-41aaa3ffe450",
+                "d9576db0-1e98-4cde-84e0-b3fe18e004d4",
+                "8341ba89-36bb-4879-b104-4335a83f8eb3",
+                "0d6407fb-a50d-409b-a56b-7ce15adfdfce",
+                "085742fd-9518-4af1-b9f1-288aa38b863b",
+                "07cf4c78-5c2c-4268-aa37-6552f99fe2dc",
+                "3b3deac3-f11b-4bb7-a4f6-3ffdbbd98b4f",
+                "41aa7b50-1b3b-48c2-9739-cac4ef4c6fcd",
+                "820340bf-f670-4d96-b3bd-5a4b4db6f6a9",
+                "cad889f0-6f6c-4ea6-a430-8fead4832ec6",
+                "71399584-e6c4-40bc-a1d2-5e924b1b66e8"
+            ]
+        },
+        {
+            "id": "18126dde-b79b-4231-826d-b902a6fa70db",
+            "sloID": "61",
+            "title": "Economie en Ondernemen",
+            "lpib_vakkern_id": [
+                "17c334dd-ca5e-4c1d-8fc6-0d2444e667a5",
+                "761755fc-29da-4a26-8528-2ffa9d172179",
+                "77d415c5-399b-408a-8005-7656247e7458",
+                "8c1c0974-c454-447f-aedb-6dbaa230572d",
+                "275cabc0-d8ad-4820-aa58-f8e7aed54a25",
+                "b5ff8aa1-f089-4b03-a24b-65af57271f25",
+                "38b0cb63-3ede-46c5-b01b-c9d42630ccd6"
+            ]
+        },
+        {
+            "id": "d8dc1dca-90ee-4d8b-983b-734207cfbee2",
+            "sloID": "9",
+            "title": "Engels",
+            "lpib_vakkern_id": [
+                "7427a6d7-678b-4dc4-a977-618c81072e85",
+                "18b4d6fc-c032-4d07-9bc8-7ff85691d719",
+                "256fbcbc-cc70-4694-a216-974abdeb6063",
+                "9bf68d75-4270-47ee-8aa2-0087defd1767",
+                "f60c14af-2b8b-425d-9aec-fbbd5aa04933",
+                "1a4f280a-d3d9-4d88-9d53-f7056e766194"
+            ]
+        },
+        {
+            "id": "15292864-cba8-4af5-90ef-da51cb2d22e1",
+            "sloID": "10",
+            "title": "Filosofie",
+            "lpib_vakkern_id": [
+                "826d3765-668f-4759-a470-a4bf0f475f71",
+                "7d37a831-6250-4fc5-886f-8cbd39af74c5",
+                "ed55a6c7-88cf-4aa9-b31b-d7dc24ec8308",
+                "c33e4030-f47a-465c-92ad-c0cf87176d27",
+                "c3b401a0-7256-454c-b400-3e9eb97c28d2"
+            ]
+        },
+        {
+            "id": "f851676e-b541-42db-986a-5c468974f65e",
+            "sloID": "11",
+            "title": "Frans",
+            "lpib_vakkern_id": [
+                "71300446-16ee-4958-b8fc-0d79073d2c21",
+                "4bc5655c-f85c-4b18-8f5e-03d0d25c9291",
+                "02adbf49-11e1-499d-87c1-315eb5ad0e56",
+                "b8e9876e-ed25-4c96-a676-e247eb6395f8",
+                "17bd7545-5834-4d39-be2f-58f8363639de"
+            ]
+        },
+        {
+            "id": "eaabd632-abdd-499d-9d72-cdfaa4bff2eb",
+            "sloID": "12",
+            "title": "Friese taal",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "58fe0010-9685-4dae-ba70-2e47d94ad844",
+            "sloID": "47",
+            "title": "Fysische geografie",
+            "lpib_vakkern_id": [
+                "1724a10d-1152-4317-b261-ab69b6d23df0"
+            ]
+        },
+        {
+            "id": "1c445505-16f2-4d3f-b6cf-8623ca317140",
+            "sloID": "13",
+            "title": "Geschiedenis",
+            "lpib_vakkern_id": [
+                "f283b770-cbf2-45d6-920f-5033edf43c05",
+                "c76a6e48-510d-4c79-bac3-61bc40f12a45",
+                "446e556f-4fc5-41c5-a958-f01d1433bba5",
+                "01650f76-5639-406c-88c5-b0cae31af947",
+                "e79074aa-b358-4c1f-8c49-80e4a0f184a2",
+                "6e30481c-29ee-42fd-b648-53727a31006e",
+                "1fbb3e2d-ce3a-4431-b17c-73bb6dbd69e7",
+                "a1bf24c3-01f8-4dbf-bb64-035fe2ae1563",
+                "4b03c9da-dfc8-4136-998a-0aa4a97dc574",
+                "7895e64e-44b6-41be-8a3d-f77c68dd742e",
+                "98c50995-986f-4e92-8eb6-20ed2fe6eb76",
+                "8468158a-c55d-47a0-95d0-94f3cd0b67ac",
+                "7a89fa90-ff5a-4132-849a-c69d6c6f3733",
+                "d0db684d-4947-4411-9066-bc6776931ead",
+                "b0e5da60-4d73-4873-b92a-7c70e975cf14",
+                "8b8241a7-1547-46b6-bffa-3d0281753398",
+                "865cb3ea-1de4-4fbc-9cd5-873a8f91cd6e",
+                "880dde81-63eb-4c01-a8fc-6a2547fa0439"
+            ]
+        },
+        {
+            "id": "797f5fdf-8e35-43e9-b290-772c84f1761e",
+            "sloID": "54",
+            "title": "Grieks",
+            "lpib_vakkern_id": [
+                "2fff3a46-e739-4185-8574-f34b780bfbbb",
+                "b98076b8-3028-41f0-aae9-e3d9a9fd400a",
+                "42870bb5-cb63-4b39-b594-bf393dec8446",
+                "59faf600-6d62-4803-9de8-3612cf77fcd5",
+                "35bbd5a7-1b35-42b1-86f8-14ca358eb782",
+                "bedc0a03-2279-4565-8bee-23d1c0208681",
+                "addcccc8-bc38-447a-9732-e5f6d2338d82",
+                "626487cd-8668-46a6-9663-96d8806aec98",
+                "987d5b7a-76e3-4dbf-bc54-e21b2b0d1ea9"
+            ]
+        },
+        {
+            "id": "c17db255-88b0-450b-bf3f-235ad7eaf65f",
+            "sloID": "62",
+            "title": "Groen",
+            "lpib_vakkern_id": [
+                "2d5440a9-340e-4b22-b712-cde98457b989",
+                "e76efe71-f320-49ce-8da0-98fe581cb906",
+                "b73aaab6-fe02-431a-bc93-6f2db3a65558",
+                "294bbf47-0ade-47d7-a230-83be4da5a949",
+                "7f0a46aa-0bae-449e-902c-2a2db79785a8",
+                "d2d5bd2a-b7de-4505-a773-3d61e2549ab1",
+                "2b33dd1e-8c01-407b-aeb6-c54739b06867"
+            ]
+        },
+        {
+            "id": "430c341c-d861-4076-bbce-b8adcda81555",
+            "sloID": "63",
+            "title": "Horeca, Bakkerij en Recreatie",
+            "lpib_vakkern_id": [
+                "40f76224-59b0-4033-8788-4fbadc0d329d",
+                "860bc1dc-8e40-4e32-86a1-40c3168b0662",
+                "b9cc573b-20cc-4709-bcc4-08312ef35ba9",
+                "45d37c51-ae10-4df7-86a7-57187f7dcb4e",
+                "1769e931-4dc9-4e75-a9b8-95e4f7d86dd1",
+                "ba88f7ff-4657-474d-9a66-f1d9abf22ce6",
+                "351b3ed3-7b30-4071-bce0-d342976d1353"
+            ]
+        },
+        {
+            "id": "21e34b16-1187-4ebb-967e-ae309993cb58",
+            "sloID": "46",
+            "title": "Kennisbasis natuurwetenschappen en technologie",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "ef872885-1953-4008-9dcc-32281274446a",
+            "sloID": "14",
+            "title": "Klassieke culturele vorming",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e",
+            "sloID": "15",
+            "title": "Kunst en cultuur",
+            "lpib_vakkern_id": [
+                "07089e88-b295-485f-80ee-801266487940",
+                "b1331533-f13b-4db0-b006-071367063cf6",
+                "78ba030e-b2cb-4c89-b342-ae22b88d1b85",
+                "a59e16c3-59f4-4a6e-85d0-ee12f0a69716"
+            ]
+        },
+        {
+            "id": "26ef692c-72ce-481e-ba7a-43d0bef1fc0c",
+            "sloID": "16",
+            "title": "Kunst: algemeen",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd",
+            "sloID": "17",
+            "title": "Kunst: beeldende vorming",
+            "lpib_vakkern_id": [
+                "df1a99c0-23be-457d-96a8-39d8ab3ddfbd",
+                "ae2bcf7b-08c6-45d7-b501-c8dcb6f51f27",
+                "77635153-5140-4225-aeb2-5afbd08e4372",
+                "82ed19f6-d418-467b-8642-b6dded97fa29"
+            ]
+        },
+        {
+            "id": "fbf18b56-2d01-4fc0-975d-af7122af4052",
+            "sloID": "18",
+            "title": "Kunst: dans",
+            "lpib_vakkern_id": [
+                "7cd97728-84dd-42aa-a5ac-fdc4544a6272",
+                "c872f8cd-6702-44c6-a895-4cad3bac3156",
+                "f4fb416c-b350-4001-a4e4-b9289ab55212",
+                "135c6dfe-4caa-48aa-b402-c7e8f2a13020"
+            ]
+        },
+        {
+            "id": "b63165ce-21a3-45d5-8b89-83d48f980cfb",
+            "sloID": "19",
+            "title": "Kunst: drama",
+            "lpib_vakkern_id": [
+                "5eb5802e-f5e4-43a9-ba5c-6cb85a1f9512",
+                "9a8c5036-4d83-49eb-8df6-1a827b919c99",
+                "faaca156-af80-470c-b351-66a86d10d1b7",
+                "eca9e066-a3a0-4fa3-81cd-394ff7456c85"
+            ]
+        },
+        {
+            "id": "aa9da88c-189f-4857-b067-7cbdc929c905",
+            "sloID": "20",
+            "title": "Kunst: muziek",
+            "lpib_vakkern_id": [
+                "14620c92-17d8-4be4-b851-bf2f80d35c88",
+                "fb15a075-2543-43c5-9787-3d9bbe34eea3",
+                "196a7410-0c8d-474c-9ab2-be8a66fd7a85",
+                "141d7f7d-187a-4318-b318-4e299fba41aa",
+                "12d774dd-f581-4fe5-885c-10c585f3547e"
+            ]
+        },
+        {
+            "id": "29a8bd9f-2963-4070-84d8-c06075ca0ae1",
+            "sloID": "51",
+            "title": "Kunstvakken 1: Culturele Kunstzinnige Vorming",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9",
+            "sloID": "21",
+            "title": "Kunstzinnige ori\u00ebntatie",
+            "lpib_vakkern_id": [
+                "6affac30-71d9-41be-8223-5fb51d05aa9f",
+                "dddcf8fe-77e3-43fc-8e0e-5f894ad4ac3c",
+                "0cd80f19-1795-4233-8bf7-b6a706fd851e",
+                "4b96c375-2d86-4d4e-ad30-d11d8f6da36c"
+            ]
+        },
+        {
+            "id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
+            "sloID": "53",
+            "title": "Latijn",
+            "lpib_vakkern_id": [
+                "220153f5-f9c7-4d63-b9a0-d44989c0513f",
+                "011d022a-acaf-485f-abbf-2e59b3c0f94c",
+                "c12fdf60-20a7-4666-90ae-7557f66424d0",
+                "7cd4d8ff-82be-4a4b-b1e4-770516c5ceaa",
+                "1b19c347-398a-497d-b8b0-0365d420d0ea",
+                "f2c19594-2acc-4a51-8109-20eac7f136b2",
+                "115a47dd-b8b6-4bf3-a404-66eab48da8ec",
+                "edd68785-7124-4de0-bf66-9d964704ff02"
+            ]
+        },
+        {
+            "id": "4c78ac37-1937-4cc4-86e4-aa3192ef44db",
+            "sloID": "22",
+            "title": "Lichamelijke opvoeding",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "53b729cd-f9de-4de2-822b-8736225e9406",
+            "sloID": "23",
+            "title": "Lichamelijke opvoeding 1",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "efac65df-e5e1-40b5-bb46-ed4ea8f378fd",
+            "sloID": "24",
+            "title": "Lichamelijke opvoeding 2",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "b4459aa1-0dbb-409d-a675-8ca914234028",
+            "sloID": "27",
+            "title": "Maatschappijkunde",
+            "lpib_vakkern_id": [
+                "cadc1b2c-bc73-4700-a4e7-8d985b640c01",
+                "92735469-e696-4633-b930-4d99dc8ad86c",
+                "111be74f-e6e4-4dd2-999d-a496b433d36a",
+                "a498c991-fd28-4933-a53c-9f96d7f28cbd",
+                "c7906e60-6e7b-4be8-ba61-997a41860d3d"
+            ]
+        },
+        {
+            "id": "ef5159b3-ead9-4a86-9324-e80cd867856c",
+            "sloID": "25",
+            "title": "Maatschappijleer",
+            "lpib_vakkern_id": [
+                "7682e990-7245-45c2-89d1-83b431b3743c",
+                "598c4574-5a08-4473-b3b6-e45df89f210e",
+                "123d6698-7e1d-40d9-b219-eb0068e53db1"
+            ]
+        },
+        {
+            "id": "c960fcb7-2c47-4822-88a3-68822f031c40",
+            "sloID": "26",
+            "title": "Maatschappijleer",
+            "lpib_vakkern_id": [
+                "9e3f5dfa-b81e-48f4-aefe-22bdce581481",
+                "21cf83b4-ac81-4d66-b272-92659004a5d5",
+                "0898ad98-f70a-4f25-a9a3-a11422140952",
+                "9fda2c80-6727-43cb-b7cb-974efc7a08f2"
+            ]
+        },
+        {
+            "id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb",
+            "sloID": "28",
+            "title": "Maatschappijwetenschappen",
+            "lpib_vakkern_id": [
+                "d873781f-8309-4bf2-a432-aae5b44c7eac",
+                "59c3a146-b829-473f-9f35-3ee7b1530a50",
+                "deb18f72-cae3-4ffb-9380-3a8ba2b13a7a",
+                "309f4ea4-d987-48a4-8aaa-b446e3dd0b7f",
+                "ef712b1f-a5b4-4671-8de7-03d789168697",
+                "cb0fd542-c990-4cb4-8372-042944c80963"
+            ]
+        },
+        {
+            "id": "8413a8ee-e0e3-4d85-ad62-f869c001ac3b",
+            "sloID": "29",
+            "title": "Management en organisatie",
+            "lpib_vakkern_id": [
+                "233414bc-ea75-42ca-ae10-86f977ce059c",
+                "87950611-ffc3-4bd4-8b95-682498ed6025",
+                "67c1fa5c-26b1-4b88-878a-4f429b6e0852",
+                "9518593c-9a3d-4c47-83de-c9d0eb5d71a5",
+                "78b4c57b-e807-4ff6-b29b-4fce1ce5acd5",
+                "41df4043-9ba9-4a03-bf59-19f7b936b0b3"
+            ]
+        },
+        {
+            "id": "36b0661f-9ec6-4b0d-b8b8-8a983eb536d5",
+            "sloID": "58",
+            "title": "Maritiem en Techniek",
+            "lpib_vakkern_id": [
+                "dc4da797-abe7-49a6-8111-62ffc4685d35",
+                "377af2a9-4cb1-4178-988d-5c3fa7cb8d3a",
+                "0f6c24e3-9dc3-4293-a6a7-f45663915ef8",
+                "43dea6d3-ae1a-4d19-b2ab-c5db0e65e0b5",
+                "71078d96-0cad-409a-adff-f2eecf09fd4e",
+                "42e39944-f2b4-45d5-b30c-44dc3310cda0",
+                "84582908-21ae-4623-853f-c01c4602a7d7"
+            ]
+        },
+        {
+            "id": "f4848ad5-47b5-4539-8d50-437d15385368",
+            "sloID": "64",
+            "title": "Media, Vormgeving en ICT",
+            "lpib_vakkern_id": [
+                "bbd47460-a34e-4d6c-89c2-dfc31d049333",
+                "0c38a3d5-8704-4a53-9743-c96fa881af0a",
+                "8198f844-e5b8-4738-85b8-d3e739309bcb",
+                "31f9e8ab-bd8a-4b89-b55a-3f48058f3192",
+                "34bebd1a-68b9-418e-82c5-877a16bdc556",
+                "28e6f73e-0cb7-425e-a5e6-175121946008",
+                "1a373a1d-9182-4720-bf17-e702455adb3e"
+            ]
+        },
+        {
+            "id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0",
+            "sloID": "30",
+            "title": "Mens en maatschappij",
+            "lpib_vakkern_id": [
+                "afa2da76-e235-4231-9177-dddf728329e1",
+                "d2bef12a-48da-42bb-bda8-b69085a007da",
+                "a457d0d4-0df6-4eb9-b067-804f584f5c83",
+                "007027df-a494-4a33-a8f4-80883b262513",
+                "c90627c2-6e89-4fc1-87e1-9fbf48d33bfe",
+                "04bd722a-982a-45a5-adfc-ad622fe48886",
+                "e2c2ca01-1544-4095-9281-4e35e87f063b",
+                "f7d7b4a7-f4b7-4cde-b3b5-10c076297a90",
+                "01e7d179-aee7-4079-b90f-e1de47393307",
+                "c975a7a6-1e59-4de4-b250-e37268a3fe13",
+                "de4f324d-70e2-4ca9-87b9-13cfebe49abb",
+                "f22a42c9-33df-49aa-aebd-d91b4d8ae984",
+                "674f3d39-4b03-4c3d-84dd-236e7eb8b270",
+                "af3b47e3-a390-41c6-b0a9-89ed27373314",
+                "6c6b6180-d664-46c5-aa02-3e0f79e7f227"
+            ]
+        },
+        {
+            "id": "2795bfff-8566-4e69-b70c-12efba965dc8",
+            "sloID": "31",
+            "title": "Mens en natuur",
+            "lpib_vakkern_id": [
+                "7ff6005d-f782-44a6-bcb3-7c610b06a13a",
+                "cd92cbdf-ea00-49f3-b0b9-b829703866b5",
+                "49362cb8-2b4b-4102-828e-488e81be4a41",
+                "e390e388-c3eb-4e20-83a1-2a7b79ff8343",
+                "c92abc05-537b-49cc-bd16-8e4b0fc323f2",
+                "b71c3c36-1d12-4d1b-8f65-25c112342415",
+                "a8f153bb-42d9-4665-a00b-eba2711e4d32",
+                "4396f95d-f771-444f-a600-6b12a4ace528",
+                "a74c56f7-d26f-4b97-b599-3044a3a6418a",
+                "0ff9e18a-6157-4bac-80ff-e4f9c8a726c3",
+                "453edc81-0a89-4c22-86d9-fd4a3640ec29",
+                "82c004f8-2a05-45f7-b52c-87c336962110",
+                "10c2b874-d067-48b2-b253-1ac155b8f485",
+                "32d3f21a-da6a-47a0-9b86-2f9831559ccf",
+                "f70d9d3a-5374-480b-9442-98eea3993e2b",
+                "b2391bdc-aab9-4739-bdbf-01ff9e0189db",
+                "62ad3a72-491f-4bb0-b7e0-4bc74a3e6514",
+                "ae8e47c7-5ad9-4ead-8a32-aa57d40ecb10",
+                "2162d9fc-3043-42a1-976b-ad6fae650ea3",
+                "f9264c4e-27e6-406d-ad62-13bd235a9f8b",
+                "4de21626-8e8a-492f-bb97-3a9a4345b15c"
+            ]
+        },
+        {
+            "id": "aa197275-236f-451e-85be-ed0902848f08",
+            "sloID": "65",
+            "title": "Mobiliteit en Transport",
+            "lpib_vakkern_id": [
+                "a240137d-665a-4e03-84ff-46d2f5fb584b",
+                "29b81129-37cb-410d-98c4-730dca16869b",
+                "dc8057b0-f3ba-48a0-9cb0-191bb47fd86c",
+                "9b1b27b5-6505-456c-9868-207e8f14257a",
+                "3276402a-d121-49d6-92b8-05b96694b802",
+                "c5c6c136-2d81-4482-9337-f3ce4eaaf671",
+                "cd368f01-bcf5-4c3b-9191-05747e44d894"
+            ]
+        },
+        {
+            "id": "11aef2d5-ae09-49c8-9485-e7b93e3f9fda",
+            "sloID": "52",
+            "title": "MVT",
+            "lpib_vakkern_id": [
+                "b48f127e-b6c4-4e4d-bfaf-009d63789361"
+            ]
+        },
+        {
+            "id": "b362c478-90c9-45ac-855a-79421d23ed07",
+            "sloID": "32",
+            "title": "Nask1",
+            "lpib_vakkern_id": [
+                "b5c8a5f9-47cf-4546-8c20-474ff0cf340d",
+                "e162e77e-7a1c-4045-8e91-b03325eb47ce",
+                "b1249e0e-33a6-49cc-9afe-a584f81df6ba",
+                "6caf582d-6b5e-48fb-9b89-d7a2b99bac5d",
+                "a2e75d11-1608-4122-b080-c687b9ffc208",
+                "d2cb98f4-9f9b-431b-a39d-96ba9422dfc2"
+            ]
+        },
+        {
+            "id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461",
+            "sloID": "33",
+            "title": "Nask2",
+            "lpib_vakkern_id": [
+                "b01acef9-436e-40ab-940a-7984363fd307",
+                "cc95c860-4e07-4fb5-9e1f-d9ab05802699",
+                "0f96c277-f3bf-4f6c-a526-21072e408192",
+                "edce0530-5a59-466e-beb8-c15ba13c7fb7",
+                "dd7cb510-a181-4a6a-b100-15de969af3e5",
+                "89c425d5-605d-4df8-a1a4-7e870e55649c",
+                "d20f7632-a8e8-4ac3-ba81-a8bca16507bf",
+                "33e606c4-5386-4781-9e04-0d92eae38244",
+                "419e9f2f-7f0f-49d1-a05a-84243d1c6257"
+            ]
+        },
+        {
+            "id": "956d0d86-90f3-443b-a418-52fd9b912661",
+            "sloID": "34",
+            "title": "Natuur, leven en technologie",
+            "lpib_vakkern_id": [
+                "75e1a0a4-b743-440e-a32e-cdd0b8f78648",
+                "ddcb8d79-cdc8-4f5a-8789-3ca29bbdcc6c",
+                "98f1c9c6-543b-4dd5-af41-2613248ff708",
+                "76130125-e591-42be-a06e-ca7f7def1fea",
+                "cb9731b7-5221-4984-ba0a-c69f95a65cb4",
+                "52a367e3-b04b-4bbd-8287-f3c8c6e65134"
+            ]
+        },
+        {
+            "id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8",
+            "sloID": "35",
+            "title": "Natuurkunde",
+            "lpib_vakkern_id": [
+                "25f859f3-dcc5-41f4-aeca-38e56eef17e5",
+                "fe9fde20-3f62-481e-a6c2-0e69d28a6eb4",
+                "0a47ec81-5636-435d-8646-35dc517932ad",
+                "f0b276d0-4c20-4cfc-b875-0385f332f699",
+                "be811eac-f168-4c9a-bfe9-b82c44b89dd1",
+                "aa839358-7f3d-4bd1-9f23-40c6a7d49da1",
+                "38521e92-5372-4f44-b1fa-32411570869c",
+                "3d463c11-2c58-4aec-86c8-ba25bf03d0fd",
+                "9b332842-8906-47bd-b2cb-0218c75192a2",
+                "b33bfa70-f130-415b-8d65-dc5ae3959598",
+                "830a70ae-d543-4ce9-9577-0450e254cf7d",
+                "82187447-5392-433b-940d-fd49f6f8d669",
+                "6bfb5344-c28f-4fe3-81f6-04d4dd3d58be"
+            ]
+        },
+        {
+            "id": "96b622d6-264d-4f7a-9875-681ded824e21",
+            "sloID": "36",
+            "title": "Nederlands",
+            "lpib_vakkern_id": [
+                "a4d8079e-d007-4033-9da8-d8345065e3ab",
+                "271dc5dd-ed9c-420e-a401-374684a0e646",
+                "4580f099-c3cb-4520-beba-cccdb92cc32c",
+                "239d5303-1bbd-4a9d-9aee-b35301f57121",
+                "6077e507-a882-4692-b0f1-3d34857a0d3e"
+            ]
+        },
+        {
+            "id": "86be4684-a214-432b-9622-dd97491e6ce2",
+            "sloID": "37",
+            "title": "Ori\u00ebntatie op jezelf en de wereld",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "b8f15528-dedb-4db8-81ee-c820da8453bc",
+            "sloID": "66",
+            "title": "Produceren, Installeren en Energie",
+            "lpib_vakkern_id": [
+                "e99f1a6c-b8d3-436a-9ce3-6d57cdf07bd9",
+                "d103a74c-750e-4522-9d3e-dd7709a5518c",
+                "4c86fb4e-6f6c-4ed4-b4a0-ebbe7b657bcb",
+                "87c7b213-4495-4028-84b2-8184592b49fc",
+                "c4c5839b-44b6-4464-b776-631e684a62e3",
+                "d5e55c37-9894-44cc-be37-a93f852b28ab",
+                "8d39b484-7ed6-49c0-ba50-0476c266555c"
+            ]
+        },
+        {
+            "id": "d8384a70-755e-4fb8-b4e8-424f617caa89",
+            "sloID": "38",
+            "title": "Rekenen en wiskunde",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
+            "sloID": "39",
+            "title": "Scheikunde",
+            "lpib_vakkern_id": [
+                "5b545ebf-f228-433d-ae18-49bc512d97cd",
+                "8faaa90f-8620-4458-815d-ef038dc1e7d3",
+                "99c06a9b-fce9-4f6e-ac03-aad707ba66dd",
+                "bd9f2840-e9ba-4b03-84ad-51aeb63ca601",
+                "b13a4699-92d5-4394-9d59-871abde90abc",
+                "98e08439-bbd6-4a91-87a3-010a10a2ba03",
+                "f675281a-8f1f-4263-b783-281685f15685",
+                "39d7b775-88ef-4e20-bee5-b3a160d022a9",
+                "66debcbb-a043-475f-b904-474fbb4970a0",
+                "481c144f-7d82-492d-be54-b67b4cf54d4d",
+                "90d2e1b2-1c2f-4281-9e1b-31281774de3c",
+                "8635a166-23c5-435d-8f12-d27d0f565d94",
+                "283b005e-0bd2-442a-bd32-55c466f52f73"
+            ]
+        },
+        {
+            "id": "73abc618-988a-4409-b2ae-ff16febf68ee",
+            "sloID": "40",
+            "title": "Spaans",
+            "lpib_vakkern_id": [
+                "59a9a734-25df-46c0-97aa-d683cd97a03f",
+                "51c6d025-6757-401d-9248-cc8bea96a144",
+                "6c106c77-14c1-4c7b-a111-59540a5ca327",
+                "ca929c5d-6644-46ac-8217-a5ee298406d1",
+                "4c037ea4-2640-46c9-97fd-293d37aa2c92"
+            ]
+        },
+        {
+            "id": "70d7c26b-9e49-481a-b40b-188e2d538943",
+            "sloID": "48",
+            "title": "Technologie",
+            "lpib_vakkern_id": [
+                "9e95f81f-f65b-45a4-bb4c-83e619d04522"
+            ]
+        },
+        {
+            "id": "107fbf5f-475d-40b9-a9bc-08c9b6e38182",
+            "sloID": "49",
+            "title": "Tekenen, handvaardigheid en textiele vormgeving",
+            "lpib_vakkern_id": []
+        },
+        {
+            "id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13",
+            "sloID": "41",
+            "title": "Wiskunde",
+            "lpib_vakkern_id": [
+                "3e524aaa-9c23-4f33-b79d-9e32cf9cad56",
+                "9a79b8fa-e51b-4f8a-9099-24ff0a7437ff",
+                "b2461c76-276e-4d32-ab83-bccbb17e1532",
+                "47c83563-0e48-42db-92da-e9b937a53421",
+                "9695e7e9-ad89-4c08-8784-d4ea3aad9b5e",
+                "ac408e1d-99db-4286-b8c6-583615b7e198",
+                "9caab715-e38c-4d4c-80bd-d94f7f26e306",
+                "3a85224b-ab8e-4168-ab7f-019fc45cfeaf",
+                "73139ddf-94de-44bc-9424-1c653f463173",
+                "8f868bad-91e3-4c9b-a716-e2b7b78c0196",
+                "44fe4fb8-bf4a-4ea1-a4bb-6fcd778c410d",
+                "aefdd771-208d-40e1-9e09-4cba6dfc406a",
+                "39b37b0c-217a-47ed-89be-25051737e780"
+            ]
+        },
+        {
+            "id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba",
+            "sloID": "42",
+            "title": "Wiskunde A",
+            "lpib_vakkern_id": [
+                "ae04af78-0e74-4856-9de5-01d4d325de64",
+                "52f496a9-f6ce-4822-b9ce-165d8256be3f",
+                "7c8f4928-a65e-48f9-81ca-fc1bc2c7fe2a",
+                "97abf32d-c062-4dc6-b1d3-b15cb6f64874",
+                "a337989c-f3de-429a-9537-fd5daa62098a",
+                "941616c0-5ae2-4f2a-9e88-1ce1d14e7275"
+            ]
+        },
+        {
+            "id": "ccda2b02-3aa8-44bc-adfa-844565c292d0",
+            "sloID": "43",
+            "title": "Wiskunde B",
+            "lpib_vakkern_id": [
+                "66f9ff8e-2bbf-4ab7-a7dd-3a13ac2100cf",
+                "421722e5-319f-49ff-b08c-5d0c81e17967",
+                "ce6456bf-2fe9-4de9-9fc4-932fb36a875a",
+                "86f20a8b-8584-4f3b-bf57-ad1fefcedbef",
+                "88c79dcc-74cf-43fb-84ab-8711f63943ab"
+            ]
+        },
+        {
+            "id": "2573e278-9c8a-4787-bce9-8b7df670d4dd",
+            "sloID": "44",
+            "title": "Wiskunde C",
+            "lpib_vakkern_id": [
+                "2f982e36-af2e-41b9-89cd-70d7c51ed92d",
+                "2421fcdf-4839-4d95-8c40-564f45388b60",
+                "ba6c0d53-c5fc-4447-b56f-970de78ebe4f",
+                "cadc8a72-981d-4009-a930-12685cb46f41",
+                "4fd04386-767b-4883-959f-abd5efe9f16d",
+                "23428d9e-8bdc-411b-88d4-fc80bb4ed52b",
+                "b2b0a114-9e28-4769-9a14-1da57ef66793",
+                "9956fcbe-af76-41ce-a344-de3095487d66"
+            ]
+        },
+        {
+            "id": "6be72775-5689-4aa4-bb5a-38899b174915",
+            "sloID": "45",
+            "title": "Wiskunde D",
+            "lpib_vakkern_id": [
+                "1a9f3564-1b85-4b99-ae7f-f815d0941cc9",
+                "65ab22d5-6406-4b45-9d09-d26d2fa2e6e1",
+                "86f51309-a590-4cd1-9cf2-737cd083a1a8",
+                "25249ccb-5ecf-4f69-b830-17d277e5c3b2",
+                "c5834a3e-ebdc-4821-b799-24caa6403bfd"
+            ]
+        },
+        {
+            "id": "73cef23f-df24-4015-8516-072a13dcd369",
+            "sloID": "67",
+            "title": "Zorg en Welzijn",
+            "lpib_vakkern_id": [
+                "4ed6f351-ef2b-4208-9692-ce6734b400e5",
+                "e3a34409-3de8-42e9-981c-39e97483583c",
+                "92403fee-f16f-40e2-96b5-bc8203598117",
+                "dd2d1dc1-1e5f-4b2f-9ab9-c299e41ecc65",
+                "35a1d7cf-9f9c-4d2c-97b5-a52574bdf408",
+                "73d150de-58f2-40bc-96bd-d9e3ca07206d",
+                "0a8b96f5-752c-4589-b9d1-a7a60ee8dba6"
+            ]
+        }
+    ]
+}

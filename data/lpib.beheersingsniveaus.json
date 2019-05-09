@@ -1,0 +1,424 @@
+{
+    "lpib_beheersingsniveau": [
+        {
+            "id": "13f8ffd0-567e-45d5-b647-7c74e538d75c",
+            "sloID": "67",
+            "description": "so"
+        },
+        {
+            "id": "4a89d91b-8c1a-4424-9b19-f50b335152ab",
+            "sloID": "70",
+            "description": "so zml\/mg"
+        },
+        {
+            "id": "df172cfc-3ea4-4f9f-868c-0bd4e7cb2601",
+            "sloID": "69",
+            "description": "so nl\/ml"
+        },
+        {
+            "id": "79428171-7f51-406f-b780-14323afd6148",
+            "sloID": "1",
+            "description": "po"
+        },
+        {
+            "id": "0289fe21-bfa6-4ec3-bddc-1aeb99132efc",
+            "sloID": "25",
+            "description": "1F"
+        },
+        {
+            "id": "1e212bb5-d476-4e7b-a41f-f76a4182c2b0",
+            "sloID": "75",
+            "description": "ob po"
+        },
+        {
+            "id": "e7d940f9-7cec-4935-941c-0518d9bd4505",
+            "sloID": "83",
+            "description": "Streefdoelen po"
+        },
+        {
+            "id": "51dfc0c0-9620-4c61-9e0e-c9ffd1f834b9",
+            "sloID": "29",
+            "description": "1S"
+        },
+        {
+            "id": "afe49a03-5e2e-4456-b419-9381ccbedd30",
+            "sloID": "76",
+            "description": "mb po"
+        },
+        {
+            "id": "9b82aa12-dea0-4e29-badf-7fa4fbbc4786",
+            "sloID": "33",
+            "description": "A1"
+        },
+        {
+            "id": "055befb3-f14a-40d3-b3d3-64df20ed5e2d",
+            "sloID": "77",
+            "description": "bb po"
+        },
+        {
+            "id": "96b30d29-264e-434c-8dde-2790034b4da2",
+            "sloID": "34",
+            "description": "A2"
+        },
+        {
+            "id": "791eba02-7855-416d-ad0b-f5200ab7aae9",
+            "sloID": "89",
+            "description": "praktijkonderwijs"
+        },
+        {
+            "id": "84090597-7f96-4519-ab33-a6a252bfcd34",
+            "sloID": "68",
+            "description": "vso"
+        },
+        {
+            "id": "f2b1f291-0dc0-4be3-92a8-0ea42ccabd57",
+            "sloID": "71",
+            "description": "vso db"
+        },
+        {
+            "id": "32fd1de6-d88b-4b40-b793-dc1f133a6670",
+            "sloID": "73",
+            "description": "vso am"
+        },
+        {
+            "id": "cbae2c35-92f2-4565-bfbe-8fada2fa1a36",
+            "sloID": "72",
+            "description": "vso vo"
+        },
+        {
+            "id": "ccfee92a-6719-418f-949b-86bed8693609",
+            "sloID": "2",
+            "description": "vo"
+        },
+        {
+            "id": "e4c11a70-4da8-4239-822a-70c37f10c5a1",
+            "sloID": "3",
+            "description": "vmbo"
+        },
+        {
+            "id": "bb4d877b-ae31-4722-b7a9-9890ba328f48",
+            "sloID": "5",
+            "description": "ob vmbo"
+        },
+        {
+            "id": "69006d0a-96b8-451b-9d54-772b81ebf985",
+            "sloID": "6",
+            "description": "ob vmbo bb"
+        },
+        {
+            "id": "8e9bff57-9b69-43da-b7eb-be69b826c0eb",
+            "sloID": "7",
+            "description": "ob vmbo kb"
+        },
+        {
+            "id": "00d95d7c-419d-4b35-aad8-579dc563009f",
+            "sloID": "8",
+            "description": "ob vmbo gl"
+        },
+        {
+            "id": "4eae1d01-edbb-4efb-a610-497a6ed0dc35",
+            "sloID": "9",
+            "description": "ob vmbo tl"
+        },
+        {
+            "id": "4370b83d-5d77-41ff-85a1-f39de0fcc471",
+            "sloID": "10",
+            "description": "ob vmbo bb\/kb"
+        },
+        {
+            "id": "41a012e4-9844-4adb-9b15-79b990be3297",
+            "sloID": "11",
+            "description": "ob vmbo gl\/tl"
+        },
+        {
+            "id": "0d1187ca-a7b3-407f-951c-5541919ea428",
+            "sloID": "39",
+            "description": "ob vmbo kb\/gl\/tl"
+        },
+        {
+            "id": "b8a4d633-d38d-4b77-91a2-db544c0b2670",
+            "sloID": "58",
+            "description": "ob vmbo kb\/gl\/tl fout"
+        },
+        {
+            "id": "98e6f781-341a-4842-9333-f728ddede9ac",
+            "sloID": "66",
+            "description": "ob vmbo basis"
+        },
+        {
+            "id": "d84b673d-2b21-4f03-8076-60a650625c85",
+            "sloID": "64",
+            "description": "ob vmbo vervolg"
+        },
+        {
+            "id": "af298676-dee0-48ee-82c1-616ba927b384",
+            "sloID": "65",
+            "description": "ob vmbo gevorderd"
+        },
+        {
+            "id": "2ea28dcd-9ea2-424b-a2e9-4dc9ead9fd9a",
+            "sloID": "26",
+            "description": "2F"
+        },
+        {
+            "id": "5548b4f2-6ea4-4eb4-8477-3c1c406db6a9",
+            "sloID": "30",
+            "description": "2S"
+        },
+        {
+            "id": "8ea20e53-9f54-4ee0-ab34-70a540419a2b",
+            "sloID": "15",
+            "description": "bb vmbo"
+        },
+        {
+            "id": "07180278-9418-4250-9d26-04a7cfdf3240",
+            "sloID": "16",
+            "description": "bb vmbo bb"
+        },
+        {
+            "id": "e586fbce-9eb2-4dea-87b8-b36e8d0e0655",
+            "sloID": "17",
+            "description": "bb vmbo kb"
+        },
+        {
+            "id": "a97a1b54-18d3-4631-aebc-3557b3cc8a50",
+            "sloID": "18",
+            "description": "bb vmbo gl"
+        },
+        {
+            "id": "550bd0f7-0472-448d-b0db-3550b5c21eb5",
+            "sloID": "19",
+            "description": "bb vmbo tl"
+        },
+        {
+            "id": "9baee92e-2e6c-4f4b-b3d8-eb3027004373",
+            "sloID": "20",
+            "description": "bb vmbo bb\/kb"
+        },
+        {
+            "id": "5b9e6c75-8020-429e-8f21-76fc5906d981",
+            "sloID": "21",
+            "description": "bb vmbo gl\/tl"
+        },
+        {
+            "id": "08381ad8-79ac-4af0-85d5-6c068c9c9bb0",
+            "sloID": "40",
+            "description": "bb vmbo kb\/gl\/tl"
+        },
+        {
+            "id": "9e9f33c3-f818-4e98-88f1-5c5fa849dcf0",
+            "sloID": "4",
+            "description": "havo\/vwo"
+        },
+        {
+            "id": "3d82c9ea-01fb-4997-8ce0-76f67165c69c",
+            "sloID": "12",
+            "description": "ob havo\/vwo"
+        },
+        {
+            "id": "dfc08adf-4b9b-401e-9eab-24ba79313891",
+            "sloID": "41",
+            "description": "ob havo A"
+        },
+        {
+            "id": "efc67d9c-96c9-4a12-8a4f-d01185fdf673",
+            "sloID": "42",
+            "description": "ob havo B\/D"
+        },
+        {
+            "id": "b392edac-f06a-4bc8-a58c-d261574f5bf7",
+            "sloID": "13",
+            "description": "ob havo"
+        },
+        {
+            "id": "82dccbf1-a667-4497-9a40-ef00f810322d",
+            "sloID": "45",
+            "description": "ob havo C"
+        },
+        {
+            "id": "f2a9250c-3d4e-408a-b206-5eef42e42220",
+            "sloID": "47",
+            "description": "ob havo D"
+        },
+        {
+            "id": "e2f1e344-89f3-451e-b2c8-c0ff43535215",
+            "sloID": "63",
+            "description": "ob havo\/vwo basis"
+        },
+        {
+            "id": "ca41dd03-10df-4c80-aedb-94b3e4a79acb",
+            "sloID": "61",
+            "description": "ob havo\/vwo vervolg"
+        },
+        {
+            "id": "175ffcc4-ccb4-4164-8b36-90a7a53ae9a7",
+            "sloID": "62",
+            "description": "ob havo\/vwo gevorderd"
+        },
+        {
+            "id": "b200a864-1fd7-4e6b-a198-13ea0bd03fde",
+            "sloID": "14",
+            "description": "ob vwo"
+        },
+        {
+            "id": "f03ec0fa-9326-45b6-a3c4-22291a1728b5",
+            "sloID": "43",
+            "description": "ob vwo A\/C"
+        },
+        {
+            "id": "b7816922-2bac-4326-a08d-31b7a637e3ac",
+            "sloID": "44",
+            "description": "ob vwo B\/D"
+        },
+        {
+            "id": "76e62953-901b-4418-947f-02c023c23d37",
+            "sloID": "46",
+            "description": "ob vwo D"
+        },
+        {
+            "id": "8e645f97-0b2d-445c-bdc4-fac81726a788",
+            "sloID": "27",
+            "description": "3F"
+        },
+        {
+            "id": "8ab39083-cae7-40c7-91a9-9e3b5e4abcbc",
+            "sloID": "31",
+            "description": "3S"
+        },
+        {
+            "id": "b5bb4b8d-507d-4451-9589-a5ffb07c3204",
+            "sloID": "22",
+            "description": "bb havo\/vwo"
+        },
+        {
+            "id": "4e74e05d-17fc-4b27-9709-9b16e09b2d38",
+            "sloID": "23",
+            "description": "bb havo"
+        },
+        {
+            "id": "86869d86-6971-4beb-8c21-f40162f9ae42",
+            "sloID": "51",
+            "description": "bb havo A"
+        },
+        {
+            "id": "27f077c2-e1ba-42c9-9255-b2dac84ba119",
+            "sloID": "52",
+            "description": "bb havo B"
+        },
+        {
+            "id": "8d888d76-7fd1-4867-a495-7731a0f65d12",
+            "sloID": "55",
+            "description": "bb havo C"
+        },
+        {
+            "id": "76de0693-c118-4e31-956c-5fa37d61fdcb",
+            "sloID": "57",
+            "description": "bb havo D"
+        },
+        {
+            "id": "886a8fb6-9185-4eb5-818f-197ce283a567",
+            "sloID": "24",
+            "description": "bb vwo"
+        },
+        {
+            "id": "190de97c-4d39-40a1-99e9-1c90cd33eb7c",
+            "sloID": "28",
+            "description": "4F"
+        },
+        {
+            "id": "1ad08efd-0749-4b33-a82e-49c75277f7ce",
+            "sloID": "32",
+            "description": "4S"
+        },
+        {
+            "id": "de9856a7-9ee7-48cd-8ccd-319a291b08a0",
+            "sloID": "53",
+            "description": "bb vwo A"
+        },
+        {
+            "id": "416eb76b-4a0a-40d9-b953-365af80be95d",
+            "sloID": "54",
+            "description": "bb vwo B"
+        },
+        {
+            "id": "352da34a-8c02-45c4-9648-3548b01267ea",
+            "sloID": "59",
+            "description": "bb vwo C"
+        },
+        {
+            "id": "44f980d1-eed1-4cb2-8337-e6e73c21b42f",
+            "sloID": "56",
+            "description": "bb vwo D"
+        },
+        {
+            "id": "63b2b48a-ae2f-4ebf-a719-b283e22e1fe5",
+            "sloID": "35",
+            "description": "B1"
+        },
+        {
+            "id": "56717a1d-299d-4dc1-8aa6-a057128bbb16",
+            "sloID": "36",
+            "description": "B2"
+        },
+        {
+            "id": "5c9ea389-5668-4072-b477-d470ff485f3f",
+            "sloID": "37",
+            "description": "C1"
+        },
+        {
+            "id": "2c9c0c33-c275-4002-b595-3f8cb34bb64a",
+            "sloID": "38",
+            "description": "C2"
+        },
+        {
+            "id": "24ac8725-45e5-4cfb-be49-1f6b33b0b357",
+            "sloID": "79",
+            "description": "Groep 1-2"
+        },
+        {
+            "id": "d9e28947-90d1-4cb7-9a24-13ea4a0aabc6",
+            "sloID": "84",
+            "description": "Fase 1"
+        },
+        {
+            "id": "84212e16-b7de-4082-85a5-c7cce3125cc0",
+            "sloID": "80",
+            "description": "Groep 3-4"
+        },
+        {
+            "id": "2dbef63b-9d75-44aa-8f75-e67a819980c5",
+            "sloID": "85",
+            "description": "Fase 2"
+        },
+        {
+            "id": "1c222a37-57e8-40a3-949d-514200b379cc",
+            "sloID": "81",
+            "description": "Groep 5-6"
+        },
+        {
+            "id": "2142e315-659e-4bc3-a235-63733fcdcd6a",
+            "sloID": "86",
+            "description": "Fase 3"
+        },
+        {
+            "id": "8a3c6c50-3bac-41cc-818e-043e8c84a9b4",
+            "sloID": "82",
+            "description": "Groep 7-8"
+        },
+        {
+            "id": "0600cc0c-8c55-4de3-b76f-298571d2363d",
+            "sloID": "87",
+            "description": "Fase 4"
+        },
+        {
+            "id": "98d17528-6e76-4672-9bb1-d043e4038d3b",
+            "sloID": "88",
+            "description": "Fase 5"
+        },
+        {
+            "id": "184e6885-12ff-4f98-a484-39e6c543399f",
+            "sloID": "78",
+            "description": "Overstijgend"
+        }
+    ]
+}
