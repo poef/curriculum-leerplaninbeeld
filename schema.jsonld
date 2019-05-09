@@ -20,7 +20,7 @@
 		"lpib_inhoud_id": {
 			"@container": "@set"
 		},
-		"lpib_leerdoel_id": {
+		"lpib_doelniveau_id": {
 			"@container": "@set"
 		},
 		"lpib_leereenheid_id": {
@@ -35,7 +35,7 @@
 		"lpib_opleidingsniveau_id": {
 			"@container": "@set"
 		},
-		"lpib_beheersingsniveau_id": {
+		"lpib_niveau_id": {
 			"@container": "@set"
 		},
 
@@ -60,8 +60,8 @@
 		"lpib_doel": {
 			"@id": "leerplaninbeeld:#lpib_doel"
 		},
-		"lpib_leerdoel": {
-			"@id": "leerplaninbeeld:#lpib_leerdoel"
+		"lpib_doelniveau": {
+			"@id": "leerplaninbeeld:#lpib_doelniveau"
 		},
 		"lpib_leereeneheid": {
 			"@id": "leerplaninbeeld:#lpib_leereenheid"
@@ -69,8 +69,8 @@
 		"lpib_opleidingsniveau": {
 			"@id": "leerplaninbeeld:#lpib_opleidingsniveau"
 		},
-		"lpib_beheersingsniveau": {
-			"@id": "leerplaninbeeld:#lpib_beheersingsniveau"
+		"lpib_niveau": {
+			"@id": "leerplaninbeeld:#lpib_niveau"
 		},
 		"lpib_bouw": {
 			"@id": "leerplaninbeeld:#lpib_bouw"
