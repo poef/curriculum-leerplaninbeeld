@@ -55,7 +55,7 @@
                         "required": ["lpib_vaksubkern_id"]
                     },
                     {
-                        "required": ["lpib_vakinhoud_id"]
+                        "required": ["lpib_inhoud_id"]
                     }
                 ]
             }
@@ -103,7 +103,7 @@
                         "required": ["lpib_vaksubkern_id"]
                     },
                     {
-                        "required": ["lpib_vakinhoud_id"]
+                        "required": ["lpib_inhoud_id"]
                     }
                 ]
             }
@@ -136,7 +136,7 @@
                         "required": ["lpib_vaksubkern_id"]
                     },
                     {
-                        "required": ["lpib_vakinhoud_id"]
+                        "required": ["lpib_inhoud_id"]
                     }
                 ]
             }
@@ -181,7 +181,7 @@
                         "required": ["lpib_vakkern_id"]
                     },
                     {
-                        "required": ["lpib_vakinhoud_id"]
+                        "required": ["lpib_inhoud_id"]
                     }
                 ]
             }
@@ -375,7 +375,7 @@
             "#file": "data/lpib.inhouden.json",
             "type": "array",
             "items": {
-                "$ref": "#/definitions/lpib_vakinhoud"
+                "$ref": "#/definitions/lpib_inhoud"
             }
         },
         "lpib_niveau": {
