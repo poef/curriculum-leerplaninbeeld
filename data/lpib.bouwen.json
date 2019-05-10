@@ -1,255 +1,253 @@
-{
-    "lpib_bouw": [
-        {
-            "id": "a3b4d556-0885-452a-bec1-5754db601a68",
-            "sloID": "67",
-            "title": "so",
-            "lpib_opleidingsniveau_id": [
-                "ebc1da0a-b259-480c-ad09-a225c5e5003a"
-            ]
-        },
-        {
-            "id": "3753c1d3-a39d-4b56-97c4-1fc8beaa0e36",
-            "sloID": "70",
-            "title": "so zml\/mg",
-            "lpib_opleidingsniveau_id": [
-                "e295007b-4036-40e3-9f1a-c9362cefca38"
-            ]
-        },
-        {
-            "id": "228348f1-9f73-4cdd-a83f-4a56554d8290",
-            "sloID": "69",
-            "title": "so nl\/ml",
-            "lpib_opleidingsniveau_id": [
-                "3df929f0-e971-4fb2-b50d-116a6128a212"
-            ]
-        },
-        {
-            "id": "f98304da-a04d-44c6-9d25-320a22b3bc54",
-            "sloID": "1",
-            "title": "po",
-            "lpib_opleidingsniveau_id": [
-                "e13f6722-d7ae-4b4c-8066-e40c4f982fc6",
-                "dd30b01b-b3e6-4067-95c1-448a688a1af0",
-                "e94fd50f-0a06-47c0-956a-6fd8a8ae0e0e",
-                "343798eb-28e8-4398-8b34-13195b27c506",
-                "a9a7b23c-ea5d-4073-960d-26e3da8910bd",
-                "72646dfb-4767-40df-919f-22fac0470485",
-                "6d7534a3-4dee-4a03-b9a4-5e479b099393",
-                "01b37229-7e8f-499c-9d3b-aa5cd4bb1303",
-                "749fef9b-5ee8-47dd-9518-f7216e8e75b5",
-                "41846218-1cea-47d3-ab7a-5465518b7d61",
-                "43522356-796c-4e19-9e48-41316826441a",
-                "c02cd134-bc80-47ee-a55d-f6520fa95fac",
-                "092179bc-4b70-4bf8-9b29-98cb6ff4529b",
-                "d461404a-0531-4d74-8798-07457b3a09d7",
-                "b70ad146-ef8a-4eac-96a7-cb7fcd3eac78",
-                "31c47da2-f3bf-4e92-bd37-b60612a8403f",
-                "b11f36f5-758d-45e3-a441-e9aeeda670f7"
-            ]
-        },
-        {
-            "id": "88312bf0-d902-4e68-a9c1-c6644e19ffc3",
-            "sloID": "78",
-            "title": "Overstijgend",
-            "lpib_opleidingsniveau_id": [
-                "dd30b01b-b3e6-4067-95c1-448a688a1af0",
-                "e94fd50f-0a06-47c0-956a-6fd8a8ae0e0e",
-                "a9a7b23c-ea5d-4073-960d-26e3da8910bd",
-                "72646dfb-4767-40df-919f-22fac0470485",
-                "6d7534a3-4dee-4a03-b9a4-5e479b099393",
-                "01b37229-7e8f-499c-9d3b-aa5cd4bb1303",
-                "25ecef58-5960-4079-9205-625239a0aa3d",
-                "2dc68d81-0510-48e9-8605-4a6f6e93f674",
-                "6d282c36-5acc-48fc-bb5d-f207a2ba9d3c",
-                "99c545fb-3e8b-44bf-b3a9-5094a818db48",
-                "714aa50c-c35d-4119-8e72-2dc84e8fe75b",
-                "b50886ec-864c-42dc-9ead-6e722a46127b",
-                "7f68bd20-e517-4ac8-bbe1-061f05670e67",
-                "a0944d08-d360-48ac-983f-09870664ee35",
-                "e0e9dc8a-b768-43b1-a348-95cebc5c8b78",
-                "5698caab-e955-4892-8d41-0a668f5c2192",
-                "1f04c53b-b6ab-4847-bfd1-9b4a1612d85f",
-                "c5b4b4c1-1e61-4e5b-be6e-639bd90758e3",
-                "4f56e7c1-c160-4ee8-b14b-f498fcff40b8",
-                "64761dfc-ce50-4c63-9591-83a9c437cc48",
-                "4a67c82f-5ab1-4037-a3d0-5442eec0c1d9",
-                "938daf50-0743-4a55-99a2-8a8125027ae6",
-                "d5dde6d5-6b3e-4ba2-a826-b9350017d9d7",
-                "b7520c71-ee2c-4fd9-aaf2-ef4889d16f4c",
-                "cce3d2cf-b5c3-4125-a4c5-d40f8b2eb852",
-                "fc26bc19-c77a-4c66-aead-884f39f320f7",
-                "4010baf3-60f2-46f3-9fa5-65dd9c3b23de",
-                "056c331a-5dba-4f04-a9f1-4f574fa8af6b",
-                "51964aaf-7ced-4e5c-9cb1-a63eb1a19695",
-                "af9476cc-f178-4fa1-aecf-7b69233368cf",
-                "02d98421-195c-4a6d-be22-2569b02b88a1",
-                "90599c91-9ae0-401c-be5b-5784849e0781",
-                "36253ef0-0534-4171-a771-6fb6485b787e",
-                "1ae61373-ee93-4620-8a73-b58cfc4daf1b",
-                "e8c5eb52-1fc2-4069-b346-d36a63f5c3f8",
-                "b99dff88-055d-46d2-a678-3873dddbfd02",
-                "0e730ecf-ab5a-42dd-bb50-51b5276a3e37",
-                "73ea2fdc-2343-4183-a922-29ca1324f228",
-                "bca3251d-78fc-43fd-b291-46730efa17a0",
-                "9552f994-abf3-4ac5-9053-b4d56b3d25be",
-                "1e333858-d617-4195-b29a-10824eefc4c2",
-                "d18efa1b-0895-4d4c-856b-0d0ec96c586e",
-                "87d658be-d60c-4aaf-94ea-f7db2f839d40",
-                "d343ebfd-8a4e-4658-934f-dbaaf7fc6039",
-                "9eba44e6-10b7-45a5-ae09-4d9935f1781c",
-                "6d83de56-03da-47f2-a936-e50ed2f9ffb1",
-                "563f2483-1538-488f-b4a6-3c9265f91cff",
-                "0754b0dc-204d-44db-a72e-f146a0a16783",
-                "a3a3bcf9-59e9-4ff2-bf0a-833caebc0de2",
-                "9781f1b9-4791-4be4-8b3b-1763ca6a84af",
-                "2fe197df-87bb-4602-b1b2-45d96bb3d83b",
-                "7befd26a-0e9b-49d5-a3d4-82cfdcb42ecc",
-                "191bbae6-268a-4cc2-8c68-b818913de393",
-                "808e7aed-64c0-4bfa-a9ee-195f9198807c",
-                "15ba059f-650b-4587-8e30-fdff8d949133",
-                "f11ad992-b08d-4eb5-810a-a8bc08e52fdf",
-                "a06d82ae-814b-498a-a0a6-e3ff6d2bb915",
-                "1b34b8dd-702c-49c6-bd96-9e326e7ac883",
-                "2c0cd53b-09ee-448a-928d-ff84de3e9ea5"
-            ]
-        },
-        {
-            "id": "49ce2bf8-9811-42de-beee-26718cfa2e43",
-            "sloID": "12",
-            "title": "ob havo\/vwo",
-            "lpib_opleidingsniveau_id": [
-                "25ecef58-5960-4079-9205-625239a0aa3d",
-                "6dbcd7d8-5e40-4598-a1cb-0de137abc7a4",
-                "b90af8dd-ed0e-4a83-b24e-2ef2a01a4e4d",
-                "056c331a-5dba-4f04-a9f1-4f574fa8af6b",
-                "51964aaf-7ced-4e5c-9cb1-a63eb1a19695",
-                "af9476cc-f178-4fa1-aecf-7b69233368cf",
-                "02d98421-195c-4a6d-be22-2569b02b88a1",
-                "90599c91-9ae0-401c-be5b-5784849e0781",
-                "36253ef0-0534-4171-a771-6fb6485b787e",
-                "1ae61373-ee93-4620-8a73-b58cfc4daf1b",
-                "e8c5eb52-1fc2-4069-b346-d36a63f5c3f8",
-                "b99dff88-055d-46d2-a678-3873dddbfd02",
-                "0e730ecf-ab5a-42dd-bb50-51b5276a3e37",
-                "73ea2fdc-2343-4183-a922-29ca1324f228",
-                "bca3251d-78fc-43fd-b291-46730efa17a0",
-                "9552f994-abf3-4ac5-9053-b4d56b3d25be",
-                "f11ad992-b08d-4eb5-810a-a8bc08e52fdf",
-                "b11f36f5-758d-45e3-a441-e9aeeda670f7"
-            ]
-        },
-        {
-            "id": "2c8f3a8b-b8e4-4b45-8a2b-195c6cde0e4f",
-            "sloID": "5",
-            "title": "ob vmbo",
-            "lpib_opleidingsniveau_id": [
-                "25ecef58-5960-4079-9205-625239a0aa3d",
-                "2dc68d81-0510-48e9-8605-4a6f6e93f674",
-                "6d282c36-5acc-48fc-bb5d-f207a2ba9d3c",
-                "99c545fb-3e8b-44bf-b3a9-5094a818db48",
-                "714aa50c-c35d-4119-8e72-2dc84e8fe75b",
-                "b50886ec-864c-42dc-9ead-6e722a46127b",
-                "7f68bd20-e517-4ac8-bbe1-061f05670e67",
-                "a0944d08-d360-48ac-983f-09870664ee35",
-                "e0e9dc8a-b768-43b1-a348-95cebc5c8b78",
-                "5698caab-e955-4892-8d41-0a668f5c2192",
-                "1f04c53b-b6ab-4847-bfd1-9b4a1612d85f",
-                "c5b4b4c1-1e61-4e5b-be6e-639bd90758e3",
-                "4f56e7c1-c160-4ee8-b14b-f498fcff40b8",
-                "b11f36f5-758d-45e3-a441-e9aeeda670f7"
-            ]
-        },
-        {
-            "id": "5475e856-4ff3-4cfb-b9fc-41ddf1dc3742",
-            "sloID": "89",
-            "title": "praktijkonderwijs",
-            "lpib_opleidingsniveau_id": [
-                "c50f6321-347f-41e9-af31-84b118608181"
-            ]
-        },
-        {
-            "id": "cea47caf-e82f-496d-bdd7-93c0f4f06adc",
-            "sloID": "68",
-            "title": "vso",
-            "lpib_opleidingsniveau_id": [
-                "b392c4c5-5309-4a43-b2f2-820097f18c44"
-            ]
-        },
-        {
-            "id": "b5cae09b-87c3-4bbb-9971-577f7d0e300f",
-            "sloID": "71",
-            "title": "vso db",
-            "lpib_opleidingsniveau_id": [
-                "fe69f1c4-6714-48a7-9de9-fbc400e38c83"
-            ]
-        },
-        {
-            "id": "569c1202-2cad-4d2d-a042-910a5458fcde",
-            "sloID": "73",
-            "title": "vso am",
-            "lpib_opleidingsniveau_id": [
-                "9eed103d-9f0f-4299-89a6-73100dff7056"
-            ]
-        },
-        {
-            "id": "c5b1200f-7c5b-4a7a-93d0-4c85f98360a7",
-            "sloID": "72",
-            "title": "vso vo",
-            "lpib_opleidingsniveau_id": [
-                "c6e67995-14fb-457d-a11e-d51bc720c4d1"
-            ]
-        },
-        {
-            "id": "22e3a471-ae32-43ed-a80c-e34c32d3ffe4",
-            "sloID": "15",
-            "title": "bb vmbo",
-            "lpib_opleidingsniveau_id": [
-                "6dbcd7d8-5e40-4598-a1cb-0de137abc7a4",
-                "b90af8dd-ed0e-4a83-b24e-2ef2a01a4e4d",
-                "64761dfc-ce50-4c63-9591-83a9c437cc48",
-                "4a67c82f-5ab1-4037-a3d0-5442eec0c1d9",
-                "938daf50-0743-4a55-99a2-8a8125027ae6",
-                "d5dde6d5-6b3e-4ba2-a826-b9350017d9d7",
-                "b7520c71-ee2c-4fd9-aaf2-ef4889d16f4c",
-                "cce3d2cf-b5c3-4125-a4c5-d40f8b2eb852",
-                "fc26bc19-c77a-4c66-aead-884f39f320f7",
-                "4010baf3-60f2-46f3-9fa5-65dd9c3b23de",
-                "b11f36f5-758d-45e3-a441-e9aeeda670f7"
-            ]
-        },
-        {
-            "id": "cfdaedbc-dba2-4c4e-bbec-ee3348a8fbce",
-            "sloID": "22",
-            "title": "bb havo\/vwo",
-            "lpib_opleidingsniveau_id": [
-                "1e333858-d617-4195-b29a-10824eefc4c2",
-                "d18efa1b-0895-4d4c-856b-0d0ec96c586e",
-                "87d658be-d60c-4aaf-94ea-f7db2f839d40",
-                "d343ebfd-8a4e-4658-934f-dbaaf7fc6039",
-                "9eba44e6-10b7-45a5-ae09-4d9935f1781c",
-                "6d83de56-03da-47f2-a936-e50ed2f9ffb1",
-                "563f2483-1538-488f-b4a6-3c9265f91cff",
-                "0754b0dc-204d-44db-a72e-f146a0a16783",
-                "a3a3bcf9-59e9-4ff2-bf0a-833caebc0de2",
-                "9781f1b9-4791-4be4-8b3b-1763ca6a84af",
-                "2fe197df-87bb-4602-b1b2-45d96bb3d83b",
-                "7befd26a-0e9b-49d5-a3d4-82cfdcb42ecc",
-                "191bbae6-268a-4cc2-8c68-b818913de393",
-                "808e7aed-64c0-4bfa-a9ee-195f9198807c",
-                "15ba059f-650b-4587-8e30-fdff8d949133",
-                "a06d82ae-814b-498a-a0a6-e3ff6d2bb915",
-                "2c0cd53b-09ee-448a-928d-ff84de3e9ea5",
-                "b11f36f5-758d-45e3-a441-e9aeeda670f7"
-            ]
-        },
-        {
-            "id": "7fb076b8-b38d-4574-987f-8a1455e93962",
-            "sloID": "24",
-            "title": "bb vwo",
-            "lpib_opleidingsniveau_id": [
-                "1b34b8dd-702c-49c6-bd96-9e326e7ac883"
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "a3b4d556-0885-452a-bec1-5754db601a68",
+        "sloID": "67",
+        "title": "so",
+        "lpib_opleidingsniveau_id": [
+            "ebc1da0a-b259-480c-ad09-a225c5e5003a"
+        ]
+    },
+    {
+        "id": "3753c1d3-a39d-4b56-97c4-1fc8beaa0e36",
+        "sloID": "70",
+        "title": "so zml\/mg",
+        "lpib_opleidingsniveau_id": [
+            "e295007b-4036-40e3-9f1a-c9362cefca38"
+        ]
+    },
+    {
+        "id": "228348f1-9f73-4cdd-a83f-4a56554d8290",
+        "sloID": "69",
+        "title": "so nl\/ml",
+        "lpib_opleidingsniveau_id": [
+            "3df929f0-e971-4fb2-b50d-116a6128a212"
+        ]
+    },
+    {
+        "id": "f98304da-a04d-44c6-9d25-320a22b3bc54",
+        "sloID": "1",
+        "title": "po",
+        "lpib_opleidingsniveau_id": [
+            "e13f6722-d7ae-4b4c-8066-e40c4f982fc6",
+            "dd30b01b-b3e6-4067-95c1-448a688a1af0",
+            "e94fd50f-0a06-47c0-956a-6fd8a8ae0e0e",
+            "343798eb-28e8-4398-8b34-13195b27c506",
+            "a9a7b23c-ea5d-4073-960d-26e3da8910bd",
+            "72646dfb-4767-40df-919f-22fac0470485",
+            "6d7534a3-4dee-4a03-b9a4-5e479b099393",
+            "01b37229-7e8f-499c-9d3b-aa5cd4bb1303",
+            "749fef9b-5ee8-47dd-9518-f7216e8e75b5",
+            "41846218-1cea-47d3-ab7a-5465518b7d61",
+            "43522356-796c-4e19-9e48-41316826441a",
+            "c02cd134-bc80-47ee-a55d-f6520fa95fac",
+            "092179bc-4b70-4bf8-9b29-98cb6ff4529b",
+            "d461404a-0531-4d74-8798-07457b3a09d7",
+            "b70ad146-ef8a-4eac-96a7-cb7fcd3eac78",
+            "31c47da2-f3bf-4e92-bd37-b60612a8403f",
+            "b11f36f5-758d-45e3-a441-e9aeeda670f7"
+        ]
+    },
+    {
+        "id": "88312bf0-d902-4e68-a9c1-c6644e19ffc3",
+        "sloID": "78",
+        "title": "Overstijgend",
+        "lpib_opleidingsniveau_id": [
+            "dd30b01b-b3e6-4067-95c1-448a688a1af0",
+            "e94fd50f-0a06-47c0-956a-6fd8a8ae0e0e",
+            "a9a7b23c-ea5d-4073-960d-26e3da8910bd",
+            "72646dfb-4767-40df-919f-22fac0470485",
+            "6d7534a3-4dee-4a03-b9a4-5e479b099393",
+            "01b37229-7e8f-499c-9d3b-aa5cd4bb1303",
+            "25ecef58-5960-4079-9205-625239a0aa3d",
+            "2dc68d81-0510-48e9-8605-4a6f6e93f674",
+            "6d282c36-5acc-48fc-bb5d-f207a2ba9d3c",
+            "99c545fb-3e8b-44bf-b3a9-5094a818db48",
+            "714aa50c-c35d-4119-8e72-2dc84e8fe75b",
+            "b50886ec-864c-42dc-9ead-6e722a46127b",
+            "7f68bd20-e517-4ac8-bbe1-061f05670e67",
+            "a0944d08-d360-48ac-983f-09870664ee35",
+            "e0e9dc8a-b768-43b1-a348-95cebc5c8b78",
+            "5698caab-e955-4892-8d41-0a668f5c2192",
+            "1f04c53b-b6ab-4847-bfd1-9b4a1612d85f",
+            "c5b4b4c1-1e61-4e5b-be6e-639bd90758e3",
+            "4f56e7c1-c160-4ee8-b14b-f498fcff40b8",
+            "64761dfc-ce50-4c63-9591-83a9c437cc48",
+            "4a67c82f-5ab1-4037-a3d0-5442eec0c1d9",
+            "938daf50-0743-4a55-99a2-8a8125027ae6",
+            "d5dde6d5-6b3e-4ba2-a826-b9350017d9d7",
+            "b7520c71-ee2c-4fd9-aaf2-ef4889d16f4c",
+            "cce3d2cf-b5c3-4125-a4c5-d40f8b2eb852",
+            "fc26bc19-c77a-4c66-aead-884f39f320f7",
+            "4010baf3-60f2-46f3-9fa5-65dd9c3b23de",
+            "056c331a-5dba-4f04-a9f1-4f574fa8af6b",
+            "51964aaf-7ced-4e5c-9cb1-a63eb1a19695",
+            "af9476cc-f178-4fa1-aecf-7b69233368cf",
+            "02d98421-195c-4a6d-be22-2569b02b88a1",
+            "90599c91-9ae0-401c-be5b-5784849e0781",
+            "36253ef0-0534-4171-a771-6fb6485b787e",
+            "1ae61373-ee93-4620-8a73-b58cfc4daf1b",
+            "e8c5eb52-1fc2-4069-b346-d36a63f5c3f8",
+            "b99dff88-055d-46d2-a678-3873dddbfd02",
+            "0e730ecf-ab5a-42dd-bb50-51b5276a3e37",
+            "73ea2fdc-2343-4183-a922-29ca1324f228",
+            "bca3251d-78fc-43fd-b291-46730efa17a0",
+            "9552f994-abf3-4ac5-9053-b4d56b3d25be",
+            "1e333858-d617-4195-b29a-10824eefc4c2",
+            "d18efa1b-0895-4d4c-856b-0d0ec96c586e",
+            "87d658be-d60c-4aaf-94ea-f7db2f839d40",
+            "d343ebfd-8a4e-4658-934f-dbaaf7fc6039",
+            "9eba44e6-10b7-45a5-ae09-4d9935f1781c",
+            "6d83de56-03da-47f2-a936-e50ed2f9ffb1",
+            "563f2483-1538-488f-b4a6-3c9265f91cff",
+            "0754b0dc-204d-44db-a72e-f146a0a16783",
+            "a3a3bcf9-59e9-4ff2-bf0a-833caebc0de2",
+            "9781f1b9-4791-4be4-8b3b-1763ca6a84af",
+            "2fe197df-87bb-4602-b1b2-45d96bb3d83b",
+            "7befd26a-0e9b-49d5-a3d4-82cfdcb42ecc",
+            "191bbae6-268a-4cc2-8c68-b818913de393",
+            "808e7aed-64c0-4bfa-a9ee-195f9198807c",
+            "15ba059f-650b-4587-8e30-fdff8d949133",
+            "f11ad992-b08d-4eb5-810a-a8bc08e52fdf",
+            "a06d82ae-814b-498a-a0a6-e3ff6d2bb915",
+            "1b34b8dd-702c-49c6-bd96-9e326e7ac883",
+            "2c0cd53b-09ee-448a-928d-ff84de3e9ea5"
+        ]
+    },
+    {
+        "id": "49ce2bf8-9811-42de-beee-26718cfa2e43",
+        "sloID": "12",
+        "title": "ob havo\/vwo",
+        "lpib_opleidingsniveau_id": [
+            "25ecef58-5960-4079-9205-625239a0aa3d",
+            "6dbcd7d8-5e40-4598-a1cb-0de137abc7a4",
+            "b90af8dd-ed0e-4a83-b24e-2ef2a01a4e4d",
+            "056c331a-5dba-4f04-a9f1-4f574fa8af6b",
+            "51964aaf-7ced-4e5c-9cb1-a63eb1a19695",
+            "af9476cc-f178-4fa1-aecf-7b69233368cf",
+            "02d98421-195c-4a6d-be22-2569b02b88a1",
+            "90599c91-9ae0-401c-be5b-5784849e0781",
+            "36253ef0-0534-4171-a771-6fb6485b787e",
+            "1ae61373-ee93-4620-8a73-b58cfc4daf1b",
+            "e8c5eb52-1fc2-4069-b346-d36a63f5c3f8",
+            "b99dff88-055d-46d2-a678-3873dddbfd02",
+            "0e730ecf-ab5a-42dd-bb50-51b5276a3e37",
+            "73ea2fdc-2343-4183-a922-29ca1324f228",
+            "bca3251d-78fc-43fd-b291-46730efa17a0",
+            "9552f994-abf3-4ac5-9053-b4d56b3d25be",
+            "f11ad992-b08d-4eb5-810a-a8bc08e52fdf",
+            "b11f36f5-758d-45e3-a441-e9aeeda670f7"
+        ]
+    },
+    {
+        "id": "2c8f3a8b-b8e4-4b45-8a2b-195c6cde0e4f",
+        "sloID": "5",
+        "title": "ob vmbo",
+        "lpib_opleidingsniveau_id": [
+            "25ecef58-5960-4079-9205-625239a0aa3d",
+            "2dc68d81-0510-48e9-8605-4a6f6e93f674",
+            "6d282c36-5acc-48fc-bb5d-f207a2ba9d3c",
+            "99c545fb-3e8b-44bf-b3a9-5094a818db48",
+            "714aa50c-c35d-4119-8e72-2dc84e8fe75b",
+            "b50886ec-864c-42dc-9ead-6e722a46127b",
+            "7f68bd20-e517-4ac8-bbe1-061f05670e67",
+            "a0944d08-d360-48ac-983f-09870664ee35",
+            "e0e9dc8a-b768-43b1-a348-95cebc5c8b78",
+            "5698caab-e955-4892-8d41-0a668f5c2192",
+            "1f04c53b-b6ab-4847-bfd1-9b4a1612d85f",
+            "c5b4b4c1-1e61-4e5b-be6e-639bd90758e3",
+            "4f56e7c1-c160-4ee8-b14b-f498fcff40b8",
+            "b11f36f5-758d-45e3-a441-e9aeeda670f7"
+        ]
+    },
+    {
+        "id": "5475e856-4ff3-4cfb-b9fc-41ddf1dc3742",
+        "sloID": "89",
+        "title": "praktijkonderwijs",
+        "lpib_opleidingsniveau_id": [
+            "c50f6321-347f-41e9-af31-84b118608181"
+        ]
+    },
+    {
+        "id": "cea47caf-e82f-496d-bdd7-93c0f4f06adc",
+        "sloID": "68",
+        "title": "vso",
+        "lpib_opleidingsniveau_id": [
+            "b392c4c5-5309-4a43-b2f2-820097f18c44"
+        ]
+    },
+    {
+        "id": "b5cae09b-87c3-4bbb-9971-577f7d0e300f",
+        "sloID": "71",
+        "title": "vso db",
+        "lpib_opleidingsniveau_id": [
+            "fe69f1c4-6714-48a7-9de9-fbc400e38c83"
+        ]
+    },
+    {
+        "id": "569c1202-2cad-4d2d-a042-910a5458fcde",
+        "sloID": "73",
+        "title": "vso am",
+        "lpib_opleidingsniveau_id": [
+            "9eed103d-9f0f-4299-89a6-73100dff7056"
+        ]
+    },
+    {
+        "id": "c5b1200f-7c5b-4a7a-93d0-4c85f98360a7",
+        "sloID": "72",
+        "title": "vso vo",
+        "lpib_opleidingsniveau_id": [
+            "c6e67995-14fb-457d-a11e-d51bc720c4d1"
+        ]
+    },
+    {
+        "id": "22e3a471-ae32-43ed-a80c-e34c32d3ffe4",
+        "sloID": "15",
+        "title": "bb vmbo",
+        "lpib_opleidingsniveau_id": [
+            "6dbcd7d8-5e40-4598-a1cb-0de137abc7a4",
+            "b90af8dd-ed0e-4a83-b24e-2ef2a01a4e4d",
+            "64761dfc-ce50-4c63-9591-83a9c437cc48",
+            "4a67c82f-5ab1-4037-a3d0-5442eec0c1d9",
+            "938daf50-0743-4a55-99a2-8a8125027ae6",
+            "d5dde6d5-6b3e-4ba2-a826-b9350017d9d7",
+            "b7520c71-ee2c-4fd9-aaf2-ef4889d16f4c",
+            "cce3d2cf-b5c3-4125-a4c5-d40f8b2eb852",
+            "fc26bc19-c77a-4c66-aead-884f39f320f7",
+            "4010baf3-60f2-46f3-9fa5-65dd9c3b23de",
+            "b11f36f5-758d-45e3-a441-e9aeeda670f7"
+        ]
+    },
+    {
+        "id": "cfdaedbc-dba2-4c4e-bbec-ee3348a8fbce",
+        "sloID": "22",
+        "title": "bb havo\/vwo",
+        "lpib_opleidingsniveau_id": [
+            "1e333858-d617-4195-b29a-10824eefc4c2",
+            "d18efa1b-0895-4d4c-856b-0d0ec96c586e",
+            "87d658be-d60c-4aaf-94ea-f7db2f839d40",
+            "d343ebfd-8a4e-4658-934f-dbaaf7fc6039",
+            "9eba44e6-10b7-45a5-ae09-4d9935f1781c",
+            "6d83de56-03da-47f2-a936-e50ed2f9ffb1",
+            "563f2483-1538-488f-b4a6-3c9265f91cff",
+            "0754b0dc-204d-44db-a72e-f146a0a16783",
+            "a3a3bcf9-59e9-4ff2-bf0a-833caebc0de2",
+            "9781f1b9-4791-4be4-8b3b-1763ca6a84af",
+            "2fe197df-87bb-4602-b1b2-45d96bb3d83b",
+            "7befd26a-0e9b-49d5-a3d4-82cfdcb42ecc",
+            "191bbae6-268a-4cc2-8c68-b818913de393",
+            "808e7aed-64c0-4bfa-a9ee-195f9198807c",
+            "15ba059f-650b-4587-8e30-fdff8d949133",
+            "a06d82ae-814b-498a-a0a6-e3ff6d2bb915",
+            "2c0cd53b-09ee-448a-928d-ff84de3e9ea5",
+            "b11f36f5-758d-45e3-a441-e9aeeda670f7"
+        ]
+    },
+    {
+        "id": "7fb076b8-b38d-4574-987f-8a1455e93962",
+        "sloID": "24",
+        "title": "bb vwo",
+        "lpib_opleidingsniveau_id": [
+            "1b34b8dd-702c-49c6-bd96-9e326e7ac883"
+        ]
+    }
+]
