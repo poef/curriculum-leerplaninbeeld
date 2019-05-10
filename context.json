@@ -332,7 +332,7 @@
             }
         }
     },
-    "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-leerplaininbeeld/context.json",
+    "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-leerplaninbeeld/context.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "properties": {
@@ -421,7 +421,7 @@
             }
         },
         "lpib_deprecated": {
-            "#file": "data/ldk.deprecated.json",
+            "#file": "data/lpib.deprecated.json",
             "type": "array"
         }
     },
@@ -432,7 +432,7 @@
         "lpib_vakkern",
         "lpib_vaksubkern",
         "lpib_inhoud",
-        "lpib_beheersingsniveau",
+        "lpib_niveau",
         "lpib_doel",
         "lpib_bouw",
         "lpib_doelniveau",
