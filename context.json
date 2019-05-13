@@ -217,7 +217,7 @@
             }
         },
         "lpib_leereenheid": {
-            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/baseid" } ],
             "properties": {
                 "lpib_doelniveau_id" : {
                     "allOf": [
