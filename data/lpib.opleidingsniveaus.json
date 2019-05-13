@@ -3,504 +3,504 @@
         "id": "ebc1da0a-b259-480c-ad09-a225c5e5003a",
         "sloID": "67",
         "title": "so",
-        "lpib_niveau_id": "13f8ffd0-567e-45d5-b647-7c74e538d75c"
+        "lpib_niveau_id": ["13f8ffd0-567e-45d5-b647-7c74e538d75c"]
     },
     {
         "id": "e295007b-4036-40e3-9f1a-c9362cefca38",
         "sloID": "70",
         "title": "so zml\/mg",
-        "lpib_niveau_id": "4a89d91b-8c1a-4424-9b19-f50b335152ab"
+        "lpib_niveau_id": ["4a89d91b-8c1a-4424-9b19-f50b335152ab"]
     },
     {
         "id": "3df929f0-e971-4fb2-b50d-116a6128a212",
         "sloID": "69",
         "title": "so nl\/ml",
-        "lpib_niveau_id": "df172cfc-3ea4-4f9f-868c-0bd4e7cb2601"
+        "lpib_niveau_id": ["df172cfc-3ea4-4f9f-868c-0bd4e7cb2601"]
     },
     {
         "id": "e13f6722-d7ae-4b4c-8066-e40c4f982fc6",
         "sloID": "1",
         "title": "po",
-        "lpib_niveau_id": "79428171-7f51-406f-b780-14323afd6148"
+        "lpib_niveau_id": ["79428171-7f51-406f-b780-14323afd6148"]
     },
     {
         "id": "dd30b01b-b3e6-4067-95c1-448a688a1af0",
         "sloID": "25",
         "title": "1F",
-        "lpib_niveau_id": "0289fe21-bfa6-4ec3-bddc-1aeb99132efc"
+        "lpib_niveau_id": ["0289fe21-bfa6-4ec3-bddc-1aeb99132efc"]
     },
     {
         "id": "e94fd50f-0a06-47c0-956a-6fd8a8ae0e0e",
         "sloID": "75",
         "title": "ob po",
-        "lpib_niveau_id": "1e212bb5-d476-4e7b-a41f-f76a4182c2b0"
+        "lpib_niveau_id": ["1e212bb5-d476-4e7b-a41f-f76a4182c2b0"]
     },
     {
         "id": "343798eb-28e8-4398-8b34-13195b27c506",
         "sloID": "83",
         "title": "Streefdoelen po",
-        "lpib_niveau_id": "e7d940f9-7cec-4935-941c-0518d9bd4505"
+        "lpib_niveau_id": ["e7d940f9-7cec-4935-941c-0518d9bd4505"]
     },
     {
         "id": "a9a7b23c-ea5d-4073-960d-26e3da8910bd",
         "sloID": "29",
         "title": "1S",
-        "lpib_niveau_id": "51dfc0c0-9620-4c61-9e0e-c9ffd1f834b9"
+        "lpib_niveau_id": ["51dfc0c0-9620-4c61-9e0e-c9ffd1f834b9"]
     },
     {
         "id": "72646dfb-4767-40df-919f-22fac0470485",
         "sloID": "76",
         "title": "mb po",
-        "lpib_niveau_id": "afe49a03-5e2e-4456-b419-9381ccbedd30"
+        "lpib_niveau_id": ["afe49a03-5e2e-4456-b419-9381ccbedd30"]
     },
     {
         "id": "6d7534a3-4dee-4a03-b9a4-5e479b099393",
         "sloID": "33",
         "title": "A1",
-        "lpib_niveau_id": "9b82aa12-dea0-4e29-badf-7fa4fbbc4786"
+        "lpib_niveau_id": ["9b82aa12-dea0-4e29-badf-7fa4fbbc4786"]
     },
     {
         "id": "01b37229-7e8f-499c-9d3b-aa5cd4bb1303",
         "sloID": "77",
         "title": "bb po",
-        "lpib_niveau_id": "055befb3-f14a-40d3-b3d3-64df20ed5e2d"
+        "lpib_niveau_id": ["055befb3-f14a-40d3-b3d3-64df20ed5e2d"]
     },
     {
         "id": "25ecef58-5960-4079-9205-625239a0aa3d",
         "sloID": "34",
         "title": "A2",
-        "lpib_niveau_id": "96b30d29-264e-434c-8dde-2790034b4da2"
+        "lpib_niveau_id": ["96b30d29-264e-434c-8dde-2790034b4da2"]
     },
     {
         "id": "c50f6321-347f-41e9-af31-84b118608181",
         "sloID": "89",
         "title": "praktijkonderwijs",
-        "lpib_niveau_id": "791eba02-7855-416d-ad0b-f5200ab7aae9"
+        "lpib_niveau_id": ["791eba02-7855-416d-ad0b-f5200ab7aae9"]
     },
     {
         "id": "b392c4c5-5309-4a43-b2f2-820097f18c44",
         "sloID": "68",
         "title": "vso",
-        "lpib_niveau_id": "84090597-7f96-4519-ab33-a6a252bfcd34"
+        "lpib_niveau_id": ["84090597-7f96-4519-ab33-a6a252bfcd34"]
     },
     {
         "id": "fe69f1c4-6714-48a7-9de9-fbc400e38c83",
         "sloID": "71",
         "title": "vso db",
-        "lpib_niveau_id": "f2b1f291-0dc0-4be3-92a8-0ea42ccabd57"
+        "lpib_niveau_id": ["f2b1f291-0dc0-4be3-92a8-0ea42ccabd57"]
     },
     {
         "id": "9eed103d-9f0f-4299-89a6-73100dff7056",
         "sloID": "73",
         "title": "vso am",
-        "lpib_niveau_id": "32fd1de6-d88b-4b40-b793-dc1f133a6670"
+        "lpib_niveau_id": ["32fd1de6-d88b-4b40-b793-dc1f133a6670"]
     },
     {
         "id": "c6e67995-14fb-457d-a11e-d51bc720c4d1",
         "sloID": "72",
         "title": "vso vo",
-        "lpib_niveau_id": "cbae2c35-92f2-4565-bfbe-8fada2fa1a36"
+        "lpib_niveau_id": ["cbae2c35-92f2-4565-bfbe-8fada2fa1a36"]
     },
     {
         "id": "b932418f-8712-42b0-b7ed-342eb485527f",
         "sloID": "2",
         "title": "vo",
-        "lpib_niveau_id": "ccfee92a-6719-418f-949b-86bed8693609"
+        "lpib_niveau_id": ["ccfee92a-6719-418f-949b-86bed8693609"]
     },
     {
         "id": "5496fd22-051a-4434-b090-6b536584e8c3",
         "sloID": "3",
         "title": "vmbo",
-        "lpib_niveau_id": "e4c11a70-4da8-4239-822a-70c37f10c5a1"
+        "lpib_niveau_id": ["e4c11a70-4da8-4239-822a-70c37f10c5a1"]
     },
     {
         "id": "2dc68d81-0510-48e9-8605-4a6f6e93f674",
         "sloID": "5",
         "title": "ob vmbo",
-        "lpib_niveau_id": "bb4d877b-ae31-4722-b7a9-9890ba328f48"
+        "lpib_niveau_id": ["bb4d877b-ae31-4722-b7a9-9890ba328f48"]
     },
     {
         "id": "6d282c36-5acc-48fc-bb5d-f207a2ba9d3c",
         "sloID": "6",
         "title": "ob vmbo bb",
-        "lpib_niveau_id": "69006d0a-96b8-451b-9d54-772b81ebf985"
+        "lpib_niveau_id": ["69006d0a-96b8-451b-9d54-772b81ebf985"]
     },
     {
         "id": "99c545fb-3e8b-44bf-b3a9-5094a818db48",
         "sloID": "7",
         "title": "ob vmbo kb",
-        "lpib_niveau_id": "8e9bff57-9b69-43da-b7eb-be69b826c0eb"
+        "lpib_niveau_id": ["8e9bff57-9b69-43da-b7eb-be69b826c0eb"]
     },
     {
         "id": "714aa50c-c35d-4119-8e72-2dc84e8fe75b",
         "sloID": "8",
         "title": "ob vmbo gl",
-        "lpib_niveau_id": "00d95d7c-419d-4b35-aad8-579dc563009f"
+        "lpib_niveau_id": ["00d95d7c-419d-4b35-aad8-579dc563009f"]
     },
     {
         "id": "b50886ec-864c-42dc-9ead-6e722a46127b",
         "sloID": "9",
         "title": "ob vmbo tl",
-        "lpib_niveau_id": "4eae1d01-edbb-4efb-a610-497a6ed0dc35"
+        "lpib_niveau_id": ["4eae1d01-edbb-4efb-a610-497a6ed0dc35"]
     },
     {
         "id": "7f68bd20-e517-4ac8-bbe1-061f05670e67",
         "sloID": "10",
         "title": "ob vmbo bb\/kb",
-        "lpib_niveau_id": "4370b83d-5d77-41ff-85a1-f39de0fcc471"
+        "lpib_niveau_id": ["4370b83d-5d77-41ff-85a1-f39de0fcc471"]
     },
     {
         "id": "a0944d08-d360-48ac-983f-09870664ee35",
         "sloID": "11",
         "title": "ob vmbo gl\/tl",
-        "lpib_niveau_id": "41a012e4-9844-4adb-9b15-79b990be3297"
+        "lpib_niveau_id": ["41a012e4-9844-4adb-9b15-79b990be3297"]
     },
     {
         "id": "e0e9dc8a-b768-43b1-a348-95cebc5c8b78",
         "sloID": "39",
         "title": "ob vmbo kb\/gl\/tl",
-        "lpib_niveau_id": "0d1187ca-a7b3-407f-951c-5541919ea428"
+        "lpib_niveau_id": ["0d1187ca-a7b3-407f-951c-5541919ea428"]
     },
     {
         "id": "5698caab-e955-4892-8d41-0a668f5c2192",
         "sloID": "58",
         "title": "ob vmbo kb\/gl\/tl fout",
-        "lpib_niveau_id": "b8a4d633-d38d-4b77-91a2-db544c0b2670"
+        "lpib_niveau_id": ["b8a4d633-d38d-4b77-91a2-db544c0b2670"]
     },
     {
         "id": "1f04c53b-b6ab-4847-bfd1-9b4a1612d85f",
         "sloID": "66",
         "title": "ob vmbo basis",
-        "lpib_niveau_id": "98e6f781-341a-4842-9333-f728ddede9ac"
+        "lpib_niveau_id": ["98e6f781-341a-4842-9333-f728ddede9ac"]
     },
     {
         "id": "c5b4b4c1-1e61-4e5b-be6e-639bd90758e3",
         "sloID": "64",
         "title": "ob vmbo vervolg",
-        "lpib_niveau_id": "d84b673d-2b21-4f03-8076-60a650625c85"
+        "lpib_niveau_id": ["d84b673d-2b21-4f03-8076-60a650625c85"]
     },
     {
         "id": "4f56e7c1-c160-4ee8-b14b-f498fcff40b8",
         "sloID": "65",
         "title": "ob vmbo gevorderd",
-        "lpib_niveau_id": "af298676-dee0-48ee-82c1-616ba927b384"
+        "lpib_niveau_id": ["af298676-dee0-48ee-82c1-616ba927b384"]
     },
     {
         "id": "6dbcd7d8-5e40-4598-a1cb-0de137abc7a4",
         "sloID": "26",
         "title": "2F",
-        "lpib_niveau_id": "2ea28dcd-9ea2-424b-a2e9-4dc9ead9fd9a"
+        "lpib_niveau_id": ["2ea28dcd-9ea2-424b-a2e9-4dc9ead9fd9a"]
     },
     {
         "id": "b90af8dd-ed0e-4a83-b24e-2ef2a01a4e4d",
         "sloID": "30",
         "title": "2S",
-        "lpib_niveau_id": "5548b4f2-6ea4-4eb4-8477-3c1c406db6a9"
+        "lpib_niveau_id": ["5548b4f2-6ea4-4eb4-8477-3c1c406db6a9"]
     },
     {
         "id": "64761dfc-ce50-4c63-9591-83a9c437cc48",
         "sloID": "15",
         "title": "bb vmbo",
-        "lpib_niveau_id": "8ea20e53-9f54-4ee0-ab34-70a540419a2b"
+        "lpib_niveau_id": ["8ea20e53-9f54-4ee0-ab34-70a540419a2b"]
     },
     {
         "id": "4a67c82f-5ab1-4037-a3d0-5442eec0c1d9",
         "sloID": "16",
         "title": "bb vmbo bb",
-        "lpib_niveau_id": "07180278-9418-4250-9d26-04a7cfdf3240"
+        "lpib_niveau_id": ["07180278-9418-4250-9d26-04a7cfdf3240"]
     },
     {
         "id": "938daf50-0743-4a55-99a2-8a8125027ae6",
         "sloID": "17",
         "title": "bb vmbo kb",
-        "lpib_niveau_id": "e586fbce-9eb2-4dea-87b8-b36e8d0e0655"
+        "lpib_niveau_id": ["e586fbce-9eb2-4dea-87b8-b36e8d0e0655"]
     },
     {
         "id": "d5dde6d5-6b3e-4ba2-a826-b9350017d9d7",
         "sloID": "18",
         "title": "bb vmbo gl",
-        "lpib_niveau_id": "a97a1b54-18d3-4631-aebc-3557b3cc8a50"
+        "lpib_niveau_id": ["a97a1b54-18d3-4631-aebc-3557b3cc8a50"]
     },
     {
         "id": "b7520c71-ee2c-4fd9-aaf2-ef4889d16f4c",
         "sloID": "19",
         "title": "bb vmbo tl",
-        "lpib_niveau_id": "550bd0f7-0472-448d-b0db-3550b5c21eb5"
+        "lpib_niveau_id": ["550bd0f7-0472-448d-b0db-3550b5c21eb5"]
     },
     {
         "id": "cce3d2cf-b5c3-4125-a4c5-d40f8b2eb852",
         "sloID": "20",
         "title": "bb vmbo bb\/kb",
-        "lpib_niveau_id": "9baee92e-2e6c-4f4b-b3d8-eb3027004373"
+        "lpib_niveau_id": ["9baee92e-2e6c-4f4b-b3d8-eb3027004373"]
     },
     {
         "id": "fc26bc19-c77a-4c66-aead-884f39f320f7",
         "sloID": "21",
         "title": "bb vmbo gl\/tl",
-        "lpib_niveau_id": "5b9e6c75-8020-429e-8f21-76fc5906d981"
+        "lpib_niveau_id": ["5b9e6c75-8020-429e-8f21-76fc5906d981"]
     },
     {
         "id": "4010baf3-60f2-46f3-9fa5-65dd9c3b23de",
         "sloID": "40",
         "title": "bb vmbo kb\/gl\/tl",
-        "lpib_niveau_id": "08381ad8-79ac-4af0-85d5-6c068c9c9bb0"
+        "lpib_niveau_id": ["08381ad8-79ac-4af0-85d5-6c068c9c9bb0"]
     },
     {
         "id": "75017b27-f9c5-4076-9240-bfe9ffa5d78e",
         "sloID": "4",
         "title": "havo\/vwo",
-        "lpib_niveau_id": "9e9f33c3-f818-4e98-88f1-5c5fa849dcf0"
+        "lpib_niveau_id": ["9e9f33c3-f818-4e98-88f1-5c5fa849dcf0"]
     },
     {
         "id": "056c331a-5dba-4f04-a9f1-4f574fa8af6b",
         "sloID": "12",
         "title": "ob havo\/vwo",
-        "lpib_niveau_id": "3d82c9ea-01fb-4997-8ce0-76f67165c69c"
+        "lpib_niveau_id": ["3d82c9ea-01fb-4997-8ce0-76f67165c69c"]
     },
     {
         "id": "51964aaf-7ced-4e5c-9cb1-a63eb1a19695",
         "sloID": "41",
         "title": "ob havo A",
-        "lpib_niveau_id": "dfc08adf-4b9b-401e-9eab-24ba79313891"
+        "lpib_niveau_id": ["dfc08adf-4b9b-401e-9eab-24ba79313891"]
     },
     {
         "id": "af9476cc-f178-4fa1-aecf-7b69233368cf",
         "sloID": "42",
         "title": "ob havo B\/D",
-        "lpib_niveau_id": "efc67d9c-96c9-4a12-8a4f-d01185fdf673"
+        "lpib_niveau_id": ["efc67d9c-96c9-4a12-8a4f-d01185fdf673"]
     },
     {
         "id": "02d98421-195c-4a6d-be22-2569b02b88a1",
         "sloID": "13",
         "title": "ob havo",
-        "lpib_niveau_id": "b392edac-f06a-4bc8-a58c-d261574f5bf7"
+        "lpib_niveau_id": ["b392edac-f06a-4bc8-a58c-d261574f5bf7"]
     },
     {
         "id": "90599c91-9ae0-401c-be5b-5784849e0781",
         "sloID": "45",
         "title": "ob havo C",
-        "lpib_niveau_id": "82dccbf1-a667-4497-9a40-ef00f810322d"
+        "lpib_niveau_id": ["82dccbf1-a667-4497-9a40-ef00f810322d"]
     },
     {
         "id": "36253ef0-0534-4171-a771-6fb6485b787e",
         "sloID": "47",
         "title": "ob havo D",
-        "lpib_niveau_id": "f2a9250c-3d4e-408a-b206-5eef42e42220"
+        "lpib_niveau_id": ["f2a9250c-3d4e-408a-b206-5eef42e42220"]
     },
     {
         "id": "1ae61373-ee93-4620-8a73-b58cfc4daf1b",
         "sloID": "63",
         "title": "ob havo\/vwo basis",
-        "lpib_niveau_id": "e2f1e344-89f3-451e-b2c8-c0ff43535215"
+        "lpib_niveau_id": ["e2f1e344-89f3-451e-b2c8-c0ff43535215"]
     },
     {
         "id": "e8c5eb52-1fc2-4069-b346-d36a63f5c3f8",
         "sloID": "61",
         "title": "ob havo\/vwo vervolg",
-        "lpib_niveau_id": "ca41dd03-10df-4c80-aedb-94b3e4a79acb"
+        "lpib_niveau_id": ["ca41dd03-10df-4c80-aedb-94b3e4a79acb"]
     },
     {
         "id": "b99dff88-055d-46d2-a678-3873dddbfd02",
         "sloID": "62",
         "title": "ob havo\/vwo gevorderd",
-        "lpib_niveau_id": "175ffcc4-ccb4-4164-8b36-90a7a53ae9a7"
+        "lpib_niveau_id": ["175ffcc4-ccb4-4164-8b36-90a7a53ae9a7"]
     },
     {
         "id": "0e730ecf-ab5a-42dd-bb50-51b5276a3e37",
         "sloID": "14",
         "title": "ob vwo",
-        "lpib_niveau_id": "b200a864-1fd7-4e6b-a198-13ea0bd03fde"
+        "lpib_niveau_id": ["b200a864-1fd7-4e6b-a198-13ea0bd03fde"]
     },
     {
         "id": "73ea2fdc-2343-4183-a922-29ca1324f228",
         "sloID": "43",
         "title": "ob vwo A\/C",
-        "lpib_niveau_id": "f03ec0fa-9326-45b6-a3c4-22291a1728b5"
+        "lpib_niveau_id": ["f03ec0fa-9326-45b6-a3c4-22291a1728b5"]
     },
     {
         "id": "bca3251d-78fc-43fd-b291-46730efa17a0",
         "sloID": "44",
         "title": "ob vwo B\/D",
-        "lpib_niveau_id": "b7816922-2bac-4326-a08d-31b7a637e3ac"
+        "lpib_niveau_id": ["b7816922-2bac-4326-a08d-31b7a637e3ac"]
     },
     {
         "id": "9552f994-abf3-4ac5-9053-b4d56b3d25be",
         "sloID": "46",
         "title": "ob vwo D",
-        "lpib_niveau_id": "76e62953-901b-4418-947f-02c023c23d37"
+        "lpib_niveau_id": ["76e62953-901b-4418-947f-02c023c23d37"]
     },
     {
         "id": "1e333858-d617-4195-b29a-10824eefc4c2",
         "sloID": "27",
         "title": "3F",
-        "lpib_niveau_id": "8e645f97-0b2d-445c-bdc4-fac81726a788"
+        "lpib_niveau_id": ["8e645f97-0b2d-445c-bdc4-fac81726a788"]
     },
     {
         "id": "d18efa1b-0895-4d4c-856b-0d0ec96c586e",
         "sloID": "31",
         "title": "3S",
-        "lpib_niveau_id": "8ab39083-cae7-40c7-91a9-9e3b5e4abcbc"
+        "lpib_niveau_id": ["8ab39083-cae7-40c7-91a9-9e3b5e4abcbc"]
     },
     {
         "id": "87d658be-d60c-4aaf-94ea-f7db2f839d40",
         "sloID": "22",
         "title": "bb havo\/vwo",
-        "lpib_niveau_id": "b5bb4b8d-507d-4451-9589-a5ffb07c3204"
+        "lpib_niveau_id": ["b5bb4b8d-507d-4451-9589-a5ffb07c3204"]
     },
     {
         "id": "d343ebfd-8a4e-4658-934f-dbaaf7fc6039",
         "sloID": "23",
         "title": "bb havo",
-        "lpib_niveau_id": "4e74e05d-17fc-4b27-9709-9b16e09b2d38"
+        "lpib_niveau_id": ["4e74e05d-17fc-4b27-9709-9b16e09b2d38"]
     },
     {
         "id": "9eba44e6-10b7-45a5-ae09-4d9935f1781c",
         "sloID": "51",
         "title": "bb havo A",
-        "lpib_niveau_id": "86869d86-6971-4beb-8c21-f40162f9ae42"
+        "lpib_niveau_id": ["86869d86-6971-4beb-8c21-f40162f9ae42"]
     },
     {
         "id": "6d83de56-03da-47f2-a936-e50ed2f9ffb1",
         "sloID": "52",
         "title": "bb havo B",
-        "lpib_niveau_id": "27f077c2-e1ba-42c9-9255-b2dac84ba119"
+        "lpib_niveau_id": ["27f077c2-e1ba-42c9-9255-b2dac84ba119"]
     },
     {
         "id": "563f2483-1538-488f-b4a6-3c9265f91cff",
         "sloID": "55",
         "title": "bb havo C",
-        "lpib_niveau_id": "8d888d76-7fd1-4867-a495-7731a0f65d12"
+        "lpib_niveau_id": ["8d888d76-7fd1-4867-a495-7731a0f65d12"]
     },
     {
         "id": "0754b0dc-204d-44db-a72e-f146a0a16783",
         "sloID": "57",
         "title": "bb havo D",
-        "lpib_niveau_id": "76de0693-c118-4e31-956c-5fa37d61fdcb"
+        "lpib_niveau_id": ["76de0693-c118-4e31-956c-5fa37d61fdcb"]
     },
     {
         "id": "a3a3bcf9-59e9-4ff2-bf0a-833caebc0de2",
         "sloID": "24",
         "title": "bb vwo",
-        "lpib_niveau_id": "886a8fb6-9185-4eb5-818f-197ce283a567"
+        "lpib_niveau_id": ["886a8fb6-9185-4eb5-818f-197ce283a567"]
     },
     {
         "id": "9781f1b9-4791-4be4-8b3b-1763ca6a84af",
         "sloID": "28",
         "title": "4F",
-        "lpib_niveau_id": "190de97c-4d39-40a1-99e9-1c90cd33eb7c"
+        "lpib_niveau_id": ["190de97c-4d39-40a1-99e9-1c90cd33eb7c"]
     },
     {
         "id": "2fe197df-87bb-4602-b1b2-45d96bb3d83b",
         "sloID": "32",
         "title": "4S",
-        "lpib_niveau_id": "1ad08efd-0749-4b33-a82e-49c75277f7ce"
+        "lpib_niveau_id": ["1ad08efd-0749-4b33-a82e-49c75277f7ce"]
     },
     {
         "id": "7befd26a-0e9b-49d5-a3d4-82cfdcb42ecc",
         "sloID": "53",
         "title": "bb vwo A",
-        "lpib_niveau_id": "de9856a7-9ee7-48cd-8ccd-319a291b08a0"
+        "lpib_niveau_id": ["de9856a7-9ee7-48cd-8ccd-319a291b08a0"]
     },
     {
         "id": "191bbae6-268a-4cc2-8c68-b818913de393",
         "sloID": "54",
         "title": "bb vwo B",
-        "lpib_niveau_id": "416eb76b-4a0a-40d9-b953-365af80be95d"
+        "lpib_niveau_id": ["416eb76b-4a0a-40d9-b953-365af80be95d"]
     },
     {
         "id": "808e7aed-64c0-4bfa-a9ee-195f9198807c",
         "sloID": "59",
         "title": "bb vwo C",
-        "lpib_niveau_id": "352da34a-8c02-45c4-9648-3548b01267ea"
+        "lpib_niveau_id": ["352da34a-8c02-45c4-9648-3548b01267ea"]
     },
     {
         "id": "15ba059f-650b-4587-8e30-fdff8d949133",
         "sloID": "56",
         "title": "bb vwo D",
-        "lpib_niveau_id": "44f980d1-eed1-4cb2-8337-e6e73c21b42f"
+        "lpib_niveau_id": ["44f980d1-eed1-4cb2-8337-e6e73c21b42f"]
     },
     {
         "id": "f11ad992-b08d-4eb5-810a-a8bc08e52fdf",
         "sloID": "35",
         "title": "B1",
-        "lpib_niveau_id": "63b2b48a-ae2f-4ebf-a719-b283e22e1fe5"
+        "lpib_niveau_id": ["63b2b48a-ae2f-4ebf-a719-b283e22e1fe5"]
     },
     {
         "id": "a06d82ae-814b-498a-a0a6-e3ff6d2bb915",
         "sloID": "36",
         "title": "B2",
-        "lpib_niveau_id": "56717a1d-299d-4dc1-8aa6-a057128bbb16"
+        "lpib_niveau_id": ["56717a1d-299d-4dc1-8aa6-a057128bbb16"]
     },
     {
         "id": "1b34b8dd-702c-49c6-bd96-9e326e7ac883",
         "sloID": "37",
         "title": "C1",
-        "lpib_niveau_id": "5c9ea389-5668-4072-b477-d470ff485f3f"
+        "lpib_niveau_id": ["5c9ea389-5668-4072-b477-d470ff485f3f"]
     },
     {
         "id": "2c0cd53b-09ee-448a-928d-ff84de3e9ea5",
         "sloID": "38",
         "title": "C2",
-        "lpib_niveau_id": "2c9c0c33-c275-4002-b595-3f8cb34bb64a"
+        "lpib_niveau_id": ["2c9c0c33-c275-4002-b595-3f8cb34bb64a"]
     },
     {
         "id": "749fef9b-5ee8-47dd-9518-f7216e8e75b5",
         "sloID": "79",
         "title": "Groep 1-2",
-        "lpib_niveau_id": "24ac8725-45e5-4cfb-be49-1f6b33b0b357"
+        "lpib_niveau_id": ["24ac8725-45e5-4cfb-be49-1f6b33b0b357"]
     },
     {
         "id": "41846218-1cea-47d3-ab7a-5465518b7d61",
         "sloID": "84",
         "title": "Fase 1",
-        "lpib_niveau_id": "d9e28947-90d1-4cb7-9a24-13ea4a0aabc6"
+        "lpib_niveau_id": ["d9e28947-90d1-4cb7-9a24-13ea4a0aabc6"]
     },
     {
         "id": "43522356-796c-4e19-9e48-41316826441a",
         "sloID": "80",
         "title": "Groep 3-4",
-        "lpib_niveau_id": "84212e16-b7de-4082-85a5-c7cce3125cc0"
+        "lpib_niveau_id": ["84212e16-b7de-4082-85a5-c7cce3125cc0"]
     },
     {
         "id": "c02cd134-bc80-47ee-a55d-f6520fa95fac",
         "sloID": "85",
         "title": "Fase 2",
-        "lpib_niveau_id": "2dbef63b-9d75-44aa-8f75-e67a819980c5"
+        "lpib_niveau_id": ["2dbef63b-9d75-44aa-8f75-e67a819980c5"]
     },
     {
         "id": "092179bc-4b70-4bf8-9b29-98cb6ff4529b",
         "sloID": "81",
         "title": "Groep 5-6",
-        "lpib_niveau_id": "1c222a37-57e8-40a3-949d-514200b379cc"
+        "lpib_niveau_id": ["1c222a37-57e8-40a3-949d-514200b379cc"]
     },
     {
         "id": "d461404a-0531-4d74-8798-07457b3a09d7",
         "sloID": "86",
         "title": "Fase 3",
-        "lpib_niveau_id": "2142e315-659e-4bc3-a235-63733fcdcd6a"
+        "lpib_niveau_id": ["2142e315-659e-4bc3-a235-63733fcdcd6a"]
     },
     {
         "id": "b70ad146-ef8a-4eac-96a7-cb7fcd3eac78",
         "sloID": "82",
         "title": "Groep 7-8",
-        "lpib_niveau_id": "8a3c6c50-3bac-41cc-818e-043e8c84a9b4"
+        "lpib_niveau_id": ["8a3c6c50-3bac-41cc-818e-043e8c84a9b4"]
     },
     {
         "id": "31c47da2-f3bf-4e92-bd37-b60612a8403f",
         "sloID": "87",
         "title": "Fase 4",
-        "lpib_niveau_id": "0600cc0c-8c55-4de3-b76f-298571d2363d"
+        "lpib_niveau_id": ["0600cc0c-8c55-4de3-b76f-298571d2363d"]
     },
     {
         "id": "703dc8e6-461e-495c-a771-6c501f07f647",
         "sloID": "88",
         "title": "Fase 5",
-        "lpib_niveau_id": "98d17528-6e76-4672-9bb1-d043e4038d3b"
+        "lpib_niveau_id": ["98d17528-6e76-4672-9bb1-d043e4038d3b"]
     },
     {
         "id": "b11f36f5-758d-45e3-a441-e9aeeda670f7",
         "sloID": "78",
         "title": "Overstijgend",
-        "lpib_niveau_id": "184e6885-12ff-4f98-a484-39e6c543399f"
+        "lpib_niveau_id": ["184e6885-12ff-4f98-a484-39e6c543399f"]
     }
 ]
