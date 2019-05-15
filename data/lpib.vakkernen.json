@@ -1,6 +1,7 @@
 [
     {
         "id": "1719b731-8370-427a-b544-513483a61cab",
+        "unreleased" : true,
         "title": "Communiceren",
         "lpib_vaksubkern_id": [
             "65f14fea-4813-4bec-86f8-d924b8fb4e99",
@@ -39,6 +40,7 @@
     },
     {
         "id": "80146d9c-a41a-4d0b-b292-7de716381362",
+        "unreleased" : true,
         "title": "Computational thinking",
         "lpib_vaksubkern_id": [
             "f8744050-a97e-49e1-ba03-6814031776ca",
@@ -185,6 +187,7 @@
     },
     {
         "id": "9824065e-4cf2-42d6-9b19-4de2920e4860",
+        "unreleased" : true,
         "title": "Creatief denken en handelen",
         "lpib_vaksubkern_id": [
             "cc433974-210f-42ca-8495-26301f273bb3",
@@ -293,6 +296,7 @@
     },
     {
         "id": "feb35f28-ff32-46eb-b320-d54d659fc53c",
+        "unreleased" : true,
         "title": "ICT-(basisvaardigheden)",
         "lpib_vaksubkern_id": [
             "a02c8658-91f2-4100-8af4-a24bf4f4c8b3",
@@ -389,6 +393,7 @@
     },
     {
         "id": "2c2d3a0f-b051-4b75-84f8-ee6514a2ca36",
+        "unreleased" : true,
         "title": "Informatievaardigheden",
         "lpib_vaksubkern_id": [
             "180c7080-8eac-4425-a9ef-75113f5c22e3",
@@ -462,6 +467,7 @@
     },
     {
         "id": "f390110f-d85c-4b9f-a2e7-f14d992eba4c",
+        "unreleased" : true,
         "title": "Kritisch denken",
         "lpib_vaksubkern_id": [
             "59b516aa-d571-4096-ac09-bea653f4a9ee",
@@ -524,6 +530,7 @@
     },
     {
         "id": "f02c3d97-a9ac-48d0-9f29-2c5ab88aa0fb",
+        "unreleased" : true,
         "title": "Mediawijsheid",
         "lpib_vaksubkern_id": [
             "3eeb177e-0d71-493d-a7e8-5e5118726a24",
@@ -633,6 +640,7 @@
     },
     {
         "id": "d869af88-bd14-4046-a425-69be747a850d",
+        "unreleased" : true,
         "title": "Probleemoplossend denken en handelen",
         "lpib_vaksubkern_id": [
             "faf96a9a-212d-4977-9af6-8b5c4f317d7e",
@@ -679,6 +687,7 @@
     },
     {
         "id": "97e8f73c-380a-4d6c-8694-30db5423e299",
+        "unreleased" : true,
         "title": "Samenwerken",
         "lpib_vaksubkern_id": [
             "5ed087dd-8cfe-4771-bac5-63011420ae47",
@@ -729,6 +738,7 @@
     },
     {
         "id": "282711be-bdf7-43d6-8829-2f5062db9b71",
+        "unreleased" : true,
         "title": "Sociale en culturele vaardigheden",
         "lpib_vaksubkern_id": [
             "c83a709d-00c0-465e-80e3-5ca59cda8860",
@@ -767,6 +777,7 @@
     },
     {
         "id": "56dc5fe8-514d-4eb5-bbf2-96757f946740",
+        "unreleased" : true,
         "title": "Zelfregulering",
         "lpib_vaksubkern_id": [
             "6f863d57-cea7-48a7-bd42-3fdb3c771eec",
@@ -813,6 +824,7 @@
     },
     {
         "id": "6e8db1e8-d4ad-48fe-b3a2-8e927a665665",
+        "unreleased" : true,
         "title": "Aardrijkskundige werkwijzen hanteren",
         "lpib_vaksubkern_id": [
             "320b782d-1d90-487b-bbac-0b4fa9e3e8e9",
@@ -864,6 +876,7 @@
     },
     {
         "id": "2fce5bd6-f19b-4601-b3fe-30c52ebeb539",
+        "unreleased" : true,
         "title": "Arm en rijk",
         "lpib_vaksubkern_id": [
             "8a7cbe0c-0adb-4e47-8fd2-bbbb6290731e",
@@ -919,6 +932,7 @@
     },
     {
         "id": "0e3b6e67-6dc0-4645-a145-e191ca7d9405",
+        "unreleased" : true,
         "title": "Bevolking en ruimte",
         "lpib_vaksubkern_id": [
             "ef961593-afab-4411-8568-01fdcacf38c2",
@@ -1079,6 +1093,7 @@
     },
     {
         "id": "214c750d-6283-4c0d-9887-23fe011d7ae0",
+        "unreleased" : true,
         "title": "Burgerschap",
         "lpib_vaksubkern_id": [
             "e6419fda-637f-4cf7-b910-0ba5c71db696",
@@ -1150,6 +1165,7 @@
     },
     {
         "id": "4066d9dc-8e04-4290-a3f6-dbf5f4e97a5f",
+        "unreleased" : true,
         "title": "Duurzaamheid",
         "lpib_vaksubkern_id": [
             "f4dc3c85-817c-44f0-b13e-7159033fc352",
@@ -1254,6 +1270,7 @@
     },
     {
         "id": "45456d92-1506-4488-b6a8-5ed517b70a6b",
+        "unreleased" : true,
         "title": "Geografisch vaardigheden",
         "lpib_vaksubkern_id": [
             "06417767-73da-4d80-a75e-b3b6e7f6771e",
@@ -1387,6 +1404,7 @@
     },
     {
         "id": "360e75ce-acab-4e5c-98e0-86f2e2b1e0b2",
+        "unreleased" : true,
         "title": "Globalisering",
         "lpib_vaksubkern_id": [
             "572209a0-b181-4691-ad88-bf519fa23b72",
@@ -1452,6 +1470,7 @@
     },
     {
         "id": "336e97ca-a674-4cf2-b5a1-1970a838aa69",
+        "unreleased" : true,
         "title": "Grenzen en identiteit",
         "lpib_vaksubkern_id": [
             "b413f1d5-96fb-4856-bc5a-7715225cd501",
@@ -1528,6 +1547,7 @@
     },
     {
         "id": "1bccd62d-678c-43c8-a681-dba4c4edfc0c",
+        "unreleased" : true,
         "title": "Landschappen (en menselijke activiteit)",
         "lpib_vaksubkern_id": [
             "ae05c22e-97d2-408b-a409-9855c0627acc",
@@ -1583,6 +1603,7 @@
     },
     {
         "id": "e75e604d-3040-443e-8450-7e03dfe916fe",
+        "unreleased" : true,
         "title": "Met aardrijkskundige informatie omgaan en een eenvoudig geografisch onderzoek uitvoeren",
         "lpib_vaksubkern_id": [
             "424add0c-5d6d-4840-9d57-55ef0062e96c",
@@ -1671,6 +1692,7 @@
     },
     {
         "id": "a3d06912-4e59-40c7-a0d4-fe1019186799",
+        "unreleased" : true,
         "title": "Systeem aarde",
         "lpib_vaksubkern_id": [
             "efb1b93f-8463-4b9a-9c84-e100a18069a0",
@@ -1813,6 +1835,7 @@
     },
     {
         "id": "e463d6a7-cd43-4d10-b9e2-7466158ab22e",
+        "unreleased" : true,
         "title": "Water",
         "lpib_vaksubkern_id": [
             "4a6f9751-ffd4-4afe-8673-51f59f9be9d6",
@@ -1960,6 +1983,7 @@
     },
     {
         "id": "62075821-bf43-4d10-8deb-9e405c828757",
+        "unreleased" : true,
         "title": "Werken met aardrijkskundige vragen",
         "lpib_vaksubkern_id": [
             "fff2b89b-19cf-490f-ba24-06bfdf220eb6",
@@ -2020,6 +2044,7 @@
     },
     {
         "id": "f97c1a1e-d308-412b-b32a-94da1f565fa9",
+        "unreleased" : true,
         "title": "Biosfeer",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2030,6 +2055,7 @@
     },
     {
         "id": "59bf9201-fd0d-4fd8-94dd-3ef01618fb01",
+        "unreleased" : true,
         "title": "Leven",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2040,6 +2066,7 @@
     },
     {
         "id": "1776cfa0-50d7-48e0-9eb6-92bdca47a9f9",
+        "unreleased" : true,
         "title": "Materie",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2050,6 +2077,7 @@
     },
     {
         "id": "9db0a453-76cb-49ea-8690-551bfd579825",
+        "unreleased" : true,
         "title": "Zonnestelsel en heelal",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2060,6 +2088,7 @@
     },
     {
         "id": "c516b0c6-75f2-4017-8a60-fc78373ca0ff",
+        "unreleased" : true,
         "title": "Financieel beleid",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2069,6 +2098,7 @@
     },
     {
         "id": "87512196-3d6b-49de-9c22-3a4b6ab8d41c",
+        "unreleased" : true,
         "title": "Interne organisatie en personeelsbeleid",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2078,6 +2108,7 @@
     },
     {
         "id": "5862c3cc-823d-464c-8393-bab36d3fd91d",
+        "unreleased" : true,
         "title": "Investeren en financieren",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2087,6 +2118,7 @@
     },
     {
         "id": "c50eb58e-56bb-4a72-af02-8a0cfe8da8a2",
+        "unreleased" : true,
         "title": "Keuze-onderwerpen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2096,6 +2128,7 @@
     },
     {
         "id": "097a5c80-54ff-43fd-9963-9e5d50f0be0e",
+        "unreleased" : true,
         "title": "Marketing",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2105,6 +2138,7 @@
     },
     {
         "id": "17f209b5-d4c3-42df-96d8-b472ed6e7eee",
+        "unreleased" : true,
         "title": "Vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2114,6 +2148,7 @@
     },
     {
         "id": "991b7180-071c-4913-bcbb-5dadac8f52b2",
+        "unreleased" : true,
         "title": "Van persoon naar rechtspersoon",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2123,6 +2158,7 @@
     },
     {
         "id": "d9b40ac7-ba78-4bd5-a108-337d2be35827",
+        "unreleased" : true,
         "title": "Verslaggeving",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2132,6 +2168,7 @@
     },
     {
         "id": "711d8468-c31b-42ae-a9b2-169958353afb",
+        "unreleased" : true,
         "title": "Bewegen beleven",
         "lpib_vaksubkern_id": [
             "69f3a7f1-2549-4da7-8bd2-572ecc1b84a9",
@@ -2196,6 +2233,7 @@
     },
     {
         "id": "364f3648-ed5a-45c8-8aa8-a6f796ee0505",
+        "unreleased" : true,
         "title": "Bewegen regelen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2249,6 +2287,7 @@
     },
     {
         "id": "821c328e-4cb5-4ba5-9215-caa4007d71ef",
+        "unreleased" : true,
         "title": "Bewegen verbeteren",
         "lpib_vaksubkern_id": [
             "6293c047-7412-4a4e-b5bc-8b265fd72b3d",
@@ -2547,6 +2586,7 @@
     },
     {
         "id": "7d71171d-3ec7-4961-8931-bfaaddd62082",
+        "unreleased" : true,
         "title": "Gezond bewegen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -2581,6 +2621,7 @@
     },
     {
         "id": "2400e03b-d163-4dba-98af-26e425eb4872",
+        "unreleased" : true,
         "title": "Biologische eenheid",
         "lpib_vaksubkern_id": [
             "070e3c4f-97f5-4029-b1be-a35f886d92ac",
@@ -2730,6 +2771,7 @@
     },
     {
         "id": "c658f98a-86c1-46c6-9f8d-87ed374efc1f",
+        "unreleased" : true,
         "title": "Dynamisch evenwicht",
         "lpib_vaksubkern_id": [
             "e1ded261-fcb6-4f89-8764-0d8e9f333b59",
@@ -2840,6 +2882,7 @@
     },
     {
         "id": "4ba7e4f4-a95f-43cc-87c3-c9d575b78c46",
+        "unreleased" : true,
         "title": "Evolutie",
         "lpib_vaksubkern_id": [
             "4289885c-d835-4fa8-be66-8568d17e54af",
@@ -2903,6 +2946,7 @@
     },
     {
         "id": "6a8312ad-1e81-4524-b87f-b4aa989fdd33",
+        "unreleased" : true,
         "title": "Informatievaardigheden",
         "lpib_vaksubkern_id": [
             "1d7c1830-a9e8-4ba1-84c2-dacbbef62441",
@@ -2960,6 +3004,7 @@
     },
     {
         "id": "f308b6cd-89df-4a42-8f33-a994e7f8a733",
+        "unreleased" : true,
         "title": "Instandhouding",
         "lpib_vaksubkern_id": [
             "12742e6a-9a72-4571-b3dd-661df263c4c6",
@@ -3206,6 +3251,7 @@
     },
     {
         "id": "fced5a91-a770-431d-a191-bae82a29fea1",
+        "unreleased" : true,
         "title": "Interactie",
         "lpib_vaksubkern_id": [
             "7d915858-1bc8-4d2d-b525-aaa7eb8a77dd",
@@ -3341,6 +3387,7 @@
     },
     {
         "id": "bbfdd51a-3193-4cb9-b34d-db4ffe968f54",
+        "unreleased" : true,
         "title": "Modelleren",
         "lpib_vaksubkern_id": [
             "d3b7a0fc-e5de-405c-a568-3833df360c07",
@@ -3381,6 +3428,7 @@
     },
     {
         "id": "4a5b8ba8-30bc-4a66-b672-95e14dc667b3",
+        "unreleased" : true,
         "title": "Modelontwikkeling en -gebruik",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -3402,6 +3450,7 @@
     },
     {
         "id": "7137bb39-b652-4f5f-b7e9-d4b027e3622a",
+        "unreleased" : true,
         "title": "Natuurwetenschappelijk instrumentarium \/ reken- en wiskundige vaardigheden",
         "lpib_vaksubkern_id": [
             "3f623954-4543-4d65-8892-81da81250a28",
@@ -3473,6 +3522,7 @@
     },
     {
         "id": "bc7cb31a-5618-4ff1-9b51-fd01ab4a3b46",
+        "unreleased" : true,
         "title": "Onderzoeken",
         "lpib_vaksubkern_id": [
             "ff6e9a0b-3f71-4c15-b17b-6f5672c310b4",
@@ -3562,6 +3612,7 @@
     },
     {
         "id": "dcb90d31-6979-4189-a460-384636e2e586",
+        "unreleased" : true,
         "title": "Ontwerpen",
         "lpib_vaksubkern_id": [
             "c46d0dd6-9da8-4321-953a-826b404c7524",
@@ -3601,6 +3652,7 @@
     },
     {
         "id": "99a36df9-74d5-47a7-beb7-ebf0fb69e5b0",
+        "unreleased" : true,
         "title": "Redeneervaardigheden",
         "lpib_vaksubkern_id": [
             "afccc344-3806-4709-ac5a-4d0b7dff58b9",
@@ -3653,6 +3705,7 @@
     },
     {
         "id": "ae1ac7ed-4c29-4985-b5ff-7e94136b42db",
+        "unreleased" : true,
         "title": "Reken- en wiskundige vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -3670,6 +3723,7 @@
     },
     {
         "id": "bb200f23-88b5-4132-b80a-f113a1eff1fa",
+        "unreleased" : true,
         "title": "Voortplanting",
         "lpib_vaksubkern_id": [
             "3dc2c876-f729-4762-80e6-6a390592699c",
@@ -3849,6 +3903,7 @@
     },
     {
         "id": "1788c7c2-91df-45d3-b1d4-55bfbf283162",
+        "unreleased" : true,
         "title": "Waarderen en oordelen",
         "lpib_vaksubkern_id": [
             "c76b5b42-1c92-4b7a-b088-c11c6d142e57",
@@ -3904,6 +3959,7 @@
     },
     {
         "id": "5aee87c0-28a0-490f-aada-a8ddea52310d",
+        "unreleased" : true,
         "title": "Algemene kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -3961,6 +4017,7 @@
     },
     {
         "id": "261c775c-2726-4edd-b471-dbfdeb9fa77c",
+        "unreleased" : true,
         "title": "Loopbaanori\u00ebntatie en -ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -3976,6 +4033,7 @@
     },
     {
         "id": "37d33cd1-3457-4d0a-8543-e25af5629f93",
+        "unreleased" : true,
         "title": "Module 1 Bouwproces en bouwvoorbereiding (1201)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4030,6 +4088,7 @@
     },
     {
         "id": "48b2e1d0-22fb-46ff-83ff-1c6364c26e67",
+        "unreleased" : true,
         "title": "Module 2 Bouwen vanaf de fundering (1202)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4073,6 +4132,7 @@
     },
     {
         "id": "09fcfe9e-f8b7-4fb7-90a4-1beb73514f09",
+        "unreleased" : true,
         "title": "Module 3 Hout en meubelverbindingen (1203)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4092,6 +4152,7 @@
     },
     {
         "id": "88c9707b-920d-454d-9b80-b7dc879a31fc",
+        "unreleased" : true,
         "title": "Module 4 Design en decoratie (1204)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4141,6 +4202,7 @@
     },
     {
         "id": "8f8a5f29-44f5-4fc1-9423-de45204cebc1",
+        "unreleased" : true,
         "title": "Professionele kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4222,6 +4284,7 @@
     },
     {
         "id": "dcfb8a03-371a-4473-ad03-d0d840887377",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "c2112cbc-f9c0-49f0-bd32-4ec6681d0717"
@@ -4232,6 +4295,7 @@
     },
     {
         "id": "bd3c8ce1-3f94-433c-b670-d33d8ec28cef",
+        "unreleased" : true,
         "title": "Onderzoeken, analyseren, interpreteren en verslag doen",
         "lpib_vaksubkern_id": [
             "a9335fe9-c96b-40bd-96c5-836ea217d335"
@@ -4243,6 +4307,7 @@
     },
     {
         "id": "eca40860-d20d-41c2-9fc0-bdfe09993581",
+        "unreleased" : true,
         "title": "Produceren en presenteren",
         "lpib_vaksubkern_id": [
             "fa272bb3-3a58-4300-b75c-f427fea8d10f"
@@ -4257,6 +4322,7 @@
     },
     {
         "id": "d4e1ef6f-ce81-43fe-a122-f00ad58657b7",
+        "unreleased" : true,
         "title": "Reflecteren en evalueren",
         "lpib_vaksubkern_id": [
             "633b143d-6031-4af3-aeeb-2da3e0ab81c6"
@@ -4270,6 +4336,7 @@
     },
     {
         "id": "66158df9-33c7-456f-8cac-73450a2a9d9b",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4278,6 +4345,7 @@
     },
     {
         "id": "2b4fd7fc-2df0-407e-a5ba-116c5af40c48",
+        "unreleased" : true,
         "title": "Onderzoeken, analyseren, interpreteren en verslag doen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4286,6 +4354,7 @@
     },
     {
         "id": "2b4b3312-6f94-45f5-a7f9-da77dcdd825f",
+        "unreleased" : true,
         "title": "Produceren en presenteren",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4294,6 +4363,7 @@
     },
     {
         "id": "b352ebb7-4d34-4ac0-bb87-c792317064dc",
+        "unreleased" : true,
         "title": "Reflecteren en evalueren",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4302,6 +4372,7 @@
     },
     {
         "id": "15dc2637-9e78-4161-82a1-2f3f16b17ac2",
+        "unreleased" : true,
         "title": "Algemene kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4357,6 +4428,7 @@
     },
     {
         "id": "80332363-e7bd-441b-a2d7-c8e770cfcbd9",
+        "unreleased" : true,
         "title": "Loopbaanori\u00ebntatie en -ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4370,6 +4442,7 @@
     },
     {
         "id": "76842c70-6ad3-42d3-8559-4142c7b282fe",
+        "unreleased" : true,
         "title": "Module 1 Organiseren van een activiteit (1915)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4426,6 +4499,7 @@
     },
     {
         "id": "2d722f58-4481-4c49-b4df-357f755c4f9c",
+        "unreleased" : true,
         "title": "Module 2 Presenteren, promoten en verkopen (1902)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4452,6 +4526,7 @@
     },
     {
         "id": "0823481b-e4de-4dd0-9467-9ea47220a6e1",
+        "unreleased" : true,
         "title": "Module 3 Een product maken en verbeteren (1903)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4476,6 +4551,7 @@
     },
     {
         "id": "73fc01b1-8845-4633-935e-eb0bf9cfa274",
+        "unreleased" : true,
         "title": "Module 4 Multimediale productie maken (1904)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4546,6 +4622,7 @@
     },
     {
         "id": "3ec37fff-610e-48ba-8815-d63fd0688591",
+        "unreleased" : true,
         "title": "Professionele kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -4574,6 +4651,7 @@
     },
     {
         "id": "2affa696-9540-4448-8897-683b28fcb493",
+        "unreleased" : true,
         "title": "Gesprekken voeren",
         "lpib_vaksubkern_id": [
             "1a587fce-a2cf-4162-8d56-3a2f47ef1ac2",
@@ -4641,6 +4719,7 @@
     },
     {
         "id": "f1d8fa8b-0f94-4f3d-b059-ce9f1d14e73f",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "f2a05ea9-731c-4979-8082-673a07a1d9ef",
@@ -4684,6 +4763,7 @@
     },
     {
         "id": "ea0d0b6b-f33c-478a-b550-c275caf31d3a",
+        "unreleased" : true,
         "title": "Lezen",
         "lpib_vaksubkern_id": [
             "cd4cd8e4-b417-4ab6-bbd1-6407cb85c39b",
@@ -4736,6 +4816,7 @@
     },
     {
         "id": "201fe4a2-9c23-40e9-b4a2-44ae070b513f",
+        "unreleased" : true,
         "title": "Schrijven",
         "lpib_vaksubkern_id": [
             "f79af863-b536-4af8-8041-a052489a470b",
@@ -4788,6 +4869,7 @@
     },
     {
         "id": "33f70664-17d2-40d4-b85a-52c6ea16d19d",
+        "unreleased" : true,
         "title": "Spreken",
         "lpib_vaksubkern_id": [
             "2841f5fa-109c-4542-a73f-430de655418e",
@@ -4826,6 +4908,7 @@
     },
     {
         "id": "87d62f23-1d59-4823-a4d7-e9bd034eaa3f",
+        "unreleased" : true,
         "title": "Arbeid, productie en bedrijfsleven",
         "lpib_vaksubkern_id": [
             "b420a480-c285-4cab-9bc9-abc66bfa43bb",
@@ -4901,6 +4984,7 @@
     },
     {
         "id": "7fe3c440-5c99-40fc-a077-d73d5f58aefd",
+        "unreleased" : true,
         "title": "Arm en rijk",
         "lpib_vaksubkern_id": [
             "1d0718a0-60da-4637-8f76-fbd86fc1989d",
@@ -4914,6 +4998,7 @@
     },
     {
         "id": "571c5569-dfbe-4ac7-88b9-ee75a9e45249",
+        "unreleased" : true,
         "title": "Consumptie en consumentenorganisaties",
         "lpib_vaksubkern_id": [
             "c0b24b97-f352-4fe6-8ae1-8cbad6a5a25f",
@@ -5063,6 +5148,7 @@
     },
     {
         "id": "3f0ed38b-b3d3-4711-bd28-f1aa239e5920",
+        "unreleased" : true,
         "title": "Goede tijden, slechte tijden",
         "lpib_vaksubkern_id": [
             "5292f5ba-0c9e-4691-b24c-2d7a8c66c92c",
@@ -5112,6 +5198,7 @@
     },
     {
         "id": "8ffe98c1-b0c5-4b75-91f3-5c06e64c28c9",
+        "unreleased" : true,
         "title": "Internationale ontwikkelingen",
         "lpib_vaksubkern_id": [
             "2c8668ec-86d2-4231-9cbe-86e37b438a63",
@@ -5160,6 +5247,7 @@
     },
     {
         "id": "bdf30cc9-bb47-440e-9784-184968a6c93e",
+        "unreleased" : true,
         "title": "Leervaardigheden in het vak economie",
         "lpib_vaksubkern_id": [
             "2694b771-00c6-484a-824d-08cef8d77b44",
@@ -5183,6 +5271,7 @@
     },
     {
         "id": "e7c4f5be-fd40-4d82-8c9d-41aaa3ffe450",
+        "unreleased" : true,
         "title": "Markt",
         "lpib_vaksubkern_id": [
             "66e713bc-0f8c-4723-b3a4-e1a149f530bf",
@@ -5259,6 +5348,7 @@
     },
     {
         "id": "d9576db0-1e98-4cde-84e0-b3fe18e004d4",
+        "unreleased" : true,
         "title": "Natuur en milieu",
         "lpib_vaksubkern_id": [
             "3367b182-be50-4d6e-ac39-c7b61ab8710c",
@@ -5283,6 +5373,7 @@
     },
     {
         "id": "8341ba89-36bb-4879-b104-4335a83f8eb3",
+        "unreleased" : true,
         "title": "Overheid en bestuur",
         "lpib_vaksubkern_id": [
             "4980a84d-d2c6-45f9-b361-6afd7bcfbb35",
@@ -5337,6 +5428,7 @@
     },
     {
         "id": "0d6407fb-a50d-409b-a56b-7ce15adfdfce",
+        "unreleased" : true,
         "title": "Risico en informatie",
         "lpib_vaksubkern_id": [
             "9667dc96-9a75-4612-b600-b54755002f3c",
@@ -5389,6 +5481,7 @@
     },
     {
         "id": "085742fd-9518-4af1-b9f1-288aa38b863b",
+        "unreleased" : true,
         "title": "Ruil",
         "lpib_vaksubkern_id": [
             "56aa68bc-4f7c-47de-b571-d6b0198b40f2",
@@ -5438,6 +5531,7 @@
     },
     {
         "id": "07cf4c78-5c2c-4268-aa37-6552f99fe2dc",
+        "unreleased" : true,
         "title": "Ruilen over de tijd",
         "lpib_vaksubkern_id": [
             "511578a6-1856-4ef1-a3c3-436a724a6236",
@@ -5485,6 +5579,7 @@
     },
     {
         "id": "3b3deac3-f11b-4bb7-a4f6-3ffdbbd98b4f",
+        "unreleased" : true,
         "title": "Samenwerken en onderhandelen",
         "lpib_vaksubkern_id": [
             "036baecc-76df-42b0-92f1-529a00723a7a",
@@ -5525,6 +5620,7 @@
     },
     {
         "id": "41aa7b50-1b3b-48c2-9739-cac4ef4c6fcd",
+        "unreleased" : true,
         "title": "Schaarste",
         "lpib_vaksubkern_id": [
             "a336f578-5b55-4cdd-817b-032ce91188c9",
@@ -5548,6 +5644,7 @@
     },
     {
         "id": "820340bf-f670-4d96-b3bd-5a4b4db6f6a9",
+        "unreleased" : true,
         "title": "Vaardigheden in samenhang",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -5556,6 +5653,7 @@
     },
     {
         "id": "cad889f0-6f6c-4ea6-a430-8fead4832ec6",
+        "unreleased" : true,
         "title": "Verwerven, verwerken en verstrekken van informatie",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -5565,6 +5663,7 @@
     },
     {
         "id": "71399584-e6c4-40bc-a1d2-5e924b1b66e8",
+        "unreleased" : true,
         "title": "Welvaart en groei",
         "lpib_vaksubkern_id": [
             "7e4b4a24-8854-4c4b-9446-9100cd9595b1",
@@ -5601,6 +5700,7 @@
     },
     {
         "id": "17c334dd-ca5e-4c1d-8fc6-0d2444e667a5",
+        "unreleased" : true,
         "title": "Algemene kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -5656,6 +5756,7 @@
     },
     {
         "id": "761755fc-29da-4a26-8528-2ffa9d172179",
+        "unreleased" : true,
         "title": "Loopbaanori\u00ebntatie en -ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -5669,6 +5770,7 @@
     },
     {
         "id": "77d415c5-399b-408a-8005-7656247e7458",
+        "unreleased" : true,
         "title": "Module 1 Commercieel (1701)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -5708,6 +5810,7 @@
     },
     {
         "id": "8c1c0974-c454-447f-aedb-6dbaa230572d",
+        "unreleased" : true,
         "title": "Module 2 Secretarieel (1702)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -5751,6 +5854,7 @@
     },
     {
         "id": "275cabc0-d8ad-4820-aa58-f8e7aed54a25",
+        "unreleased" : true,
         "title": "Module 3 Logistiek (1703)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -5778,6 +5882,7 @@
     },
     {
         "id": "b5ff8aa1-f089-4b03-a24b-65af57271f25",
+        "unreleased" : true,
         "title": "Module 4 Administratie (1704)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -5799,6 +5904,7 @@
     },
     {
         "id": "38b0cb63-3ede-46c5-b01b-c9d42630ccd6",
+        "unreleased" : true,
         "title": "Professionele kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -5824,6 +5930,7 @@
     },
     {
         "id": "7427a6d7-678b-4dc4-a977-618c81072e85",
+        "unreleased" : true,
         "title": "Gesprekken voeren",
         "lpib_vaksubkern_id": [
             "557e5213-d1bb-4354-a887-6c5207396c2d",
@@ -6024,6 +6131,7 @@
     },
     {
         "id": "18b4d6fc-c032-4d07-9bc8-7ff85691d719",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "0c4fce66-c34f-4190-9556-97a4d0b1f30f",
@@ -6165,6 +6273,7 @@
     },
     {
         "id": "256fbcbc-cc70-4694-a216-974abdeb6063",
+        "unreleased" : true,
         "title": "Lezen",
         "lpib_vaksubkern_id": [
             "453fff53-87b7-4521-97cf-a6d5467b9a12",
@@ -6352,6 +6461,7 @@
     },
     {
         "id": "9bf68d75-4270-47ee-8aa2-0087defd1767",
+        "unreleased" : true,
         "title": "Literatuur",
         "lpib_vaksubkern_id": [
             "a3234515-78f9-4653-a717-e04b79ba893c",
@@ -6396,6 +6506,7 @@
     },
     {
         "id": "f60c14af-2b8b-425d-9aec-fbbd5aa04933",
+        "unreleased" : true,
         "title": "Schrijven",
         "lpib_vaksubkern_id": [
             "7df89a7e-a36d-4089-9a56-46c4983056dc",
@@ -6547,6 +6658,7 @@
     },
     {
         "id": "1a4f280a-d3d9-4d88-9d53-f7056e766194",
+        "unreleased" : true,
         "title": "Spreken",
         "lpib_vaksubkern_id": [
             "8a5b1637-52ee-4851-9f74-f1c19793369e",
@@ -6635,6 +6747,7 @@
     },
     {
         "id": "826d3765-668f-4759-a470-a4bf0f475f71",
+        "unreleased" : true,
         "title": "Domein A Vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -6644,6 +6757,7 @@
     },
     {
         "id": "7d37a831-6250-4fc5-886f-8cbd39af74c5",
+        "unreleased" : true,
         "title": "Domein B Wijsgerige antropologie",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -6653,6 +6767,7 @@
     },
     {
         "id": "ed55a6c7-88cf-4aa9-b31b-d7dc24ec8308",
+        "unreleased" : true,
         "title": "Domein C Ethiek",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -6662,6 +6777,7 @@
     },
     {
         "id": "c33e4030-f47a-465c-92ad-c0cf87176d27",
+        "unreleased" : true,
         "title": "Domein D Kennisleer",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -6671,6 +6787,7 @@
     },
     {
         "id": "c3b401a0-7256-454c-b400-3e9eb97c28d2",
+        "unreleased" : true,
         "title": "Domein E Wetenschapsfilosofie.",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -6679,6 +6796,7 @@
     },
     {
         "id": "71300446-16ee-4958-b8fc-0d79073d2c21",
+        "unreleased" : true,
         "title": "Gesprekken voeren",
         "lpib_vaksubkern_id": [
             "01769af3-9858-4a52-a104-97219a6db198",
@@ -6743,6 +6861,7 @@
     },
     {
         "id": "4bc5655c-f85c-4b18-8f5e-03d0d25c9291",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "97c2d770-a48d-4f89-864a-babaeb34b679",
@@ -6786,6 +6905,7 @@
     },
     {
         "id": "02adbf49-11e1-499d-87c1-315eb5ad0e56",
+        "unreleased" : true,
         "title": "Lezen",
         "lpib_vaksubkern_id": [
             "95ebbc3e-8776-4182-8bc3-436df557f328",
@@ -6838,6 +6958,7 @@
     },
     {
         "id": "b8e9876e-ed25-4c96-a676-e247eb6395f8",
+        "unreleased" : true,
         "title": "Schrijven",
         "lpib_vaksubkern_id": [
             "b8ea8aca-21af-4086-b0fe-d23582014aba",
@@ -6890,6 +7011,7 @@
     },
     {
         "id": "17bd7545-5834-4d39-be2f-58f8363639de",
+        "unreleased" : true,
         "title": "Spreken",
         "lpib_vaksubkern_id": [
             "cc64b990-ce63-458e-abe9-850ba8eed6fd",
@@ -6928,6 +7050,7 @@
     },
     {
         "id": "1724a10d-1152-4317-b261-ab69b6d23df0",
+        "unreleased" : true,
         "title": "Fysische geografie",
         "lpib_vaksubkern_id": [
             "d9fd4613-a0ad-4926-a3c4-149b5289ce0c",
@@ -7052,6 +7175,7 @@
     },
     {
         "id": "f283b770-cbf2-45d6-920f-5033edf43c05",
+        "unreleased" : true,
         "title": "Betekenis geven aan het verleden",
         "lpib_vaksubkern_id": [
             "5db0f54a-011f-45c5-b938-6ad242089275"
@@ -7065,6 +7189,7 @@
     },
     {
         "id": "c76a6e48-510d-4c79-bac3-61bc40f12a45",
+        "unreleased" : true,
         "title": "Burgers en stoommachines",
         "lpib_vaksubkern_id": [
             "9a63d39a-19b3-443f-b688-c20af2e3c256",
@@ -7217,6 +7342,7 @@
     },
     {
         "id": "446e556f-4fc5-41c5-a958-f01d1433bba5",
+        "unreleased" : true,
         "title": "De wereldoorlogen",
         "lpib_vaksubkern_id": [
             "8856938a-62f1-4979-8c41-57493c461dd6",
@@ -7428,6 +7554,7 @@
     },
     {
         "id": "01650f76-5639-406c-88c5-b0cae31af947",
+        "unreleased" : true,
         "title": "Geschiedens van de rechtsstaat en de parlementaire democratie",
         "lpib_vaksubkern_id": [
             "c205fcc2-db10-4576-b5b8-74e9db8b63e5",
@@ -7451,6 +7578,7 @@
     },
     {
         "id": "e79074aa-b358-4c1f-8c49-80e4a0f184a2",
+        "unreleased" : true,
         "title": "Grieken en Romeinen",
         "lpib_vaksubkern_id": [
             "ba1db592-482c-4b91-aa5b-bbd2baeb7234",
@@ -7509,6 +7637,7 @@
     },
     {
         "id": "6e30481c-29ee-42fd-b648-53727a31006e",
+        "unreleased" : true,
         "title": "Interpreteren van het verleden",
         "lpib_vaksubkern_id": [
             "3f311960-4b9b-4df9-8915-bb24252fc32a",
@@ -7527,6 +7656,7 @@
     },
     {
         "id": "1fbb3e2d-ce3a-4431-b17c-73bb6dbd69e7",
+        "unreleased" : true,
         "title": "Jagers en boeren",
         "lpib_vaksubkern_id": [
             "65dbf7e1-6f9e-4d5a-9249-6795f6b4a579",
@@ -7569,6 +7699,7 @@
     },
     {
         "id": "a1bf24c3-01f8-4dbf-bb64-035fe2ae1563",
+        "unreleased" : true,
         "title": "Kenmerkende aspecten",
         "lpib_vaksubkern_id": [
             "3b791474-f9c7-4d63-b01e-7a904ef4bdba",
@@ -7589,6 +7720,7 @@
     },
     {
         "id": "4b03c9da-dfc8-4136-998a-0aa4a97dc574",
+        "unreleased" : true,
         "title": "Keuzethema",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -7600,6 +7732,7 @@
     },
     {
         "id": "7895e64e-44b6-41be-8a3d-f77c68dd742e",
+        "unreleased" : true,
         "title": "Monniken en Ridders",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -7609,6 +7742,7 @@
     },
     {
         "id": "98c50995-986f-4e92-8eb6-20ed2fe6eb76",
+        "unreleased" : true,
         "title": "Monniken en ridders",
         "lpib_vaksubkern_id": [
             "f13e03de-3817-4a7b-9a51-d450c24635ab",
@@ -7659,6 +7793,7 @@
     },
     {
         "id": "8468158a-c55d-47a0-95d0-94f3cd0b67ac",
+        "unreleased" : true,
         "title": "Omgaan met tijd en processen in het verleden",
         "lpib_vaksubkern_id": [
             "4333c6de-a8be-45d2-8c2f-a69963ae564b",
@@ -7690,6 +7825,7 @@
     },
     {
         "id": "7a89fa90-ff5a-4132-849a-c69d6c6f3733",
+        "unreleased" : true,
         "title": "Ontdekkers en hervormers",
         "lpib_vaksubkern_id": [
             "ef299930-5370-4d6d-af37-d7e0555ce6c1",
@@ -7755,6 +7891,7 @@
     },
     {
         "id": "d0db684d-4947-4411-9066-bc6776931ead",
+        "unreleased" : true,
         "title": "Pruiken en revoluties",
         "lpib_vaksubkern_id": [
             "dec40ce1-1dc5-44aa-8123-6db4332cf468",
@@ -7807,6 +7944,7 @@
     },
     {
         "id": "b0e5da60-4d73-4873-b92a-7c70e975cf14",
+        "unreleased" : true,
         "title": "Regenten en vorsten",
         "lpib_vaksubkern_id": [
             "a61615ef-1f2d-4e58-a1c7-1f0756467d7f",
@@ -7862,6 +8000,7 @@
     },
     {
         "id": "8b8241a7-1547-46b6-bffa-3d0281753398",
+        "unreleased" : true,
         "title": "Steden en staten",
         "lpib_vaksubkern_id": [
             "b4e4c068-d4ad-4150-b34d-fa6f66779e4d",
@@ -7913,6 +8052,7 @@
     },
     {
         "id": "865cb3ea-1de4-4fbc-9cd5-873a8f91cd6e",
+        "unreleased" : true,
         "title": "Televisie en computer",
         "lpib_vaksubkern_id": [
             "ae78f98f-e82e-4975-89e2-a26a95a38929",
@@ -8110,6 +8250,7 @@
     },
     {
         "id": "880dde81-63eb-4c01-a8fc-6a2547fa0439",
+        "unreleased" : true,
         "title": "Wereldoorlogen",
         "lpib_vaksubkern_id": [
             "a22f383b-514b-4339-a3af-d83f36827aff",
@@ -8180,6 +8321,7 @@
     },
     {
         "id": "2fff3a46-e739-4185-8574-f34b780bfbbb",
+        "unreleased" : true,
         "title": "Betekenisgeving",
         "lpib_vaksubkern_id": [
             "c6c894ec-12fb-4d98-96da-13951c80a2c1",
@@ -8210,6 +8352,7 @@
     },
     {
         "id": "b98076b8-3028-41f0-aae9-e3d9a9fd400a",
+        "unreleased" : true,
         "title": "Cultuur en geschiedenis",
         "lpib_vaksubkern_id": [
             "075a7eb1-350e-4c6d-aaff-4e9224804d2a",
@@ -8240,6 +8383,7 @@
     },
     {
         "id": "42870bb5-cb63-4b39-b594-bf393dec8446",
+        "unreleased" : true,
         "title": "Cultuurbeschouwing",
         "lpib_vaksubkern_id": [
             "b9abf010-cd22-426b-a950-5e2ca02b3c32",
@@ -8282,6 +8426,7 @@
     },
     {
         "id": "59faf600-6d62-4803-9de8-3612cf77fcd5",
+        "unreleased" : true,
         "title": "Taalbeschouwing",
         "lpib_vaksubkern_id": [
             "e517697e-fe33-4c0d-a5ba-35fdd7d0d4f5",
@@ -8319,6 +8464,7 @@
     },
     {
         "id": "35bbd5a7-1b35-42b1-86f8-14ca358eb782",
+        "unreleased" : true,
         "title": "Taalsysteem",
         "lpib_vaksubkern_id": [
             "a957ef80-43ae-4205-b610-2287720c8ed6",
@@ -8359,6 +8505,7 @@
     },
     {
         "id": "bedc0a03-2279-4565-8bee-23d1c0208681",
+        "unreleased" : true,
         "title": "Tekst- en literatuur beschouwing",
         "lpib_vaksubkern_id": [
             "b7980ff9-be6e-45bd-afda-aea4cc015bb8",
@@ -8384,6 +8531,7 @@
     },
     {
         "id": "addcccc8-bc38-447a-9732-e5f6d2338d82",
+        "unreleased" : true,
         "title": "Tekst- en literatuurbeschouwing",
         "lpib_vaksubkern_id": [
             "905649c1-1e50-4371-8e6e-824afd475599",
@@ -8419,6 +8567,7 @@
     },
     {
         "id": "626487cd-8668-46a6-9663-96d8806aec98",
+        "unreleased" : true,
         "title": "Teksten en literatuur",
         "lpib_vaksubkern_id": [
             "3a379ad1-f50a-4b00-866c-7396d0b8cec8",
@@ -8457,6 +8606,7 @@
     },
     {
         "id": "987d5b7a-76e3-4dbf-bc54-e21b2b0d1ea9",
+        "unreleased" : true,
         "title": "Tekstontsluiting",
         "lpib_vaksubkern_id": [
             "3b55a91d-13b3-4c81-8212-421dede5afb2",
@@ -8487,6 +8637,7 @@
     },
     {
         "id": "2d5440a9-340e-4b22-b712-cde98457b989",
+        "unreleased" : true,
         "title": "Competenties",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8548,6 +8699,7 @@
     },
     {
         "id": "e76efe71-f320-49ce-8da0-98fe581cb906",
+        "unreleased" : true,
         "title": "Loopbaanori\u00ebntatie en -ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8561,6 +8713,7 @@
     },
     {
         "id": "b73aaab6-fe02-431a-bc93-6f2db3a65558",
+        "unreleased" : true,
         "title": "Module 1 Groene productie (2001)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8596,6 +8749,7 @@
     },
     {
         "id": "294bbf47-0ade-47d7-a230-83be4da5a949",
+        "unreleased" : true,
         "title": "Module 2 Tussen productie en verkoop (2002)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8637,6 +8791,7 @@
     },
     {
         "id": "7f0a46aa-0bae-449e-902c-2a2db79785a8",
+        "unreleased" : true,
         "title": "Module 3 Vergroening stedelijke omgeving (2018)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8685,6 +8840,7 @@
     },
     {
         "id": "d2d5bd2a-b7de-4505-a773-3d61e2549ab1",
+        "unreleased" : true,
         "title": "Module 4 Groene vormgeving en verkoop (2004)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8719,6 +8875,7 @@
     },
     {
         "id": "2b33dd1e-8c01-407b-aeb6-c54739b06867",
+        "unreleased" : true,
         "title": "Professionele kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8750,6 +8907,7 @@
     },
     {
         "id": "40f76224-59b0-4033-8788-4fbadc0d329d",
+        "unreleased" : true,
         "title": "Algemene kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8805,6 +8963,7 @@
     },
     {
         "id": "860bc1dc-8e40-4e32-86a1-40c3168b0662",
+        "unreleased" : true,
         "title": "Loopbaanori\u00ebntatie en -ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8818,6 +8977,7 @@
     },
     {
         "id": "b9cc573b-20cc-4709-bcc4-08312ef35ba9",
+        "unreleased" : true,
         "title": "Module 1 Gastheerschap (1801)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8888,6 +9048,7 @@
     },
     {
         "id": "45d37c51-ae10-4df7-86a7-57187f7dcb4e",
+        "unreleased" : true,
         "title": "Module 2 Bakkerij (1802)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8915,6 +9076,7 @@
     },
     {
         "id": "1769e931-4dc9-4e75-a9b8-95e4f7d86dd1",
+        "unreleased" : true,
         "title": "Module 3 Keuken (1803)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8952,6 +9114,7 @@
     },
     {
         "id": "ba88f7ff-4657-474d-9a66-f1d9abf22ce6",
+        "unreleased" : true,
         "title": "Module 4 Recreatie (1804)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -8973,6 +9136,7 @@
     },
     {
         "id": "351b3ed3-7b30-4071-bce0-d342976d1353",
+        "unreleased" : true,
         "title": "Professionele kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9010,6 +9174,7 @@
     },
     {
         "id": "07089e88-b295-485f-80ee-801266487940",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "b1fccb27-20d4-4073-ab62-b32a8ee880e4",
@@ -9037,6 +9202,7 @@
     },
     {
         "id": "b1331533-f13b-4db0-b006-071367063cf6",
+        "unreleased" : true,
         "title": "Onderzoeken, analyseren, interpreteren en verslag doen",
         "lpib_vaksubkern_id": [
             "ba94a11c-b1c1-4eda-97d9-d5b90c12c59c",
@@ -9090,6 +9256,7 @@
     },
     {
         "id": "78ba030e-b2cb-4c89-b342-ae22b88d1b85",
+        "unreleased" : true,
         "title": "Produceren en presenteren",
         "lpib_vaksubkern_id": [
             "6853874f-45b3-4987-9fda-7fd5858c92ef",
@@ -9152,6 +9319,7 @@
     },
     {
         "id": "a59e16c3-59f4-4a6e-85d0-ee12f0a69716",
+        "unreleased" : true,
         "title": "Reflecteren en evalueren",
         "lpib_vaksubkern_id": [
             "abb4e643-2929-467f-a7b7-d92336d3d9c7",
@@ -9204,6 +9372,7 @@
     },
     {
         "id": "df1a99c0-23be-457d-96a8-39d8ab3ddfbd",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "cc7c16ac-bf41-423c-98de-8b4d92fa36fb",
@@ -9224,6 +9393,7 @@
     },
     {
         "id": "ae2bcf7b-08c6-45d7-b501-c8dcb6f51f27",
+        "unreleased" : true,
         "title": "Onderzoeken, analyseren, interpreteren en verslag doen",
         "lpib_vaksubkern_id": [
             "a6eb1adf-e88f-4755-a5ac-b35a6cdc0f9c",
@@ -9254,6 +9424,7 @@
     },
     {
         "id": "77635153-5140-4225-aeb2-5afbd08e4372",
+        "unreleased" : true,
         "title": "Produceren en presenteren",
         "lpib_vaksubkern_id": [
             "489b6d72-b96a-4d61-9394-0f06f21f5d50",
@@ -9278,6 +9449,7 @@
     },
     {
         "id": "82ed19f6-d418-467b-8642-b6dded97fa29",
+        "unreleased" : true,
         "title": "Reflecteren en evalueren",
         "lpib_vaksubkern_id": [
             "216b47fd-ac0c-4043-b35a-d93042f463ca",
@@ -9306,6 +9478,7 @@
     },
     {
         "id": "7cd97728-84dd-42aa-a5ac-fdc4544a6272",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "ae93ed78-1e72-4e84-999e-7ea2808c1970"
@@ -9316,6 +9489,7 @@
     },
     {
         "id": "c872f8cd-6702-44c6-a895-4cad3bac3156",
+        "unreleased" : true,
         "title": "Onderzoeken, analyseren, interpreteren en verslag doen",
         "lpib_vaksubkern_id": [
             "fdac8101-7874-4642-9392-2fca678253e3"
@@ -9328,6 +9502,7 @@
     },
     {
         "id": "f4fb416c-b350-4001-a4e4-b9289ab55212",
+        "unreleased" : true,
         "title": "Produceren en presenteren",
         "lpib_vaksubkern_id": [
             "c5640569-a020-475f-94b1-d61dfd9afcc7"
@@ -9342,6 +9517,7 @@
     },
     {
         "id": "135c6dfe-4caa-48aa-b402-c7e8f2a13020",
+        "unreleased" : true,
         "title": "Reflecteren en evalueren",
         "lpib_vaksubkern_id": [
             "a2749650-6ba7-4de4-9cd4-c937e81e1844"
@@ -9354,6 +9530,7 @@
     },
     {
         "id": "5eb5802e-f5e4-43a9-ba5c-6cb85a1f9512",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "9ed00535-9c8b-4a27-9643-4a32beaff9e4"
@@ -9364,6 +9541,7 @@
     },
     {
         "id": "9a8c5036-4d83-49eb-8df6-1a827b919c99",
+        "unreleased" : true,
         "title": "Onderzoeken, analyseren, interpreteren en verslag doen",
         "lpib_vaksubkern_id": [
             "b4b1b936-31f0-453d-9fd6-f1533650c888"
@@ -9376,6 +9554,7 @@
     },
     {
         "id": "faaca156-af80-470c-b351-66a86d10d1b7",
+        "unreleased" : true,
         "title": "Produceren en presenteren",
         "lpib_vaksubkern_id": [
             "8dedb4a1-90ff-4e8e-ad4b-8d2de988c200"
@@ -9390,6 +9569,7 @@
     },
     {
         "id": "eca9e066-a3a0-4fa3-81cd-394ff7456c85",
+        "unreleased" : true,
         "title": "Reflecteren en evalueren",
         "lpib_vaksubkern_id": [
             "d9778fc5-0d94-4cf2-b624-115c557c2592"
@@ -9402,6 +9582,7 @@
     },
     {
         "id": "14620c92-17d8-4be4-b851-bf2f80d35c88",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "3451ab2b-d276-4319-96ce-3f6cd4787535",
@@ -9421,6 +9602,7 @@
     },
     {
         "id": "fb15a075-2543-43c5-9787-3d9bbe34eea3",
+        "unreleased" : true,
         "title": "Onderzoeken, analyseren, interpreteren en verslag doen",
         "lpib_vaksubkern_id": [
             "de1161e4-f7d8-4546-8a8d-a863a3c47fd7",
@@ -9454,6 +9636,7 @@
     },
     {
         "id": "196a7410-0c8d-474c-9ab2-be8a66fd7a85",
+        "unreleased" : true,
         "title": "Produceren en presenteren",
         "lpib_vaksubkern_id": [
             "760eded7-6853-4521-baed-d5d93dba8a94",
@@ -9480,6 +9663,7 @@
     },
     {
         "id": "141d7f7d-187a-4318-b318-4e299fba41aa",
+        "unreleased" : true,
         "title": "Producren en presenteren",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9488,6 +9672,7 @@
     },
     {
         "id": "12d774dd-f581-4fe5-885c-10c585f3547e",
+        "unreleased" : true,
         "title": "Reflecteren en evalueren",
         "lpib_vaksubkern_id": [
             "f7632aa4-8b41-4f54-9651-3c162cb3be71",
@@ -9516,6 +9701,7 @@
     },
     {
         "id": "6affac30-71d9-41be-8223-5fb51d05aa9f",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "0fb64abf-0243-4107-ac04-59259569447e"
@@ -9528,6 +9714,7 @@
     },
     {
         "id": "dddcf8fe-77e3-43fc-8e0e-5f894ad4ac3c",
+        "unreleased" : true,
         "title": "Onderzoeken, analyseren, interpreteren en verslag doen",
         "lpib_vaksubkern_id": [
             "1874a019-b9fb-4484-8572-60f38afaa907"
@@ -9543,6 +9730,7 @@
     },
     {
         "id": "0cd80f19-1795-4233-8bf7-b6a706fd851e",
+        "unreleased" : true,
         "title": "Produceren en presenteren",
         "lpib_vaksubkern_id": [
             "49e92995-7df7-47bd-9300-c3d43a4b8d1f"
@@ -9556,6 +9744,7 @@
     },
     {
         "id": "4b96c375-2d86-4d4e-ad30-d11d8f6da36c",
+        "unreleased" : true,
         "title": "Reflecteren en evalueren",
         "lpib_vaksubkern_id": [
             "1807185b-c235-41b8-bdad-cf8a889fd980"
@@ -9570,6 +9759,7 @@
     },
     {
         "id": "220153f5-f9c7-4d63-b9a0-d44989c0513f",
+        "unreleased" : true,
         "title": "Betekenisgeving",
         "lpib_vaksubkern_id": [
             "1b4a4502-04c2-43da-b189-2a009ec39d17",
@@ -9601,6 +9791,7 @@
     },
     {
         "id": "011d022a-acaf-485f-abbf-2e59b3c0f94c",
+        "unreleased" : true,
         "title": "Cultuur en geschiedenis",
         "lpib_vaksubkern_id": [
             "150273c3-6580-41b0-b5e4-ca7bdfafd284",
@@ -9632,6 +9823,7 @@
     },
     {
         "id": "c12fdf60-20a7-4666-90ae-7557f66424d0",
+        "unreleased" : true,
         "title": "Cultuurbeschouwing",
         "lpib_vaksubkern_id": [
             "2b90daf6-d74b-42de-822e-8f25c0be852a",
@@ -9673,6 +9865,7 @@
     },
     {
         "id": "7cd4d8ff-82be-4a4b-b1e4-770516c5ceaa",
+        "unreleased" : true,
         "title": "Taalbeschouwing",
         "lpib_vaksubkern_id": [
             "3b65f9ba-950b-4225-b575-150cbd9e3299",
@@ -9702,6 +9895,7 @@
     },
     {
         "id": "1b19c347-398a-497d-b8b0-0365d420d0ea",
+        "unreleased" : true,
         "title": "Taalsysteem",
         "lpib_vaksubkern_id": [
             "fd30b4f6-3af0-4b8b-9bfb-adebf5c9152f",
@@ -9734,6 +9928,7 @@
     },
     {
         "id": "f2c19594-2acc-4a51-8109-20eac7f136b2",
+        "unreleased" : true,
         "title": "Tekst- en literatuur beschouwing",
         "lpib_vaksubkern_id": [
             "eb69e1f3-86d1-4023-a5b6-dc398faed571",
@@ -9788,6 +9983,7 @@
     },
     {
         "id": "115a47dd-b8b6-4bf3-a404-66eab48da8ec",
+        "unreleased" : true,
         "title": "Teksten en literatuur",
         "lpib_vaksubkern_id": [
             "139aaabb-b09f-47cc-916a-7740b7320365",
@@ -9827,6 +10023,7 @@
     },
     {
         "id": "edd68785-7124-4de0-bf66-9d964704ff02",
+        "unreleased" : true,
         "title": "Tekstontsluiting",
         "lpib_vaksubkern_id": [
             "75870d8c-5c2a-4b2c-a1bc-9d6c95960e28",
@@ -9865,6 +10062,7 @@
     },
     {
         "id": "cadc1b2c-bc73-4700-a4e7-8d985b640c01",
+        "unreleased" : true,
         "title": "Communicatie en samenleving",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9876,6 +10074,7 @@
     },
     {
         "id": "92735469-e696-4633-b930-4d99dc8ad86c",
+        "unreleased" : true,
         "title": "Cultuur, levensbeschouwing en identiteit",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9887,6 +10086,7 @@
     },
     {
         "id": "111be74f-e6e4-4dd2-999d-a496b433d36a",
+        "unreleased" : true,
         "title": "Internationale verhoudingen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9898,6 +10098,7 @@
     },
     {
         "id": "a498c991-fd28-4933-a53c-9f96d7f28cbd",
+        "unreleased" : true,
         "title": "Macht, gezag en bestuur",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9909,6 +10110,7 @@
     },
     {
         "id": "c7906e60-6e7b-4be8-ba61-997a41860d3d",
+        "unreleased" : true,
         "title": "Werk, welzijn en welvaart",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9920,6 +10122,7 @@
     },
     {
         "id": "9e3f5dfa-b81e-48f4-aefe-22bdce581481",
+        "unreleased" : true,
         "title": "Communicatie en samenleving",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9931,6 +10134,7 @@
     },
     {
         "id": "21cf83b4-ac81-4d66-b272-92659004a5d5",
+        "unreleased" : true,
         "title": "Cultuur, levensbeschouwing en identiteit",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9944,6 +10148,7 @@
     },
     {
         "id": "7682e990-7245-45c2-89d1-83b431b3743c",
+        "unreleased" : true,
         "title": "Cultuur, levensbeschouwing en identiteit",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9955,6 +10160,7 @@
     },
     {
         "id": "0898ad98-f70a-4f25-a9a3-a11422140952",
+        "unreleased" : true,
         "title": "Macht, gezag en bestuur",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9968,6 +10174,7 @@
     },
     {
         "id": "598c4574-5a08-4473-b3b6-e45df89f210e",
+        "unreleased" : true,
         "title": "Macht, gezag en bestuur",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9981,6 +10188,7 @@
     },
     {
         "id": "9fda2c80-6727-43cb-b7cb-974efc7a08f2",
+        "unreleased" : true,
         "title": "Werk, welzijn en welvaart",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -9992,6 +10200,7 @@
     },
     {
         "id": "123d6698-7e1d-40d9-b219-eb0068e53db1",
+        "unreleased" : true,
         "title": "Werk, welzijn en welvaart",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10003,6 +10212,7 @@
     },
     {
         "id": "d873781f-8309-4bf2-a432-aae5b44c7eac",
+        "unreleased" : true,
         "title": "Communicatie en samenleving",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10015,6 +10225,7 @@
     },
     {
         "id": "59c3a146-b829-473f-9f35-3ee7b1530a50",
+        "unreleased" : true,
         "title": "Cultuur, levensbeschouwing en identiteit",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10026,6 +10237,7 @@
     },
     {
         "id": "deb18f72-cae3-4ffb-9380-3a8ba2b13a7a",
+        "unreleased" : true,
         "title": "De mens en zijn fysieke- en ruimtelijke leefomgeving (duurzaamheid, ruimtelijke inrichting en milieu)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10037,6 +10249,7 @@
     },
     {
         "id": "309f4ea4-d987-48a4-8aaa-b446e3dd0b7f",
+        "unreleased" : true,
         "title": "Internationale verhoudingen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10047,6 +10260,7 @@
     },
     {
         "id": "ef712b1f-a5b4-4671-8de7-03d789168697",
+        "unreleased" : true,
         "title": "Macht, gezag en bestuur",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10058,6 +10272,7 @@
     },
     {
         "id": "cb0fd542-c990-4cb4-8372-042944c80963",
+        "unreleased" : true,
         "title": "Werk, welzijn en welvaart",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10069,6 +10284,7 @@
     },
     {
         "id": "233414bc-ea75-42ca-ae10-86f977ce059c",
+        "unreleased" : true,
         "title": "Externe financi\u00eble verslaggeving",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10081,6 +10297,7 @@
     },
     {
         "id": "87950611-ffc3-4bd4-8b95-682498ed6025",
+        "unreleased" : true,
         "title": "Financieel beleid",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10093,6 +10310,7 @@
     },
     {
         "id": "67c1fa5c-26b1-4b88-878a-4f429b6e0852",
+        "unreleased" : true,
         "title": "Financiering van activiteiten",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10105,6 +10323,7 @@
     },
     {
         "id": "9518593c-9a3d-4c47-83de-c9d0eb5d71a5",
+        "unreleased" : true,
         "title": "Informatievoorziening m.b.v. ICT",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10117,6 +10336,7 @@
     },
     {
         "id": "78b4c57b-e807-4ff6-b29b-4fce1ce5acd5",
+        "unreleased" : true,
         "title": "Marketingbeleid",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10129,6 +10349,7 @@
     },
     {
         "id": "41df4043-9ba9-4a03-bf59-19f7b936b0b3",
+        "unreleased" : true,
         "title": "Organisatie en personeelsbeleid",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10141,6 +10362,7 @@
     },
     {
         "id": "dc4da797-abe7-49a6-8111-62ffc4685d35",
+        "unreleased" : true,
         "title": "Algemene kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10198,6 +10420,7 @@
     },
     {
         "id": "377af2a9-4cb1-4178-988d-5c3fa7cb8d3a",
+        "unreleased" : true,
         "title": "Loopbaanori\u00ebntatie en -ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10213,6 +10436,7 @@
     },
     {
         "id": "0f6c24e3-9dc3-4293-a6a7-f45663915ef8",
+        "unreleased" : true,
         "title": "Module 1 Maritieme logistiek en communicatie (2101)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10274,6 +10498,7 @@
     },
     {
         "id": "43dea6d3-ae1a-4d19-b2ab-c5db0e65e0b5",
+        "unreleased" : true,
         "title": "Module 2 Maritieme veiligheid (2102)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10343,6 +10568,7 @@
     },
     {
         "id": "71078d96-0cad-409a-adff-f2eecf09fd4e",
+        "unreleased" : true,
         "title": "Module 3 Maritieme installaties (2103)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10370,6 +10596,7 @@
     },
     {
         "id": "42e39944-f2b4-45d5-b30c-44dc3310cda0",
+        "unreleased" : true,
         "title": "Module 4 Reparatie en onderhoud (2104)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10420,6 +10647,7 @@
     },
     {
         "id": "84582908-21ae-4623-853f-c01c4602a7d7",
+        "unreleased" : true,
         "title": "Professionele kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10498,6 +10726,7 @@
     },
     {
         "id": "bbd47460-a34e-4d6c-89c2-dfc31d049333",
+        "unreleased" : true,
         "title": "Algemene kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10555,6 +10784,7 @@
     },
     {
         "id": "0c38a3d5-8704-4a53-9743-c96fa881af0a",
+        "unreleased" : true,
         "title": "Loopbaanori\u00ebntatie en -ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10570,6 +10800,7 @@
     },
     {
         "id": "8198f844-e5b8-4738-85b8-d3e739309bcb",
+        "unreleased" : true,
         "title": "Module 1 Audiovisuele vormgeving en productie (1501)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10628,6 +10859,7 @@
     },
     {
         "id": "31f9e8ab-bd8a-4b89-b55a-3f48058f3192",
+        "unreleased" : true,
         "title": "Module 2 2D- en 3D-vormgeving en -productie (1502)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10669,6 +10901,7 @@
     },
     {
         "id": "34bebd1a-68b9-418e-82c5-877a16bdc556",
+        "unreleased" : true,
         "title": "Module 3 ICT (1503)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10717,6 +10950,7 @@
     },
     {
         "id": "28e6f73e-0cb7-425e-a5e6-175121946008",
+        "unreleased" : true,
         "title": "Module 4 Interactieve vormgeving en productie (1504)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10775,6 +11009,7 @@
     },
     {
         "id": "1a373a1d-9182-4720-bf17-e702455adb3e",
+        "unreleased" : true,
         "title": "Professionele kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10855,6 +11090,7 @@
     },
     {
         "id": "afa2da76-e235-4231-9177-dddf728329e1",
+        "unreleased" : true,
         "title": "Communicatie en samenleving",
         "lpib_vaksubkern_id": [
             "abe20b25-aa22-44e1-a6b0-c8879e4986cf"
@@ -10891,6 +11127,7 @@
     },
     {
         "id": "d2bef12a-48da-42bb-bda8-b69085a007da",
+        "unreleased" : true,
         "title": "Cultuur, levensbeschouwing en identiteit",
         "lpib_vaksubkern_id": [
             "0ba99c94-016c-4b6a-af1e-4a0fb8c4e779"
@@ -10948,6 +11185,7 @@
     },
     {
         "id": "a457d0d4-0df6-4eb9-b067-804f584f5c83",
+        "unreleased" : true,
         "title": "De mens en zijn fysieke- en ruimtelijke leefomgeving (duurzaamheid, ruimtelijke inrichting en milieu)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -10971,6 +11209,7 @@
     },
     {
         "id": "007027df-a494-4a33-a8f4-80883b262513",
+        "unreleased" : true,
         "title": "Fysieke leefomgeving",
         "lpib_vaksubkern_id": [
             "2e0d717e-1d6a-41bc-b024-c743d6d8cfbb"
@@ -10995,6 +11234,7 @@
     },
     {
         "id": "c90627c2-6e89-4fc1-87e1-9fbf48d33bfe",
+        "unreleased" : true,
         "title": "Hoofdvraag en deelvragen formuleren",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11012,6 +11252,7 @@
     },
     {
         "id": "04bd722a-982a-45a5-adfc-ad622fe48886",
+        "unreleased" : true,
         "title": "Informatie bewerken en conclusies trekken",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11035,6 +11276,7 @@
     },
     {
         "id": "e2c2ca01-1544-4095-9281-4e35e87f063b",
+        "unreleased" : true,
         "title": "Informatie overdragen, presenteren en evalueren",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11058,6 +11300,7 @@
     },
     {
         "id": "f7d7b4a7-f4b7-4cde-b3b5-10c076297a90",
+        "unreleased" : true,
         "title": "Informatie verwerven, selecteren en op bruikbaarheid\/ betrouwbaarheid toetsen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11081,6 +11324,7 @@
     },
     {
         "id": "01e7d179-aee7-4079-b90f-e1de47393307",
+        "unreleased" : true,
         "title": "Informatievaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11100,6 +11344,7 @@
     },
     {
         "id": "c975a7a6-1e59-4de4-b250-e37268a3fe13",
+        "unreleased" : true,
         "title": "Internationale verhoudingen",
         "lpib_vaksubkern_id": [
             "f31fa5eb-ff9d-4bf4-9d99-0c00955c967b",
@@ -11170,6 +11415,7 @@
     },
     {
         "id": "de4f324d-70e2-4ca9-87b9-13cfebe49abb",
+        "unreleased" : true,
         "title": "Macht, gezag en bestuur",
         "lpib_vaksubkern_id": [
             "28c866ce-0a44-4a15-8f25-586f3f277c62",
@@ -11246,6 +11492,7 @@
     },
     {
         "id": "f22a42c9-33df-49aa-aebd-d91b4d8ae984",
+        "unreleased" : true,
         "title": "Onderzoek doen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11261,6 +11508,7 @@
     },
     {
         "id": "674f3d39-4b03-4c3d-84dd-236e7eb8b270",
+        "unreleased" : true,
         "title": "Redeneervaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11308,6 +11556,7 @@
     },
     {
         "id": "af3b47e3-a390-41c6-b0a9-89ed27373314",
+        "unreleased" : true,
         "title": "Werk, welzijn en welvaart",
         "lpib_vaksubkern_id": [
             "6ab57a04-e0ea-48aa-9e9b-88fdf713cc9b",
@@ -11375,6 +11624,7 @@
     },
     {
         "id": "6c6b6180-d664-46c5-aa02-3e0f79e7f227",
+        "unreleased" : true,
         "title": "Wetenschap, technologie",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11418,6 +11668,7 @@
     },
     {
         "id": "7ff6005d-f782-44a6-bcb3-7c610b06a13a",
+        "unreleased" : true,
         "title": "Communicatie",
         "lpib_vaksubkern_id": [
             "23fcb4fd-d43a-4d40-b28b-57018c7ee4c8",
@@ -11549,6 +11800,7 @@
     },
     {
         "id": "cd92cbdf-ea00-49f3-b0b9-b829703866b5",
+        "unreleased" : true,
         "title": "De invloed van natuurwetenschap en techniek",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11560,6 +11812,7 @@
     },
     {
         "id": "49362cb8-2b4b-4102-828e-488e81be4a41",
+        "unreleased" : true,
         "title": "Energie",
         "lpib_vaksubkern_id": [
             "892f0d61-f9f9-4316-99b2-115fb3424bce",
@@ -11717,6 +11970,7 @@
     },
     {
         "id": "e390e388-c3eb-4e20-83a1-2a7b79ff8343",
+        "unreleased" : true,
         "title": "Informatievaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11728,6 +11982,7 @@
     },
     {
         "id": "c92abc05-537b-49cc-bd16-8e4b0fc323f2",
+        "unreleased" : true,
         "title": "Kennis en technologie",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11739,6 +11994,7 @@
     },
     {
         "id": "b71c3c36-1d12-4d1b-8f65-25c112342415",
+        "unreleased" : true,
         "title": "Kennisvorming",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11750,6 +12006,7 @@
     },
     {
         "id": "a8f153bb-42d9-4665-a00b-eba2711e4d32",
+        "unreleased" : true,
         "title": "Kracht-beweging-constructie",
         "lpib_vaksubkern_id": [
             "51f8aca7-2f8f-41ac-9108-ff3937649491",
@@ -11822,6 +12079,7 @@
     },
     {
         "id": "4396f95d-f771-444f-a600-6b12a4ace528",
+        "unreleased" : true,
         "title": "Materie",
         "lpib_vaksubkern_id": [
             "df1f8753-6320-44fd-a0a0-50a6a35f7485",
@@ -11959,6 +12217,7 @@
     },
     {
         "id": "a74c56f7-d26f-4b97-b599-3044a3a6418a",
+        "unreleased" : true,
         "title": "Mens en gezondheid",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -11970,6 +12229,7 @@
     },
     {
         "id": "0ff9e18a-6157-4bac-80ff-e4f9c8a726c3",
+        "unreleased" : true,
         "title": "Mens-ziekte-gezondheid",
         "lpib_vaksubkern_id": [
             "d5cc75e7-8ae7-48e9-81cb-5ffc9b6f6efd",
@@ -12035,6 +12295,7 @@
     },
     {
         "id": "453edc81-0a89-4c22-86d9-fd4a3640ec29",
+        "unreleased" : true,
         "title": "Modelvorming",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12046,6 +12307,7 @@
     },
     {
         "id": "82c004f8-2a05-45f7-b52c-87c336962110",
+        "unreleased" : true,
         "title": "Natuur en leven",
         "lpib_vaksubkern_id": [
             "ecd15313-574f-4ad5-8779-6fcd634e8139",
@@ -12083,6 +12345,7 @@
     },
     {
         "id": "10c2b874-d067-48b2-b253-1ac155b8f485",
+        "unreleased" : true,
         "title": "Onderzoek doen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12094,6 +12357,7 @@
     },
     {
         "id": "32d3f21a-da6a-47a0-9b86-2f9831559ccf",
+        "unreleased" : true,
         "title": "Ontstaan van heelal, aarde en leven",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12105,6 +12369,7 @@
     },
     {
         "id": "f70d9d3a-5374-480b-9442-98eea3993e2b",
+        "unreleased" : true,
         "title": "Ontwerpen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12116,6 +12381,7 @@
     },
     {
         "id": "b2391bdc-aab9-4739-bdbf-01ff9e0189db",
+        "unreleased" : true,
         "title": "Redeneren",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12127,6 +12393,7 @@
     },
     {
         "id": "62ad3a72-491f-4bb0-b7e0-4bc74a3e6514",
+        "unreleased" : true,
         "title": "Rekenkundige en wiskundige vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12138,6 +12405,7 @@
     },
     {
         "id": "ae8e47c7-5ad9-4ead-8a32-aa57d40ecb10",
+        "unreleased" : true,
         "title": "Ruimte",
         "lpib_vaksubkern_id": [
             "4725d887-939f-4ec1-92b6-558bac2f3174",
@@ -12163,6 +12431,7 @@
     },
     {
         "id": "2162d9fc-3043-42a1-976b-ad6fae650ea3",
+        "unreleased" : true,
         "title": "Techniek",
         "lpib_vaksubkern_id": [
             "e26c39c7-a05b-4118-a227-6d4559926d31",
@@ -12191,6 +12460,7 @@
     },
     {
         "id": "f9264c4e-27e6-406d-ad62-13bd235a9f8b",
+        "unreleased" : true,
         "title": "Toepassen van kennis",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12202,6 +12472,7 @@
     },
     {
         "id": "4de21626-8e8a-492f-bb97-3a9a4345b15c",
+        "unreleased" : true,
         "title": "Waarderen en oordelen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12213,6 +12484,7 @@
     },
     {
         "id": "a240137d-665a-4e03-84ff-46d2f5fb584b",
+        "unreleased" : true,
         "title": "Algemene kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12270,6 +12542,7 @@
     },
     {
         "id": "29b81129-37cb-410d-98c4-730dca16869b",
+        "unreleased" : true,
         "title": "Loopbaanori\u00ebntatie en -ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12285,6 +12558,7 @@
     },
     {
         "id": "dc8057b0-f3ba-48a0-9cb0-191bb47fd86c",
+        "unreleased" : true,
         "title": "Moduele 4 Mobiliteit en Transport (1404)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12312,6 +12586,7 @@
     },
     {
         "id": "9b1b27b5-6505-456c-9868-207e8f14257a",
+        "unreleased" : true,
         "title": "Module 1 Motorconditie testen (1401)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12351,6 +12626,7 @@
     },
     {
         "id": "3276402a-d121-49d6-92b8-05b96694b802",
+        "unreleased" : true,
         "title": "Module 2 Wielophanging en carrosserie (1402)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12380,6 +12656,7 @@
     },
     {
         "id": "c5c6c136-2d81-4482-9337-f3ce4eaaf671",
+        "unreleased" : true,
         "title": "Module 3 Verlichting en comfortsystemen (1403)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12424,6 +12701,7 @@
     },
     {
         "id": "cd368f01-bcf5-4c3b-9191-05747e44d894",
+        "unreleased" : true,
         "title": "Professionele kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12502,6 +12780,7 @@
     },
     {
         "id": "b48f127e-b6c4-4e4d-bfaf-009d63789361",
+        "unreleased" : true,
         "title": "Lezen",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -12510,6 +12789,7 @@
     },
     {
         "id": "b5c8a5f9-47cf-4546-8c20-474ff0cf340d",
+        "unreleased" : true,
         "title": "Energie",
         "lpib_vaksubkern_id": [
             "cace165f-8cf5-475f-8d0d-47fa547b0d68",
@@ -12685,6 +12965,7 @@
     },
     {
         "id": "e162e77e-7a1c-4045-8e91-b03325eb47ce",
+        "unreleased" : true,
         "title": "Kracht en beweging",
         "lpib_vaksubkern_id": [
             "b32f10bd-730c-40f1-9469-ee8d9168f7c0",
@@ -12784,6 +13065,7 @@
     },
     {
         "id": "b1249e0e-33a6-49cc-9afe-a584f81df6ba",
+        "unreleased" : true,
         "title": "Licht, geluid en straling",
         "lpib_vaksubkern_id": [
             "c74aa263-50b4-48f2-a411-4c0c5cb5dc80",
@@ -12910,6 +13192,7 @@
     },
     {
         "id": "6caf582d-6b5e-48fb-9b89-d7a2b99bac5d",
+        "unreleased" : true,
         "title": "Materie",
         "lpib_vaksubkern_id": [
             "8902ccc6-3d81-4b2c-9b2e-0725d423c0f1",
@@ -12990,6 +13273,7 @@
     },
     {
         "id": "a2e75d11-1608-4122-b080-c687b9ffc208",
+        "unreleased" : true,
         "title": "Ruimte",
         "lpib_vaksubkern_id": [
             "558ecf87-ae2e-4097-bfa7-24f896d307db",
@@ -13018,6 +13302,7 @@
     },
     {
         "id": "d2cb98f4-9f9b-431b-a39d-96ba9422dfc2",
+        "unreleased" : true,
         "title": "Technologie",
         "lpib_vaksubkern_id": [
             "8ecdf8fd-178d-4e46-b232-f0a95f5c3fc5",
@@ -13039,6 +13324,7 @@
     },
     {
         "id": "b01acef9-436e-40ab-940a-7984363fd307",
+        "unreleased" : true,
         "title": "Energie",
         "lpib_vaksubkern_id": [
             "64e55788-d624-4582-af11-d13c5664630c",
@@ -13056,6 +13342,7 @@
     },
     {
         "id": "cc95c860-4e07-4fb5-9e1f-d9ab05802699",
+        "unreleased" : true,
         "title": "Informatievaardigheden",
         "lpib_vaksubkern_id": [
             "d16ececb-23c0-4935-96a7-9e5f55350d5f",
@@ -13073,6 +13360,7 @@
     },
     {
         "id": "0f96c277-f3bf-4f6c-a526-21072e408192",
+        "unreleased" : true,
         "title": "Materie",
         "lpib_vaksubkern_id": [
             "c31b845c-9551-4410-9025-4915511b57cb",
@@ -13149,6 +13437,7 @@
     },
     {
         "id": "edce0530-5a59-466e-beb8-c15ba13c7fb7",
+        "unreleased" : true,
         "title": "Natuurwetenschappelijk instrumentarium \/ reken- en wiskundige vaardigheden",
         "lpib_vaksubkern_id": [
             "7860ca99-ccd2-4009-90b0-7e7ce77f851b",
@@ -13171,6 +13460,7 @@
     },
     {
         "id": "dd7cb510-a181-4a6a-b100-15de969af3e5",
+        "unreleased" : true,
         "title": "Onderzoeken",
         "lpib_vaksubkern_id": [
             "df9e5c13-2200-4a41-887a-63fafce224a5",
@@ -13189,6 +13479,7 @@
     },
     {
         "id": "89c425d5-605d-4df8-a1a4-7e870e55649c",
+        "unreleased" : true,
         "title": "Reactiviteit",
         "lpib_vaksubkern_id": [
             "22b8339f-5fbc-40bc-b278-93964f2b2817",
@@ -13238,6 +13529,7 @@
     },
     {
         "id": "d20f7632-a8e8-4ac3-ba81-a8bca16507bf",
+        "unreleased" : true,
         "title": "Redeneervaardigheden",
         "lpib_vaksubkern_id": [
             "527b91f0-6625-4fa3-ac8b-8edeab380925",
@@ -13250,6 +13542,7 @@
     },
     {
         "id": "33e606c4-5386-4781-9e04-0d92eae38244",
+        "unreleased" : true,
         "title": "Schaal, verhouding en hoeveelheid",
         "lpib_vaksubkern_id": [
             "a1801573-5e66-4786-b4a2-fcc76ddc8bb9",
@@ -13267,6 +13560,7 @@
     },
     {
         "id": "419e9f2f-7f0f-49d1-a05a-84243d1c6257",
+        "unreleased" : true,
         "title": "Waarderen en oordelen",
         "lpib_vaksubkern_id": [
             "55fdb8f5-d8ba-4955-a9fb-dfc8e3dfbe8d",
@@ -13281,6 +13575,7 @@
     },
     {
         "id": "75e1a0a4-b743-440e-a32e-cdd0b8f78648",
+        "unreleased" : true,
         "title": "Aarde, natuur en heelal",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -13292,6 +13587,7 @@
     },
     {
         "id": "ddcb8d79-cdc8-4f5a-8789-3ca29bbdcc6c",
+        "unreleased" : true,
         "title": "Fundamenten van natuurwetenschap en technologie",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -13302,6 +13598,7 @@
     },
     {
         "id": "98f1c9c6-543b-4dd5-af41-2613248ff708",
+        "unreleased" : true,
         "title": "Gezondheid, bescherming en veiligheid",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -13313,6 +13610,7 @@
     },
     {
         "id": "76130125-e591-42be-a06e-ca7f7def1fea",
+        "unreleased" : true,
         "title": "Interdisciplinariteit",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -13326,6 +13624,7 @@
     },
     {
         "id": "cb9731b7-5221-4984-ba0a-c69f95a65cb4",
+        "unreleased" : true,
         "title": "Technologische ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -13337,6 +13636,7 @@
     },
     {
         "id": "52a367e3-b04b-4bbd-8287-f3c8c6e65134",
+        "unreleased" : true,
         "title": "Wisselwerking tussen natuurwetenschap en technologie",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -13348,6 +13648,7 @@
     },
     {
         "id": "25f859f3-dcc5-41f4-aeca-38e56eef17e5",
+        "unreleased" : true,
         "title": "Energie",
         "lpib_vaksubkern_id": [
             "99fcbd2d-0442-43ef-bc2a-daa4b838e420",
@@ -13470,6 +13771,7 @@
     },
     {
         "id": "fe9fde20-3f62-481e-a6c2-0e69d28a6eb4",
+        "unreleased" : true,
         "title": "Informatievaardigheden",
         "lpib_vaksubkern_id": [
             "e7d066d8-854f-4c48-b243-e69e0e26d33b",
@@ -13497,6 +13799,7 @@
     },
     {
         "id": "0a47ec81-5636-435d-8646-35dc517932ad",
+        "unreleased" : true,
         "title": "Kracht en beweging",
         "lpib_vaksubkern_id": [
             "94e36b6d-95bc-45bf-b31f-843a04dfb38b",
@@ -13570,6 +13873,7 @@
     },
     {
         "id": "f0b276d0-4c20-4cfc-b875-0385f332f699",
+        "unreleased" : true,
         "title": "Licht, geluid en straling",
         "lpib_vaksubkern_id": [
             "960c2bf3-3825-4736-aa55-41c59272a500",
@@ -13698,6 +14002,7 @@
     },
     {
         "id": "be811eac-f168-4c9a-bfe9-b82c44b89dd1",
+        "unreleased" : true,
         "title": "Materie",
         "lpib_vaksubkern_id": [
             "fe31ff48-f4cb-4709-a34f-b7d0fd72e60d",
@@ -13781,6 +14086,7 @@
     },
     {
         "id": "aa839358-7f3d-4bd1-9f23-40c6a7d49da1",
+        "unreleased" : true,
         "title": "Modelleren",
         "lpib_vaksubkern_id": [
             "d24deb0a-13d8-4816-bf4e-52104a4d9e31",
@@ -13822,6 +14128,7 @@
     },
     {
         "id": "38521e92-5372-4f44-b1fa-32411570869c",
+        "unreleased" : true,
         "title": "Natuurwetenschappelijk instrumentarium \/ reken- en wiskundige vaardigheden",
         "lpib_vaksubkern_id": [
             "04efa254-84f7-4000-a55a-9586b7d734ab",
@@ -13924,6 +14231,7 @@
     },
     {
         "id": "3d463c11-2c58-4aec-86c8-ba25bf03d0fd",
+        "unreleased" : true,
         "title": "Onderzoeken",
         "lpib_vaksubkern_id": [
             "8dcb2a8c-a40e-4364-bf4e-b08d5744a774",
@@ -13971,6 +14279,7 @@
     },
     {
         "id": "9b332842-8906-47bd-b2cb-0218c75192a2",
+        "unreleased" : true,
         "title": "Ontwerpen",
         "lpib_vaksubkern_id": [
             "0c5d742a-e94e-4d94-bdca-9ea0e484a8b5",
@@ -14013,6 +14322,7 @@
     },
     {
         "id": "b33bfa70-f130-415b-8d65-dc5ae3959598",
+        "unreleased" : true,
         "title": "Redeneervaardigheden",
         "lpib_vaksubkern_id": [
             "0fa08f47-7cb3-4e60-8ed1-d198449a96ca"
@@ -14028,6 +14338,7 @@
     },
     {
         "id": "830a70ae-d543-4ce9-9577-0450e254cf7d",
+        "unreleased" : true,
         "title": "Ruimte",
         "lpib_vaksubkern_id": [
             "7f71e7ed-9f11-465f-a6d5-5b1e4e89e489",
@@ -14070,6 +14381,7 @@
     },
     {
         "id": "82187447-5392-433b-940d-fd49f6f8d669",
+        "unreleased" : true,
         "title": "Technologie",
         "lpib_vaksubkern_id": [
             "78c7aae8-07de-4325-b03e-c80b6017072d",
@@ -14092,6 +14404,7 @@
     },
     {
         "id": "6bfb5344-c28f-4fe3-81f6-04d4dd3d58be",
+        "unreleased" : true,
         "title": "Waarderen en oordelen",
         "lpib_vaksubkern_id": [
             "1c9cf957-359c-4f3f-9ef8-0f66ad90b6d0",
@@ -14115,6 +14428,7 @@
     },
     {
         "id": "a4d8079e-d007-4033-9da8-d8345065e3ab",
+        "unreleased" : true,
         "title": "Argumentatieve vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -14126,6 +14440,7 @@
     },
     {
         "id": "271dc5dd-ed9c-420e-a401-374684a0e646",
+        "unreleased" : true,
         "title": "Begrippenlijst en taalverzorging",
         "lpib_vaksubkern_id": [
             "4a388c3e-1b3c-4de7-a0d5-ad126a0831ab",
@@ -14176,6 +14491,7 @@
     },
     {
         "id": "4580f099-c3cb-4520-beba-cccdb92cc32c",
+        "unreleased" : true,
         "title": "Leesvaardigheid",
         "lpib_vaksubkern_id": [
             "c6ae061d-3bfb-46f3-844a-8223cb3cc68e",
@@ -14302,6 +14618,7 @@
     },
     {
         "id": "239d5303-1bbd-4a9d-9aee-b35301f57121",
+        "unreleased" : true,
         "title": "Mondelinge taalvaardigheid",
         "lpib_vaksubkern_id": [
             "5488c7e6-04f9-4a9f-8073-9ebc169ab3e8",
@@ -14464,6 +14781,7 @@
     },
     {
         "id": "6077e507-a882-4692-b0f1-3d34857a0d3e",
+        "unreleased" : true,
         "title": "Schrijfvaardigheid",
         "lpib_vaksubkern_id": [
             "c8da95ce-2084-4c2a-87e4-2e9ed2d7ccf0",
@@ -14531,6 +14849,7 @@
     },
     {
         "id": "e99f1a6c-b8d3-436a-9ce3-6d57cdf07bd9",
+        "unreleased" : true,
         "title": "Algemene kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -14588,6 +14907,7 @@
     },
     {
         "id": "d103a74c-750e-4522-9d3e-dd7709a5518c",
+        "unreleased" : true,
         "title": "Loopbaanori\u00ebntatie en -ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -14603,6 +14923,7 @@
     },
     {
         "id": "4c86fb4e-6f6c-4ed4-b4a0-ebbe7b657bcb",
+        "unreleased" : true,
         "title": "Module 1 Ontwerpen en maken (1301)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -14651,6 +14972,7 @@
     },
     {
         "id": "87c7b213-4495-4028-84b2-8184592b49fc",
+        "unreleased" : true,
         "title": "Module 2 Bewerken en verbinden van materialen (1302)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -14675,6 +14997,7 @@
     },
     {
         "id": "c4c5839b-44b6-4464-b776-631e684a62e3",
+        "unreleased" : true,
         "title": "Module 3 Besturen en automatiseren (1303)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -14728,6 +15051,7 @@
     },
     {
         "id": "d5e55c37-9894-44cc-be37-a93f852b28ab",
+        "unreleased" : true,
         "title": "Module 4 Installeren en monteren (1304)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -14767,6 +15091,7 @@
     },
     {
         "id": "8d39b484-7ed6-49c0-ba50-0476c266555c",
+        "unreleased" : true,
         "title": "Professionele kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -14845,6 +15170,7 @@
     },
     {
         "id": "5b545ebf-f228-433d-ae18-49bc512d97cd",
+        "unreleased" : true,
         "title": "Energie",
         "lpib_vaksubkern_id": [
             "dfad6cd6-f71e-44c6-bc4b-1cc0384d7289",
@@ -14917,6 +15243,7 @@
     },
     {
         "id": "8faaa90f-8620-4458-815d-ef038dc1e7d3",
+        "unreleased" : true,
         "title": "Informatievaardigheden",
         "lpib_vaksubkern_id": [
             "3c2de01d-2a2c-45da-8e80-92e760aa0636",
@@ -14939,6 +15266,7 @@
     },
     {
         "id": "99c06a9b-fce9-4f6e-ac03-aad707ba66dd",
+        "unreleased" : true,
         "title": "Materie",
         "lpib_vaksubkern_id": [
             "2ab231cd-369d-4fb7-8ec5-76bfa6dd1240",
@@ -14998,6 +15326,7 @@
     },
     {
         "id": "bd9f2840-e9ba-4b03-84ad-51aeb63ca601",
+        "unreleased" : true,
         "title": "Modelleren",
         "lpib_vaksubkern_id": [
             "c6f6162e-1ec6-4276-9e82-aa8e346fb0ad",
@@ -15027,6 +15356,7 @@
     },
     {
         "id": "b13a4699-92d5-4394-9d59-871abde90abc",
+        "unreleased" : true,
         "title": "Natuurwetenschappelijk instrumentarium \/ reken- en wiskundige vaardigheden",
         "lpib_vaksubkern_id": [
             "2e45e100-7085-43aa-967a-4b0072071cab",
@@ -15081,6 +15411,7 @@
     },
     {
         "id": "98e08439-bbd6-4a91-87a3-010a10a2ba03",
+        "unreleased" : true,
         "title": "Onderzoeken",
         "lpib_vaksubkern_id": [
             "cb80ce8e-0643-414f-b959-19fdf9dae371",
@@ -15118,6 +15449,7 @@
     },
     {
         "id": "f675281a-8f1f-4263-b783-281685f15685",
+        "unreleased" : true,
         "title": "Ontwerpen",
         "lpib_vaksubkern_id": [
             "24c0ad1e-8d51-49e8-a8ed-f6fc31da5a69",
@@ -15151,6 +15483,7 @@
     },
     {
         "id": "39d7b775-88ef-4e20-bee5-b3a160d022a9",
+        "unreleased" : true,
         "title": "Reactiviteit",
         "lpib_vaksubkern_id": [
             "c668a1ff-12c0-41c2-b802-f6ccb02bb1c8",
@@ -15321,6 +15654,7 @@
     },
     {
         "id": "66debcbb-a043-475f-b904-474fbb4970a0",
+        "unreleased" : true,
         "title": "Redeneren",
         "lpib_vaksubkern_id": [
             "11fad2b5-6de4-4630-a02c-1ae657427bae",
@@ -15368,6 +15702,7 @@
     },
     {
         "id": "481c144f-7d82-492d-be54-b67b4cf54d4d",
+        "unreleased" : true,
         "title": "Schaal, verhouding en hoeveelheid",
         "lpib_vaksubkern_id": [
             "9b53cecb-9f26-4be4-8fa6-8051450b1aac",
@@ -15427,6 +15762,7 @@
     },
     {
         "id": "90d2e1b2-1c2f-4281-9e1b-31281774de3c",
+        "unreleased" : true,
         "title": "Systeem",
         "lpib_vaksubkern_id": [
             "3c9cf089-2674-4719-b165-a997524d4671",
@@ -15597,6 +15933,7 @@
     },
     {
         "id": "8635a166-23c5-435d-8f12-d27d0f565d94",
+        "unreleased" : true,
         "title": "Toepassen van chemische concepten",
         "lpib_vaksubkern_id": [
             "0d0f9b10-f988-4414-89b3-2fa021e5ce4e"
@@ -15608,6 +15945,7 @@
     },
     {
         "id": "283b005e-0bd2-442a-bd32-55c466f52f73",
+        "unreleased" : true,
         "title": "Waarderen en oordelen",
         "lpib_vaksubkern_id": [
             "00a9914b-377a-422e-82dd-355fa6569ee9",
@@ -15633,6 +15971,7 @@
     },
     {
         "id": "59a9a734-25df-46c0-97aa-d683cd97a03f",
+        "unreleased" : true,
         "title": "Gesprekken voeren",
         "lpib_vaksubkern_id": [
             "30e725d4-c26f-46a0-accc-69ab0b381074",
@@ -15697,6 +16036,7 @@
     },
     {
         "id": "51c6d025-6757-401d-9248-cc8bea96a144",
+        "unreleased" : true,
         "title": "Kijken en luisteren",
         "lpib_vaksubkern_id": [
             "5789095f-53cb-4746-9be7-f6f96257e07e",
@@ -15740,6 +16080,7 @@
     },
     {
         "id": "6c106c77-14c1-4c7b-a111-59540a5ca327",
+        "unreleased" : true,
         "title": "Lezen",
         "lpib_vaksubkern_id": [
             "8aee7e52-7f83-4865-9f7b-9ae501a39a6f",
@@ -15792,6 +16133,7 @@
     },
     {
         "id": "ca929c5d-6644-46ac-8217-a5ee298406d1",
+        "unreleased" : true,
         "title": "Schrijven",
         "lpib_vaksubkern_id": [
             "dac87cf7-9aa7-415b-8edd-a599dfcb6c8e",
@@ -15844,6 +16186,7 @@
     },
     {
         "id": "4c037ea4-2640-46c9-97fd-293d37aa2c92",
+        "unreleased" : true,
         "title": "Spreken",
         "lpib_vaksubkern_id": [
             "4c8f8af3-c058-4f47-ac12-875e60411111",
@@ -15882,6 +16225,7 @@
     },
     {
         "id": "9e95f81f-f65b-45a4-bb4c-83e619d04522",
+        "unreleased" : true,
         "title": "Technologie",
         "lpib_vaksubkern_id": [
             "94fdc4c9-6b34-4acb-9ead-55575a0e1c03",
@@ -15964,6 +16308,7 @@
     },
     {
         "id": "3e524aaa-9c23-4f33-b79d-9e32cf9cad56",
+        "unreleased" : true,
         "title": "Analyse",
         "lpib_vaksubkern_id": [
             "2e8bcba4-d317-423b-8206-4bb6fb376c24",
@@ -16006,6 +16351,7 @@
     },
     {
         "id": "9a79b8fa-e51b-4f8a-9099-24ff0a7437ff",
+        "unreleased" : true,
         "title": "Discrete Wiskunde",
         "lpib_vaksubkern_id": [
             "d235c0a9-9c96-41a7-966e-5147eea04f9a"
@@ -16018,6 +16364,7 @@
     },
     {
         "id": "b2461c76-276e-4d32-ab83-bccbb17e1532",
+        "unreleased" : true,
         "title": "Geld",
         "lpib_vaksubkern_id": [
             "c9ef71d9-fe92-4648-a275-7466cf11a55c",
@@ -16112,6 +16459,7 @@
     },
     {
         "id": "47c83563-0e48-42db-92da-e9b937a53421",
+        "unreleased" : true,
         "title": "Getallen",
         "lpib_vaksubkern_id": [
             "9b5b61a7-3987-4205-ba6b-9aae4ba2fdfb",
@@ -16457,6 +16805,7 @@
     },
     {
         "id": "9695e7e9-ad89-4c08-8784-d4ea3aad9b5e",
+        "unreleased" : true,
         "title": "Hoeveelheidbegrippen",
         "lpib_vaksubkern_id": [
             "31701ba1-4a57-48db-b5c3-09996e4fec83",
@@ -16604,6 +16953,7 @@
     },
     {
         "id": "ac408e1d-99db-4286-b8c6-583615b7e198",
+        "unreleased" : true,
         "title": "Informatieverwerking en onzekerheid",
         "lpib_vaksubkern_id": [
             "887a7258-d610-444d-b7a9-dd6854dc5132",
@@ -16671,6 +17021,7 @@
     },
     {
         "id": "9caab715-e38c-4d4c-80bd-d94f7f26e306",
+        "unreleased" : true,
         "title": "Inzicht en handelen",
         "lpib_vaksubkern_id": [
             "c7e79ed6-75be-49ab-84c5-4768292cd3b2",
@@ -16788,6 +17139,7 @@
     },
     {
         "id": "3a85224b-ab8e-4168-ab7f-019fc45cfeaf",
+        "unreleased" : true,
         "title": "Meten en meetkunde",
         "lpib_vaksubkern_id": [
             "e8084a1b-3cfe-46bf-8b6d-ba619056979e",
@@ -17034,6 +17386,7 @@
     },
     {
         "id": "73139ddf-94de-44bc-9424-1c653f463173",
+        "unreleased" : true,
         "title": "Meten en wegen",
         "lpib_vaksubkern_id": [
             "007f96be-deca-4d28-9d7e-a04d5276b445",
@@ -17182,6 +17535,7 @@
     },
     {
         "id": "8f868bad-91e3-4c9b-a716-e2b7b78c0196",
+        "unreleased" : true,
         "title": "Rekenhandelingen",
         "lpib_vaksubkern_id": [
             "511c89f3-e26b-446a-839a-cce1be1205f3",
@@ -17345,6 +17699,7 @@
     },
     {
         "id": "44fe4fb8-bf4a-4ea1-a4bb-6fcd778c410d",
+        "unreleased" : true,
         "title": "Tijd",
         "lpib_vaksubkern_id": [
             "d2a3d84b-03e1-49da-9311-75bde7a6f820",
@@ -17459,6 +17814,7 @@
     },
     {
         "id": "aefdd771-208d-40e1-9e09-4cba6dfc406a",
+        "unreleased" : true,
         "title": "Verbanden en formules",
         "lpib_vaksubkern_id": [
             "0d18dc8e-ef85-452b-b0a7-e048f7303102",
@@ -17860,6 +18216,7 @@
     },
     {
         "id": "39b37b0c-217a-47ed-89be-25051737e780",
+        "unreleased" : true,
         "title": "Verhoudingen",
         "lpib_vaksubkern_id": [
             "d3eb3e56-281d-4e82-b3b9-fec5cc0fb1b1",
@@ -17980,6 +18337,7 @@
     },
     {
         "id": "ae04af78-0e74-4856-9de5-01d4d325de64",
+        "unreleased" : true,
         "title": "Analyse",
         "lpib_vaksubkern_id": [
             "985bc535-bf11-461b-bb66-06ebe728e1e3",
@@ -18007,6 +18365,7 @@
     },
     {
         "id": "52f496a9-f6ce-4822-b9ce-165d8256be3f",
+        "unreleased" : true,
         "title": "Getallen en variabelen",
         "lpib_vaksubkern_id": [
             "afdb4981-b75c-4a6b-97a6-34d358bbd468",
@@ -18034,6 +18393,7 @@
     },
     {
         "id": "7c8f4928-a65e-48f9-81ca-fc1bc2c7fe2a",
+        "unreleased" : true,
         "title": "Informatieverwerking en onzekerheid",
         "lpib_vaksubkern_id": [
             "868ad6cb-4131-48ab-ba3e-f07ebf8f06de",
@@ -18074,6 +18434,7 @@
     },
     {
         "id": "97abf32d-c062-4dc6-b1d3-b15cb6f64874",
+        "unreleased" : true,
         "title": "Inzicht en handelen",
         "lpib_vaksubkern_id": [
             "8c85d214-9434-43fa-b35e-6b67c4b088d9",
@@ -18125,6 +18486,7 @@
     },
     {
         "id": "a337989c-f3de-429a-9537-fd5daa62098a",
+        "unreleased" : true,
         "title": "Verbanden en formules",
         "lpib_vaksubkern_id": [
             "0d0dfa1d-b658-4967-aade-b2c06a01d791",
@@ -18199,6 +18561,7 @@
     },
     {
         "id": "941616c0-5ae2-4f2a-9e88-1ce1d14e7275",
+        "unreleased" : true,
         "title": "Verhoudingen",
         "lpib_vaksubkern_id": [
             "3754034a-bbcb-40dd-9467-f6b17d13d043"
@@ -18215,6 +18578,7 @@
     },
     {
         "id": "66f9ff8e-2bbf-4ab7-a7dd-3a13ac2100cf",
+        "unreleased" : true,
         "title": "Analyse",
         "lpib_vaksubkern_id": [
             "51eee607-d6d8-4f1c-973a-c7bdf9ed1343",
@@ -18250,6 +18614,7 @@
     },
     {
         "id": "421722e5-319f-49ff-b08c-5d0c81e17967",
+        "unreleased" : true,
         "title": "Getallen en variabelen",
         "lpib_vaksubkern_id": [
             "afebbf8e-705c-4821-ac84-d30ab1e4f9b7",
@@ -18264,6 +18629,7 @@
     },
     {
         "id": "ce6456bf-2fe9-4de9-9fc4-932fb36a875a",
+        "unreleased" : true,
         "title": "Inzicht en handelen",
         "lpib_vaksubkern_id": [
             "ab92fd97-3f2e-41fb-8bad-31fae117ac3e",
@@ -18293,6 +18659,7 @@
     },
     {
         "id": "86f20a8b-8584-4f3b-bf57-ad1fefcedbef",
+        "unreleased" : true,
         "title": "Meten en meetkunde",
         "lpib_vaksubkern_id": [
             "5081b2e2-b054-4910-bace-d7d347259af2",
@@ -18337,6 +18704,7 @@
     },
     {
         "id": "88c79dcc-74cf-43fb-84ab-8711f63943ab",
+        "unreleased" : true,
         "title": "Verbanden en formules",
         "lpib_vaksubkern_id": [
             "b2a411c3-4515-401d-9e53-d59f9fd353f3",
@@ -18401,6 +18769,7 @@
     },
     {
         "id": "2f982e36-af2e-41b9-89cd-70d7c51ed92d",
+        "unreleased" : true,
         "title": "Analyse",
         "lpib_vaksubkern_id": [
             "b8c2ccbd-434d-43f3-8e71-abdc9d3bee4c"
@@ -18418,6 +18787,7 @@
     },
     {
         "id": "2421fcdf-4839-4d95-8c40-564f45388b60",
+        "unreleased" : true,
         "title": "Getallen en variabelen",
         "lpib_vaksubkern_id": [
             "dcad0eea-1e31-4c19-b9ab-3961c2045d88",
@@ -18440,6 +18810,7 @@
     },
     {
         "id": "ba6c0d53-c5fc-4447-b56f-970de78ebe4f",
+        "unreleased" : true,
         "title": "Informatieverwerking en onzekerheid",
         "lpib_vaksubkern_id": [
             "2fff73e1-8ae7-4114-8472-47500ba01ec8",
@@ -18456,6 +18827,7 @@
     },
     {
         "id": "cadc8a72-981d-4009-a930-12685cb46f41",
+        "unreleased" : true,
         "title": "Inzicht en handelen",
         "lpib_vaksubkern_id": [
             "a4cbeeb4-3388-42e1-a23b-5f1fb05bf84a",
@@ -18488,6 +18860,7 @@
     },
     {
         "id": "4fd04386-767b-4883-959f-abd5efe9f16d",
+        "unreleased" : true,
         "title": "Logisch redeneren",
         "lpib_vaksubkern_id": [
             "d67cb1ea-49a7-4713-91b7-0bc60696a398"
@@ -18505,6 +18878,7 @@
     },
     {
         "id": "23428d9e-8bdc-411b-88d4-fc80bb4ed52b",
+        "unreleased" : true,
         "title": "Meten en meetkunde",
         "lpib_vaksubkern_id": [
             "0610bf05-4172-4414-aa69-78e3d4fa4277",
@@ -18526,6 +18900,7 @@
     },
     {
         "id": "b2b0a114-9e28-4769-9a14-1da57ef66793",
+        "unreleased" : true,
         "title": "Verbanden en formules",
         "lpib_vaksubkern_id": [
             "cd2c2c40-8a68-4a27-ac2e-b8e575c5c6ed",
@@ -18559,6 +18934,7 @@
     },
     {
         "id": "9956fcbe-af76-41ce-a344-de3095487d66",
+        "unreleased" : true,
         "title": "Verhoudingen",
         "lpib_vaksubkern_id": [
             "6f262d78-078e-4464-be86-123a9806820d"
@@ -18571,6 +18947,7 @@
     },
     {
         "id": "1a9f3564-1b85-4b99-ae7f-f815d0941cc9",
+        "unreleased" : true,
         "title": "Dynamische modellen",
         "lpib_vaksubkern_id": [
             "66dbfc02-daec-42b8-93e0-b7c0e9160b35"
@@ -18582,6 +18959,7 @@
     },
     {
         "id": "65ab22d5-6406-4b45-9d09-d26d2fa2e6e1",
+        "unreleased" : true,
         "title": "Getallen en variabelen",
         "lpib_vaksubkern_id": [
             "4bdd5632-ce85-4020-bcb7-2e7555f9ca91"
@@ -18593,6 +18971,7 @@
     },
     {
         "id": "86f51309-a590-4cd1-9cf2-737cd083a1a8",
+        "unreleased" : true,
         "title": "Informatieverwerking en onzekerheid",
         "lpib_vaksubkern_id": [
             "69503e3b-5aa7-41fc-a076-56b7a9782e81",
@@ -18616,6 +18995,7 @@
     },
     {
         "id": "25249ccb-5ecf-4f69-b830-17d277e5c3b2",
+        "unreleased" : true,
         "title": "Inzicht en handelen",
         "lpib_vaksubkern_id": [
             "ec37806f-f825-4e40-940a-c7c6e42083d8",
@@ -18635,6 +19015,7 @@
     },
     {
         "id": "c5834a3e-ebdc-4821-b799-24caa6403bfd",
+        "unreleased" : true,
         "title": "Meten en meetkunde",
         "lpib_vaksubkern_id": [
             "398ea783-e38a-4875-bbe2-88bae285e478",
@@ -18656,6 +19037,7 @@
     },
     {
         "id": "4ed6f351-ef2b-4208-9692-ce6734b400e5",
+        "unreleased" : true,
         "title": "Algemene kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -18711,6 +19093,7 @@
     },
     {
         "id": "e3a34409-3de8-42e9-981c-39e97483583c",
+        "unreleased" : true,
         "title": "Loopbaanori\u00ebntatie en -ontwikkeling",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -18724,6 +19107,7 @@
     },
     {
         "id": "92403fee-f16f-40e2-96b5-bc8203598117",
+        "unreleased" : true,
         "title": "Module 1 Mens en gezondheid (1601)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -18760,6 +19144,7 @@
     },
     {
         "id": "dd2d1dc1-1e5f-4b2f-9ab9-c299e41ecc65",
+        "unreleased" : true,
         "title": "Module 2 Mens en omgeving (1602)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -18805,6 +19190,7 @@
     },
     {
         "id": "35a1d7cf-9f9c-4d2c-97b5-a52574bdf408",
+        "unreleased" : true,
         "title": "Module 3 Mens en activiteit (1603)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -18848,6 +19234,7 @@
     },
     {
         "id": "73d150de-58f2-40bc-96bd-d9e3ca07206d",
+        "unreleased" : true,
         "title": "Module 4 Mens en zorg (1604)",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [
@@ -18899,6 +19286,7 @@
     },
     {
         "id": "0a8b96f5-752c-4589-b9d1-a7a60ee8dba6",
+        "unreleased" : true,
         "title": "Professionele kennis en vaardigheden",
         "lpib_vaksubkern_id": [],
         "lpib_leereenheid_id": [

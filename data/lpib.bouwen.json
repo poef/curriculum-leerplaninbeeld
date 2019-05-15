@@ -1,6 +1,7 @@
 [
     {
         "id": "a3b4d556-0885-452a-bec1-5754db601a68",
+        "unreleased" : true,
         "sloID": "67",
         "title": "so",
         "lpib_opleidingsniveau_id": [
@@ -9,6 +10,7 @@
     },
     {
         "id": "3753c1d3-a39d-4b56-97c4-1fc8beaa0e36",
+        "unreleased" : true,
         "sloID": "70",
         "title": "so zml\/mg",
         "lpib_opleidingsniveau_id": [
@@ -17,6 +19,7 @@
     },
     {
         "id": "228348f1-9f73-4cdd-a83f-4a56554d8290",
+        "unreleased" : true,
         "sloID": "69",
         "title": "so nl\/ml",
         "lpib_opleidingsniveau_id": [
@@ -25,6 +28,7 @@
     },
     {
         "id": "f98304da-a04d-44c6-9d25-320a22b3bc54",
+        "unreleased" : true,
         "sloID": "1",
         "title": "po",
         "lpib_opleidingsniveau_id": [
@@ -49,6 +53,7 @@
     },
     {
         "id": "88312bf0-d902-4e68-a9c1-c6644e19ffc3",
+        "unreleased" : true,
         "sloID": "78",
         "title": "Overstijgend",
         "lpib_opleidingsniveau_id": [
@@ -115,6 +120,7 @@
     },
     {
         "id": "49ce2bf8-9811-42de-beee-26718cfa2e43",
+        "unreleased" : true,
         "sloID": "12",
         "title": "ob havo\/vwo",
         "lpib_opleidingsniveau_id": [
@@ -140,6 +146,7 @@
     },
     {
         "id": "2c8f3a8b-b8e4-4b45-8a2b-195c6cde0e4f",
+        "unreleased" : true,
         "sloID": "5",
         "title": "ob vmbo",
         "lpib_opleidingsniveau_id": [
@@ -161,6 +168,7 @@
     },
     {
         "id": "5475e856-4ff3-4cfb-b9fc-41ddf1dc3742",
+        "unreleased" : true,
         "sloID": "89",
         "title": "praktijkonderwijs",
         "lpib_opleidingsniveau_id": [
@@ -169,6 +177,7 @@
     },
     {
         "id": "cea47caf-e82f-496d-bdd7-93c0f4f06adc",
+        "unreleased" : true,
         "sloID": "68",
         "title": "vso",
         "lpib_opleidingsniveau_id": [
@@ -177,6 +186,7 @@
     },
     {
         "id": "b5cae09b-87c3-4bbb-9971-577f7d0e300f",
+        "unreleased" : true,
         "sloID": "71",
         "title": "vso db",
         "lpib_opleidingsniveau_id": [
@@ -185,6 +195,7 @@
     },
     {
         "id": "569c1202-2cad-4d2d-a042-910a5458fcde",
+        "unreleased" : true,
         "sloID": "73",
         "title": "vso am",
         "lpib_opleidingsniveau_id": [
@@ -193,6 +204,7 @@
     },
     {
         "id": "c5b1200f-7c5b-4a7a-93d0-4c85f98360a7",
+        "unreleased" : true,
         "sloID": "72",
         "title": "vso vo",
         "lpib_opleidingsniveau_id": [
@@ -201,6 +213,7 @@
     },
     {
         "id": "22e3a471-ae32-43ed-a80c-e34c32d3ffe4",
+        "unreleased" : true,
         "sloID": "15",
         "title": "bb vmbo",
         "lpib_opleidingsniveau_id": [
@@ -219,6 +232,7 @@
     },
     {
         "id": "cfdaedbc-dba2-4c4e-bbec-ee3348a8fbce",
+        "unreleased" : true,
         "sloID": "22",
         "title": "bb havo\/vwo",
         "lpib_opleidingsniveau_id": [
@@ -244,6 +258,7 @@
     },
     {
         "id": "7fb076b8-b38d-4574-987f-8a1455e93962",
+        "unreleased" : true,
         "sloID": "24",
         "title": "bb vwo",
         "lpib_opleidingsniveau_id": [

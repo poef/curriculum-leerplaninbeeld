@@ -1,6 +1,7 @@
 [
     {
         "id": "8a8c13cb-95fd-459f-adf4-04067da2bec6",
+        "unreleased" : true,
         "sloID": "100",
         "title": "Bouwen, Wonen en Interieur Kern (po-vmbo)",
         "lpib_bouw_id": [
@@ -147,6 +148,7 @@
     },
     {
         "id": "7fd4370e-9e95-430d-a48b-d8b00cfdf5dc",
+        "unreleased" : true,
         "sloID": "101",
         "title": "Bouwen, Wonen en Interieur Modulen (po-vmbo)",
         "lpib_bouw_id": [
@@ -297,6 +299,7 @@
     },
     {
         "id": "18cda9a7-5275-4b90-8dac-63acaafabbf5",
+        "unreleased" : true,
         "sloID": "73",
         "title": "21e eeuwse vaardigheden (Versie januari 2017)",
         "lpib_bouw_id": [
@@ -977,6 +980,7 @@
     },
     {
         "id": "51ae36c9-939d-4f9d-83b6-a55535f6a873",
+        "unreleased" : true,
         "sloID": "96",
         "title": "Digitale geletterdheid (Versie januari 2017)",
         "lpib_bouw_id": [
@@ -1365,6 +1369,7 @@
     },
     {
         "id": "518d9f08-b00b-4382-badd-8f4b1bacf360",
+        "unreleased" : true,
         "sloID": "1",
         "title": "Aardrijkskunde inhouden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -1641,6 +1646,7 @@
     },
     {
         "id": "b7e9625c-9ef6-4cdb-8927-7dbe3e44574e",
+        "unreleased" : true,
         "sloID": "20",
         "title": "Aardrijkskunde inhouden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -2193,6 +2199,7 @@
     },
     {
         "id": "e635a72f-e4ea-4a9a-b209-e4fafea4274e",
+        "unreleased" : true,
         "sloID": "45",
         "title": "Aardrijkskunde vaardigheden (PO-havo\/wo)",
         "lpib_bouw_id": [
@@ -2325,6 +2332,7 @@
     },
     {
         "id": "892234c2-7195-4a74-9753-4ae45eaf4a2e",
+        "unreleased" : true,
         "sloID": "48",
         "title": "Aardrijkskunde vaardigheden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -2514,6 +2522,7 @@
     },
     {
         "id": "6deae3ef-46fc-46c4-9a4a-5d42a4865e0b",
+        "unreleased" : true,
         "sloID": "74",
         "title": "Aardrijkskunde po-vmbo-havo\/vwo",
         "lpib_bouw_id": [
@@ -3127,6 +3136,7 @@
     },
     {
         "id": "2c389c3a-5a4b-4c50-b3fc-aa69625814b3",
+        "unreleased" : true,
         "sloID": "94",
         "title": "Aardrijkskunde algemene vaardigheden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -3141,6 +3151,7 @@
     },
     {
         "id": "3c57ed6a-2042-49b9-87ec-00c0db7dc28c",
+        "unreleased" : true,
         "sloID": "95",
         "title": "Leerlijn Aardrijkskunde so-(v)so",
         "lpib_bouw_id": [
@@ -3159,6 +3170,7 @@
     },
     {
         "id": "0ec23a24-8451-4c52-82dc-d1b7c7474b2e",
+        "unreleased" : true,
         "sloID": "19",
         "title": "ANW inhouden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -3186,6 +3198,7 @@
     },
     {
         "id": "4754266c-b01a-4b35-a974-90520475661b",
+        "unreleased" : true,
         "sloID": "97",
         "title": "Bedrijfseconomie (havo\/vwo)",
         "lpib_bouw_id": [
@@ -3216,6 +3229,7 @@
     },
     {
         "id": "4a0bad31-d326-4378-9d4b-064a18d1f754",
+        "unreleased" : true,
         "sloID": "17",
         "title": "Bewegingsonderwijs en sport (PO - vmbo)",
         "lpib_bouw_id": [
@@ -3441,6 +3455,7 @@
     },
     {
         "id": "c9565a30-6456-424f-a38b-d483b85a907e",
+        "unreleased" : true,
         "sloID": "18",
         "title": "Bewegingsonderwijs en sport (PO - havo\/vwo)",
         "lpib_bouw_id": [
@@ -3655,6 +3670,7 @@
     },
     {
         "id": "fcbf4586-9416-4fc8-9862-a7e9b95cbde1",
+        "unreleased" : true,
         "sloID": "21",
         "title": "Biologie inhouden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -4120,6 +4136,7 @@
     },
     {
         "id": "18c3ee21-faf0-43a7-91ae-6541a1c563b3",
+        "unreleased" : true,
         "sloID": "22",
         "title": "Biologie inhouden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -4490,6 +4507,7 @@
     },
     {
         "id": "cbb7b7d6-1b5e-47a0-bab9-191f8ec4389d",
+        "unreleased" : true,
         "sloID": "44",
         "title": "Biologie vaardigheden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -4678,6 +4696,7 @@
     },
     {
         "id": "e13b76bd-5278-46e6-a6c8-94a6796934b3",
+        "unreleased" : true,
         "sloID": "46",
         "title": "Biologie vaardigheden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -4861,6 +4880,7 @@
     },
     {
         "id": "d54f3f0f-e6dd-4a0e-82fc-b93cbe9b44e6",
+        "unreleased" : true,
         "sloID": "88",
         "title": "Cultureel erfgoed (po)",
         "lpib_bouw_id": [
@@ -4888,6 +4908,7 @@
     },
     {
         "id": "f664e4ee-9a6f-4982-b03c-aab68fa4c420",
+        "unreleased" : true,
         "sloID": "86",
         "title": "Culturele en kunstzinnige vorming (PO-vmbo)",
         "lpib_bouw_id": [
@@ -4911,6 +4932,7 @@
     },
     {
         "id": "c5bf8151-7084-4371-b311-58dce9fbf2f4",
+        "unreleased" : true,
         "sloID": "87",
         "title": "Culturele en kunstzinnige vorming (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -4945,6 +4967,7 @@
     },
     {
         "id": "8fb096ab-57cf-46d1-acde-795b6e6eba0e",
+        "unreleased" : true,
         "sloID": "102",
         "title": "Dienstverlening en Producten Kern (po-vmbo)",
         "lpib_bouw_id": [
@@ -5033,6 +5056,7 @@
     },
     {
         "id": "98624af7-cc06-43de-9ae0-d8740e895acf",
+        "unreleased" : true,
         "sloID": "103",
         "title": "Dienstverlening en Producten Modulen (po-vmbo)",
         "lpib_bouw_id": [
@@ -5194,6 +5218,7 @@
     },
     {
         "id": "9f2feb81-26b2-488f-a763-cc33700dc7a9",
+        "unreleased" : true,
         "sloID": "11",
         "title": "Duits (vmbo)",
         "lpib_bouw_id": [
@@ -5295,6 +5320,7 @@
     },
     {
         "id": "8c8b0d4f-bd24-4b4e-a61c-c787b07a7481",
+        "unreleased" : true,
         "sloID": "15",
         "title": "Duits (Havo\/vwo)",
         "lpib_bouw_id": [
@@ -5419,6 +5445,7 @@
     },
     {
         "id": "ea7af122-1ba6-4234-aa24-f9b516c9a409",
+        "unreleased" : true,
         "sloID": "23",
         "title": "Economie inhouden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -5678,6 +5705,7 @@
     },
     {
         "id": "aa4bc809-f0cd-4c83-9dc1-0bedbc1689de",
+        "unreleased" : true,
         "sloID": "24",
         "title": "Economie inhouden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -5956,6 +5984,7 @@
     },
     {
         "id": "4b40fd24-3fa6-4f4d-b7c0-4d089779f7b3",
+        "unreleased" : true,
         "sloID": "51",
         "title": "Economie vaardigheden (po-vmbo)",
         "lpib_bouw_id": [
@@ -5985,6 +6014,7 @@
     },
     {
         "id": "25217960-a5c7-4494-be51-160771c24223",
+        "unreleased" : true,
         "sloID": "104",
         "title": "Economie en Ondernemen Kern (po-vmbo)",
         "lpib_bouw_id": [
@@ -6070,6 +6100,7 @@
     },
     {
         "id": "dbe60aa8-bc4b-44a7-9f61-22e9eddac777",
+        "unreleased" : true,
         "sloID": "105",
         "title": "Economie en Ondernemen Modulen (po-vmbo)",
         "lpib_bouw_id": [
@@ -6185,6 +6216,7 @@
     },
     {
         "id": "6fa51e0f-4b8c-4a56-94c1-165d1da81cea",
+        "unreleased" : true,
         "sloID": "9",
         "title": "Engels (PO-vmbo)",
         "lpib_bouw_id": [
@@ -6549,6 +6581,7 @@
     },
     {
         "id": "5af2e2c2-d4c7-443d-9618-91670a97d70b",
+        "unreleased" : true,
         "sloID": "13",
         "title": "Engels (PO-Havo\/vwo)",
         "lpib_bouw_id": [
@@ -6991,6 +7024,7 @@
     },
     {
         "id": "02b39404-def7-4e2c-b94d-2e7289af3161",
+        "unreleased" : true,
         "sloID": "66",
         "title": "MVT ERK (A1-C1)",
         "lpib_bouw_id": [
@@ -7029,6 +7063,7 @@
     },
     {
         "id": "aa7a54fc-71e7-435e-a942-683622208b51",
+        "unreleased" : true,
         "sloID": "118",
         "title": "Filosofie (bovenbouw havo\/vwo)",
         "lpib_bouw_id": [
@@ -7052,6 +7087,7 @@
     },
     {
         "id": "69237341-5c56-4852-a794-bb87f008da3b",
+        "unreleased" : true,
         "sloID": "10",
         "title": "Frans (vmbo)",
         "lpib_bouw_id": [
@@ -7152,6 +7188,7 @@
     },
     {
         "id": "21b30d30-4c5b-4d3a-9be4-deff88cc3221",
+        "unreleased" : true,
         "sloID": "14",
         "title": "Frans (Havo\/vwo)",
         "lpib_bouw_id": [
@@ -7273,6 +7310,7 @@
     },
     {
         "id": "d11dea16-9873-4742-9d89-a409bbedbb95",
+        "unreleased" : true,
         "sloID": "55",
         "title": "Fysische Geografie (po-havo\/vwo)",
         "lpib_bouw_id": [
@@ -7349,6 +7387,7 @@
     },
     {
         "id": "8a4e5272-dc87-4cf9-834b-5a4eec8ed4cc",
+        "unreleased" : true,
         "sloID": "56",
         "title": "Fysische Geografie (po-vmbo)",
         "lpib_bouw_id": [
@@ -7412,6 +7451,7 @@
     },
     {
         "id": "3637ea02-bea2-4ee4-be4a-814ec5acfc02",
+        "unreleased" : true,
         "sloID": "2",
         "title": "Geschiedenis inhouden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -7969,6 +8009,7 @@
     },
     {
         "id": "3f73c127-9c79-4807-b890-e3ac5d608aed",
+        "unreleased" : true,
         "sloID": "3",
         "title": "Geschiedenis inhouden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -8300,6 +8341,7 @@
     },
     {
         "id": "13cfa403-1b88-4799-b17a-f0fcd7ff3415",
+        "unreleased" : true,
         "sloID": "67",
         "title": "Geschiedenis vaardigheden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -8347,6 +8389,7 @@
     },
     {
         "id": "9005e7b9-2f94-4b77-aa1e-528f911540d9",
+        "unreleased" : true,
         "sloID": "70",
         "title": "Grieks inhouden (onderbouw vwo - bovenbouw vwo)",
         "lpib_bouw_id": [
@@ -8443,6 +8486,7 @@
     },
     {
         "id": "f8d8f465-61d1-48cc-aca6-f05d0aa13fb9",
+        "unreleased" : true,
         "sloID": "72",
         "title": "Grieks vaardigheden (onderbouw vwo - bovenbouw vwo)",
         "lpib_bouw_id": [
@@ -8550,6 +8594,7 @@
     },
     {
         "id": "5cf471b6-6f57-45c9-a944-99d374bcf768",
+        "unreleased" : true,
         "sloID": "106",
         "title": "Groen Kern (po-vmbo)",
         "lpib_bouw_id": [
@@ -8647,6 +8692,7 @@
     },
     {
         "id": "55f8f873-8ec2-4411-a604-c9be7b614cb1",
+        "unreleased" : true,
         "sloID": "107",
         "title": "Groen Modulen (po-vmbo)",
         "lpib_bouw_id": [
@@ -8790,6 +8836,7 @@
     },
     {
         "id": "039fa8dc-6f1e-4d8d-b27f-6cfda459b5ae",
+        "unreleased" : true,
         "sloID": "108",
         "title": "Horeca, Bakkerij en Recreatie Kern (po-vmbo)",
         "lpib_bouw_id": [
@@ -8887,6 +8934,7 @@
     },
     {
         "id": "6b20ef2c-bf48-4af4-be96-1f2fbcaff15c",
+        "unreleased" : true,
         "sloID": "109",
         "title": "Horeca, Bakkerij en Recreatie Modulen (po-vmbo)",
         "lpib_bouw_id": [
@@ -9027,6 +9075,7 @@
     },
     {
         "id": "917e9046-1fbd-4ebf-8c56-a3153623a577",
+        "unreleased" : true,
         "sloID": "50",
         "title": "Kennisbasis natuurwetenschappen en technologie (po-vmbo)",
         "lpib_bouw_id": [
@@ -9041,6 +9090,7 @@
     },
     {
         "id": "6bf9ffdd-23fc-42a3-abc1-4dcff86ca49f",
+        "unreleased" : true,
         "sloID": "52",
         "title": "Kennisbasis natuurwetenschappen en technologie (po-havo\/vwo)",
         "lpib_bouw_id": [
@@ -9055,6 +9105,7 @@
     },
     {
         "id": "3c3e45d1-628a-426f-bead-95ab725af330",
+        "unreleased" : true,
         "sloID": "4",
         "title": "Kunst en cultuur (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -9147,6 +9198,7 @@
     },
     {
         "id": "c565f01a-dd25-444c-a99e-5650e0934376",
+        "unreleased" : true,
         "sloID": "5",
         "title": "Kunst en cultuur (PO-vmbo)",
         "lpib_bouw_id": [
@@ -9277,6 +9329,7 @@
     },
     {
         "id": "100e1153-88e0-4abc-b9e7-16e3aa9c9dc8",
+        "unreleased" : true,
         "sloID": "75",
         "title": "Kunst: algemeen (PO-vmbo)",
         "lpib_bouw_id": [
@@ -9299,6 +9352,7 @@
     },
     {
         "id": "24134c44-39ef-41c9-9cce-6dbba8eb154f",
+        "unreleased" : true,
         "sloID": "81",
         "title": "Kunst: algemeen (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -9328,6 +9382,7 @@
     },
     {
         "id": "b606e4ed-8838-4c51-9436-c7a1298016a8",
+        "unreleased" : true,
         "sloID": "76",
         "title": "Kunst: beeldende vorming (PO-vmbo)",
         "lpib_bouw_id": [
@@ -9399,6 +9454,7 @@
     },
     {
         "id": "bfbaaf86-a77d-4de5-839f-fa3b824259de",
+        "unreleased" : true,
         "sloID": "82",
         "title": "Kunst: beeldende vorming ( (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -9454,6 +9510,7 @@
     },
     {
         "id": "4cd32fc9-611a-4fbb-a347-13aef39bc52c",
+        "unreleased" : true,
         "sloID": "77",
         "title": "Kunst: dans (PO-vmbo)",
         "lpib_bouw_id": [
@@ -9512,6 +9569,7 @@
     },
     {
         "id": "7b31de5e-2737-4930-97f0-728abe667cd0",
+        "unreleased" : true,
         "sloID": "83",
         "title": "Kunst: dans (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -9547,6 +9605,7 @@
     },
     {
         "id": "6770f965-81c6-49b9-a528-421a8d358460",
+        "unreleased" : true,
         "sloID": "78",
         "title": "Kunst: drama (PO-vmbo)",
         "lpib_bouw_id": [
@@ -9598,6 +9657,7 @@
     },
     {
         "id": "01abe0e2-040f-465d-adc4-2e5369e843d1",
+        "unreleased" : true,
         "sloID": "84",
         "title": "Kunst: drama  (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -9639,6 +9699,7 @@
     },
     {
         "id": "d1e6a4ee-e969-4885-b067-3cb753d817d2",
+        "unreleased" : true,
         "sloID": "79",
         "title": "Kunst: muziek (PO-vmbo)",
         "lpib_bouw_id": [
@@ -9711,6 +9772,7 @@
     },
     {
         "id": "6fd97bdd-233c-4e6f-8fcb-85ddc530f9a8",
+        "unreleased" : true,
         "sloID": "85",
         "title": "Kunst: muziek (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -9769,6 +9831,7 @@
     },
     {
         "id": "d17aeac5-9f8a-4cbd-8695-cf8bdbdb8101",
+        "unreleased" : true,
         "sloID": "69",
         "title": "Latijn inhouden (onderbouw vwo - bovenbouw vwo)",
         "lpib_bouw_id": [
@@ -9861,6 +9924,7 @@
     },
     {
         "id": "6d4b4c6d-00b7-4182-b701-b823e8951a3f",
+        "unreleased" : true,
         "sloID": "71",
         "title": "Latijn vaardigheden (onderbouw vwo - bovenbouw vwo)",
         "lpib_bouw_id": [
@@ -9976,6 +10040,7 @@
     },
     {
         "id": "ca2b503a-9f5d-4d6c-a4cc-3e44d22b3933",
+        "unreleased" : true,
         "sloID": "7",
         "title": "Maatschappijkunde (PO-vmbo)",
         "lpib_bouw_id": [
@@ -10011,6 +10076,7 @@
     },
     {
         "id": "d3bfbf76-4796-4dad-a37f-44aabf5a696d",
+        "unreleased" : true,
         "sloID": "6",
         "title": "Maatschappijleer (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -10040,6 +10106,7 @@
     },
     {
         "id": "15959e63-ebb4-4e72-9a11-2c1840077f6b",
+        "unreleased" : true,
         "sloID": "8",
         "title": "Maatschappijleer (PO-vmbo)",
         "lpib_bouw_id": [
@@ -10076,6 +10143,7 @@
     },
     {
         "id": "8ff959ab-2fe5-48a3-9de5-5a74be3683af",
+        "unreleased" : true,
         "sloID": "25",
         "title": "Maatschappijwetenschappen (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -10115,6 +10183,7 @@
     },
     {
         "id": "4b8b0221-f33d-468c-b024-cd37e7e4be8f",
+        "unreleased" : true,
         "sloID": "26",
         "title": "Management en organisatie (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -10160,6 +10229,7 @@
     },
     {
         "id": "db920876-03c8-4b53-9ad0-988f5c04ce62",
+        "unreleased" : true,
         "sloID": "98",
         "title": "Maritiem en Techniek Kern (po-vmbo)",
         "lpib_bouw_id": [
@@ -10302,6 +10372,7 @@
     },
     {
         "id": "7a2b4cd3-7605-491a-acb3-c5a61611033c",
+        "unreleased" : true,
         "sloID": "99",
         "title": "Maritiem en Techniek Modulen (po-vmbo)",
         "lpib_bouw_id": [
@@ -10494,6 +10565,7 @@
     },
     {
         "id": "1c9b8d8d-93be-4eb7-bc72-b684162b3427",
+        "unreleased" : true,
         "sloID": "110",
         "title": "Media, Vormgeving en ICT Kern (po-vmbo)",
         "lpib_bouw_id": [
@@ -10639,6 +10711,7 @@
     },
     {
         "id": "fa97095c-c3d4-4e91-917c-3244c21b3d28",
+        "unreleased" : true,
         "sloID": "111",
         "title": "Media, Vormgeving en ICT Modulen (po-vmbo)",
         "lpib_bouw_id": [
@@ -10829,6 +10902,7 @@
     },
     {
         "id": "71903182-0592-4935-b305-eaebe2567e4a",
+        "unreleased" : true,
         "sloID": "36",
         "title": "Mens en maatschappij inhouden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -10992,6 +11066,7 @@
     },
     {
         "id": "d48d3ae7-da9a-4a17-ab1d-c2d34729587b",
+        "unreleased" : true,
         "sloID": "37",
         "title": "Mens en maatschappij inhouden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -11183,6 +11258,7 @@
     },
     {
         "id": "dd27350b-c39b-4604-9a3e-57278468d7dd",
+        "unreleased" : true,
         "sloID": "38",
         "title": "Mens en maatschappij vaardigheden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -11243,6 +11319,7 @@
     },
     {
         "id": "f2fbe4bd-2a21-436d-b034-cd28919ed1d0",
+        "unreleased" : true,
         "sloID": "39",
         "title": "Mens en maatschappij vaardigheden (PO-havo\/wvo)",
         "lpib_bouw_id": [
@@ -11332,6 +11409,7 @@
     },
     {
         "id": "12210eec-26a9-4fcb-ae5e-e2cc0af1adfd",
+        "unreleased" : true,
         "sloID": "40",
         "title": "Mens en natuur inhouden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -11436,6 +11514,7 @@
     },
     {
         "id": "45771de3-ef00-46d1-a96b-060f6a53bcc1",
+        "unreleased" : true,
         "sloID": "41",
         "title": "Mens en natuur vaardigheden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -11462,6 +11541,7 @@
     },
     {
         "id": "2edf6f62-12e9-47f7-bc6e-bac89da685b3",
+        "unreleased" : true,
         "sloID": "42",
         "title": "Mens en natuur vaardigheden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -11510,6 +11590,7 @@
     },
     {
         "id": "bfa88633-b917-47a9-aae8-527c9033306f",
+        "unreleased" : true,
         "sloID": "43",
         "title": "Mens en natuur inhouden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -11980,6 +12061,7 @@
     },
     {
         "id": "dc24040d-36b3-4ac7-8b73-1c16c5785066",
+        "unreleased" : true,
         "sloID": "112",
         "title": "Mobiliteit en Transport Kern (po-vmbo)",
         "lpib_bouw_id": [
@@ -12122,6 +12204,7 @@
     },
     {
         "id": "a658c263-c0eb-4b38-ae10-0216afaf689a",
+        "unreleased" : true,
         "sloID": "113",
         "title": "Mobiliteit en Transport Modulen (po-vmbo)",
         "lpib_bouw_id": [
@@ -12246,6 +12329,7 @@
     },
     {
         "id": "bd68bd73-5dc5-4738-9746-80a97641ab87",
+        "unreleased" : true,
         "sloID": "28",
         "title": "Nask1 inhouden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -12688,6 +12772,7 @@
     },
     {
         "id": "10e0d69e-ff61-4d51-945e-c91a19418654",
+        "unreleased" : true,
         "sloID": "34",
         "title": "Nask2 inhouden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -12800,6 +12885,7 @@
     },
     {
         "id": "0d14f3a2-3d21-4452-a2e7-40ae0201cb15",
+        "unreleased" : true,
         "sloID": "47",
         "title": "Nask2 vaardigheden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -12839,6 +12925,7 @@
     },
     {
         "id": "8ec97615-b727-44f9-a605-94250033d85e",
+        "unreleased" : true,
         "sloID": "27",
         "title": "Natuur, leven en technologie (PO-Havo\/vwo)",
         "lpib_bouw_id": [
@@ -12879,6 +12966,7 @@
     },
     {
         "id": "0950da42-6413-4449-9d07-562ffd1b18d3",
+        "unreleased" : true,
         "sloID": "35",
         "title": "Natuurkunde inhouden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -13258,6 +13346,7 @@
     },
     {
         "id": "f7036cc1-64a6-4d77-adf4-47343e4a7018",
+        "unreleased" : true,
         "sloID": "49",
         "title": "Natuurkunde vaardigheden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -13478,6 +13567,7 @@
     },
     {
         "id": "66ae3673-76fe-4c7d-b4a8-29127a4175de",
+        "unreleased" : true,
         "sloID": "29",
         "title": "Nederlands (PO-vmbo)",
         "lpib_bouw_id": [
@@ -13683,6 +13773,7 @@
     },
     {
         "id": "84f34f7b-ad5e-47b9-bd49-f6f87ab581c3",
+        "unreleased" : true,
         "sloID": "30",
         "title": "Nederlands (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -13938,6 +14029,7 @@
     },
     {
         "id": "94fb7b1d-c795-4714-9550-8e04f056976c",
+        "unreleased" : true,
         "sloID": "57",
         "title": "Nederlands referentiekader (1F-4F)",
         "lpib_bouw_id": [
@@ -14002,6 +14094,7 @@
     },
     {
         "id": "611e2a69-0d63-43b4-b86c-9a8e7c3e5709",
+        "unreleased" : true,
         "sloID": "114",
         "title": "Produceren, Installeren en Energie Kern (po-vmbo)",
         "lpib_bouw_id": [
@@ -14144,6 +14237,7 @@
     },
     {
         "id": "eca65d32-6b0e-4a6b-a809-9538e61defc3",
+        "unreleased" : true,
         "sloID": "115",
         "title": "Produceren, Installeren en Energie Modulen (po-vmbo)",
         "lpib_bouw_id": [
@@ -14293,6 +14387,7 @@
     },
     {
         "id": "f2db7987-d0cf-45da-b4b1-ad17da851d9a",
+        "unreleased" : true,
         "sloID": "33",
         "title": "Scheikunde inhouden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -14768,6 +14863,7 @@
     },
     {
         "id": "935f4889-2cb9-4c4a-a054-f31669b4568e",
+        "unreleased" : true,
         "sloID": "65",
         "title": "Scheikunde vaardigheden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -14945,6 +15041,7 @@
     },
     {
         "id": "cb5903e5-4adc-4c6d-ae59-588586f35388",
+        "unreleased" : true,
         "sloID": "12",
         "title": "Spaans (vmbo)",
         "lpib_bouw_id": [
@@ -15046,6 +15143,7 @@
     },
     {
         "id": "712b74d8-9166-4499-a345-a69aaec1b40c",
+        "unreleased" : true,
         "sloID": "16",
         "title": "Spaans (Havo\/vwo)",
         "lpib_bouw_id": [
@@ -15167,6 +15265,7 @@
     },
     {
         "id": "3148fb86-d6db-43e9-b1ed-a6f535b0ee87",
+        "unreleased" : true,
         "sloID": "53",
         "title": "Technologie inhouden (PO-vmbo)",
         "lpib_bouw_id": [
@@ -15209,6 +15308,7 @@
     },
     {
         "id": "a96de945-7835-4b42-b6ea-92802a8a2d5c",
+        "unreleased" : true,
         "sloID": "54",
         "title": "Technologie inhouden (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -15266,6 +15366,7 @@
     },
     {
         "id": "f4a4d4ff-6cc3-4a1b-abba-da42abbd300c",
+        "unreleased" : true,
         "sloID": "31",
         "title": "Rekenen\/Wiskunde (PO-vmbo)",
         "lpib_bouw_id": [
@@ -16047,6 +16148,7 @@
     },
     {
         "id": "f37d4702-78c8-41aa-8416-8d9526526594",
+        "unreleased" : true,
         "sloID": "32",
         "title": "Rekenen\/Wiskunde (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -16780,6 +16882,7 @@
     },
     {
         "id": "87165114-b254-4afe-a443-33fb7352e2f5",
+        "unreleased" : true,
         "sloID": "59",
         "title": "Rekenen\/Wiskunde (1F-1S)",
         "lpib_bouw_id": [
@@ -17057,6 +17160,7 @@
     },
     {
         "id": "7d50dfb8-df0b-4b55-b44b-eee8e348b3d7",
+        "unreleased" : true,
         "sloID": "68",
         "title": "Rekenen afgeleid van rekenboog (SO-VSO)",
         "lpib_bouw_id": [
@@ -17684,6 +17788,7 @@
     },
     {
         "id": "ea64111f-18be-4118-9425-c2048d45ec2c",
+        "unreleased" : true,
         "sloID": "61",
         "title": "Wiskunde A (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -17992,6 +18097,7 @@
     },
     {
         "id": "f1b7e5c6-f775-4cd3-be28-f7a0f0468a54",
+        "unreleased" : true,
         "sloID": "90",
         "title": "Wiskunde A (PO-havo CE2017\/vwo CE2018)",
         "lpib_bouw_id": [
@@ -18345,6 +18451,7 @@
     },
     {
         "id": "f1f09663-20ca-4f7f-8e64-324fc9dfbb48",
+        "unreleased" : true,
         "sloID": "62",
         "title": "Wiskunde B (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -18640,6 +18747,7 @@
     },
     {
         "id": "33a80b89-a83a-4345-8072-72774c10507b",
+        "unreleased" : true,
         "sloID": "91",
         "title": "Wiskunde B (PO-havo CE2017\/vwo CE2018)",
         "lpib_bouw_id": [
@@ -18954,6 +19062,7 @@
     },
     {
         "id": "2ff21c26-e98c-4c93-ae2a-f969dc0e1e98",
+        "unreleased" : true,
         "sloID": "63",
         "title": "Wiskunde C (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -19194,6 +19303,7 @@
     },
     {
         "id": "84cc6fe1-d6e0-4d96-a40c-b2279d145829",
+        "unreleased" : true,
         "sloID": "92",
         "title": "Wiskunde C (PO-havo CE2017\/vwo CE2018)",
         "lpib_bouw_id": [
@@ -19466,6 +19576,7 @@
     },
     {
         "id": "2a1d5aa6-54a9-4a04-9f1f-a361a9bd0f0f",
+        "unreleased" : true,
         "sloID": "64",
         "title": "Wiskunde D (PO-havo\/vwo)",
         "lpib_bouw_id": [
@@ -19664,6 +19775,7 @@
     },
     {
         "id": "a8768ba1-0941-41f3-a97e-8d3b92bffc6b",
+        "unreleased" : true,
         "sloID": "93",
         "title": "Wiskunde D 2017 (PO-havo CE2017\/vwo CE2018)",
         "lpib_bouw_id": [
@@ -19885,6 +19997,7 @@
     },
     {
         "id": "a13e73e3-57ee-4fef-8d45-3c2997a54aec",
+        "unreleased" : true,
         "sloID": "116",
         "title": "Zorg en Welzijn Kern (po-vmbo)",
         "lpib_bouw_id": [
@@ -20012,6 +20125,7 @@
     },
     {
         "id": "71461910-b2ca-40f0-b94b-344cbfe02b19",
+        "unreleased" : true,
         "sloID": "117",
         "title": "Zorg en Welzijn Modulen (po-vmbo)",
         "lpib_bouw_id": [

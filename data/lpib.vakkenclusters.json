@@ -1,6 +1,7 @@
 [
     {
         "id": "59d090d9-16fb-4ae0-9852-c904b4938ff0",
+        "unreleased" : true,
         "sloID": "2",
         "title": "Bewegingsonderwijs en sport",
         "lpib_bouw_id": [
@@ -13,6 +14,7 @@
     },
     {
         "id": "33507a34-a1aa-4c6d-b932-d9ff8b662a94",
+        "unreleased" : true,
         "sloID": "104",
         "title": "Klassieke talen",
         "lpib_bouw_id": [
@@ -25,6 +27,7 @@
     },
     {
         "id": "f69e1b4d-99c0-4a6d-bbd9-1f8098e0b47f",
+        "unreleased" : true,
         "sloID": "3",
         "title": "Kunst en cultuur",
         "lpib_bouw_id": [
@@ -41,6 +44,7 @@
     },
     {
         "id": "d61494a9-8946-49aa-bbf1-a6d0bf306739",
+        "unreleased" : true,
         "sloID": "4",
         "title": "Maatschappijvakken",
         "lpib_bouw_id": [
@@ -59,6 +63,7 @@
     },
     {
         "id": "5ac68e26-8dc2-428e-9a3e-c6215e505f96",
+        "unreleased" : true,
         "sloID": "89",
         "title": "Moderne vreemde talen",
         "lpib_bouw_id": [
@@ -73,6 +78,7 @@
     },
     {
         "id": "602c8d4d-901c-42b8-ad4f-a6a50a0164b6",
+        "unreleased" : true,
         "sloID": "12",
         "title": "Natuurwetenschappelijke vakken",
         "lpib_bouw_id": [
@@ -88,6 +94,7 @@
     },
     {
         "id": "b05e8204-0b55-4ec4-83b9-eb9fcc66a175",
+        "unreleased" : true,
         "sloID": "16",
         "title": "Nederlands",
         "lpib_bouw_id": [
@@ -99,6 +106,7 @@
     },
     {
         "id": "a08b80db-731e-43c9-a662-c42a5815e560",
+        "unreleased" : true,
         "sloID": "155",
         "title": "Vakoverstijgend",
         "lpib_bouw_id": [
@@ -110,6 +118,7 @@
     },
     {
         "id": "6fea08a3-b6aa-4513-addd-9e9786ab18d7",
+        "unreleased" : true,
         "sloID": "17",
         "title": "Wiskunde",
         "lpib_bouw_id": [
@@ -124,6 +133,7 @@
     },
     {
         "id": "dc6140fa-8ed0-4781-8c00-2e1d07af3ff3",
+        "unreleased" : true,
         "sloID": "208",
         "title": "Beroepsgerichte vakken",
         "lpib_bouw_id": [
@@ -144,6 +154,7 @@
     },
     {
         "id": "eb712786-0edc-47c7-8d97-876fd4d27ce3",
+        "unreleased" : true,
         "sloID": "21",
         "title": "Bewegingsonderwijs en sport",
         "lpib_bouw_id": [
@@ -156,6 +167,7 @@
     },
     {
         "id": "e98ba273-2810-42a1-9dc2-6590d8f96ac3",
+        "unreleased" : true,
         "sloID": "23",
         "title": "Kunst en Cultuur",
         "lpib_bouw_id": [
@@ -171,6 +183,7 @@
     },
     {
         "id": "0df1a0d1-45b7-4734-a556-7348eb73bc04",
+        "unreleased" : true,
         "sloID": "24",
         "title": "Mens en Maatschappij",
         "lpib_bouw_id": [
@@ -186,6 +199,7 @@
     },
     {
         "id": "2ff63056-dcd6-44d6-877f-3016926cbb26",
+        "unreleased" : true,
         "sloID": "86",
         "title": "Moderne vreemde talen",
         "lpib_bouw_id": [
@@ -200,6 +214,7 @@
     },
     {
         "id": "ebb94f2d-8c64-4301-92d3-424016bac036",
+        "unreleased" : true,
         "sloID": "32",
         "title": "Natuurwetenschappeljjke vakken",
         "lpib_bouw_id": [
@@ -213,6 +228,7 @@
     },
     {
         "id": "ee12413b-042a-4545-888c-4ff136a90d28",
+        "unreleased" : true,
         "sloID": "33",
         "title": "Nederlands",
         "lpib_bouw_id": [
@@ -224,6 +240,7 @@
     },
     {
         "id": "7885b5e7-da7e-46d9-9fab-ef5769c98cdf",
+        "unreleased" : true,
         "sloID": "34",
         "title": "Rekenen en Wiskunde",
         "lpib_bouw_id": [
@@ -235,6 +252,7 @@
     },
     {
         "id": "a622a81d-0336-43b0-8726-696e94cedc45",
+        "unreleased" : true,
         "sloID": "156",
         "title": "Vakoverstijgend",
         "lpib_bouw_id": [
@@ -246,6 +264,7 @@
     },
     {
         "id": "95843230-f482-4c98-ad39-48facc6171cb",
+        "unreleased" : true,
         "sloID": "35",
         "title": "Bewegingsonderwijs en sport",
         "lpib_bouw_id": [
@@ -257,6 +276,7 @@
     },
     {
         "id": "415ade09-726d-4cc3-ae4d-12befd6593ff",
+        "unreleased" : true,
         "sloID": "108",
         "title": "Klassieke talen",
         "lpib_bouw_id": [
@@ -269,6 +289,7 @@
     },
     {
         "id": "56f31c90-8a3a-4b4f-b199-df652a2a5fc1",
+        "unreleased" : true,
         "sloID": "37",
         "title": "Kunst en Cultuur",
         "lpib_bouw_id": [
@@ -284,6 +305,7 @@
     },
     {
         "id": "d54d6d1a-6f9f-40ff-82a5-da2502d08fc8",
+        "unreleased" : true,
         "sloID": "38",
         "title": "Mens en maatschappij",
         "lpib_bouw_id": [
@@ -297,6 +319,7 @@
     },
     {
         "id": "4ed1624f-55d8-489a-aeb6-c42c8067ae7f",
+        "unreleased" : true,
         "sloID": "44",
         "title": "Mens en Natuur",
         "lpib_bouw_id": [
@@ -311,6 +334,7 @@
     },
     {
         "id": "8522fd61-c5aa-4555-a65c-86ba45d598a9",
+        "unreleased" : true,
         "sloID": "81",
         "title": "Moderne vreemde talen",
         "lpib_bouw_id": [
@@ -325,6 +349,7 @@
     },
     {
         "id": "115c1068-646d-4e5f-ac3e-2b01a048f687",
+        "unreleased" : true,
         "sloID": "48",
         "title": "Nederlands",
         "lpib_bouw_id": [
@@ -336,6 +361,7 @@
     },
     {
         "id": "aa1216c0-0683-4eeb-b13b-da85ad92bec9",
+        "unreleased" : true,
         "sloID": "49",
         "title": "Rekenen en Wiskunde",
         "lpib_bouw_id": [
@@ -347,6 +373,7 @@
     },
     {
         "id": "f259c3ec-7b19-4c2b-adee-ef635e2d48a2",
+        "unreleased" : true,
         "sloID": "154",
         "title": "Vakoverstijgend",
         "lpib_bouw_id": [
@@ -358,6 +385,7 @@
     },
     {
         "id": "b15ba4b2-bfdf-4fe6-bef1-423cf42e7e3d",
+        "unreleased" : true,
         "sloID": "50",
         "title": "Bewegingsonderwijs en sport",
         "lpib_bouw_id": [
@@ -369,6 +397,7 @@
     },
     {
         "id": "4e3c831f-da8a-487a-aa4d-0d3a1cce8d7d",
+        "unreleased" : true,
         "sloID": "52",
         "title": "Kunst en Cultuur",
         "lpib_bouw_id": [
@@ -384,6 +413,7 @@
     },
     {
         "id": "4c586416-dd8f-4c7d-8eec-70b22f495745",
+        "unreleased" : true,
         "sloID": "53",
         "title": "Mens en Maatschappij",
         "lpib_bouw_id": [
@@ -399,6 +429,7 @@
     },
     {
         "id": "d5b7cc2a-0902-458f-837a-163c1f318393",
+        "unreleased" : true,
         "sloID": "60",
         "title": "Mens en Natuur",
         "lpib_bouw_id": [
@@ -413,6 +444,7 @@
     },
     {
         "id": "c6edb12b-7b88-47ee-aed5-19318c64025b",
+        "unreleased" : true,
         "sloID": "80",
         "title": "Moderne vreemde talen",
         "lpib_bouw_id": [
@@ -427,6 +459,7 @@
     },
     {
         "id": "debe5e75-fecb-4710-b8c8-7f44c68d7d2d",
+        "unreleased" : true,
         "sloID": "63",
         "title": "Nederlands",
         "lpib_bouw_id": [
@@ -438,6 +471,7 @@
     },
     {
         "id": "bec3ae76-2761-4e90-919e-6253e660e40c",
+        "unreleased" : true,
         "sloID": "64",
         "title": "Rekenen en Wiskunde",
         "lpib_bouw_id": [
@@ -449,6 +483,7 @@
     },
     {
         "id": "cac329c0-13f3-4357-a4b2-ae1a41420923",
+        "unreleased" : true,
         "sloID": "153",
         "title": "Vakoverstijgend",
         "lpib_bouw_id": [
@@ -460,6 +495,7 @@
     },
     {
         "id": "5261140b-d7de-4263-84c9-379ca283efe3",
+        "unreleased" : true,
         "sloID": "65",
         "title": "Bewegingsonderwijs en sport",
         "lpib_bouw_id": [
@@ -471,6 +507,7 @@
     },
     {
         "id": "50d81a3f-d172-492a-a2a5-581b6d4d01dc",
+        "unreleased" : true,
         "sloID": "66",
         "title": "Engels",
         "lpib_bouw_id": [
@@ -482,6 +519,7 @@
     },
     {
         "id": "705b6e03-75ac-49ba-b05d-8e633e6be8f2",
+        "unreleased" : true,
         "sloID": "67",
         "title": "Kunstzinnige ori\u00ebntatie",
         "lpib_bouw_id": [
@@ -498,6 +536,7 @@
     },
     {
         "id": "6b083841-273c-4e2b-9b67-55a196ad4884",
+        "unreleased" : true,
         "sloID": "68",
         "title": "Nederlands",
         "lpib_bouw_id": [
@@ -509,6 +548,7 @@
     },
     {
         "id": "891ef63e-2c54-4a53-a52f-e7a7ab0b66bb",
+        "unreleased" : true,
         "sloID": "69",
         "title": "Ori\u00ebntatie op jezelf en de wereld",
         "lpib_bouw_id": [
@@ -523,6 +563,7 @@
     },
     {
         "id": "7128422d-e52d-4073-9830-1a1c4220bd89",
+        "unreleased" : true,
         "sloID": "72",
         "title": "Rekenen\/wiskunde",
         "lpib_bouw_id": [
@@ -534,6 +575,7 @@
     },
     {
         "id": "ac01c679-b4b0-4440-a794-e74cc3da6914",
+        "unreleased" : true,
         "sloID": "106",
         "title": "Vakoverstijgend",
         "lpib_bouw_id": [
@@ -545,6 +587,7 @@
     },
     {
         "id": "6410bf4e-46c1-48cf-80d8-8508e2a13467",
+        "unreleased" : true,
         "sloID": "218",
         "title": "Nederlands",
         "lpib_bouw_id": [
@@ -556,6 +599,7 @@
     },
     {
         "id": "c14545bf-721b-4edd-9f1a-9141fac170b0",
+        "unreleased" : true,
         "sloID": "217",
         "title": "Rekenen\/wiskunde",
         "lpib_bouw_id": [
@@ -567,6 +611,7 @@
     },
     {
         "id": "6b8b807e-cbd4-4d36-89e2-fa779c7781a1",
+        "unreleased" : true,
         "sloID": "138",
         "title": "Bewegingsonderwijs en sport",
         "lpib_bouw_id": [
@@ -578,6 +623,7 @@
     },
     {
         "id": "f11db8ca-0b85-4bbf-9f44-a22edde03261",
+        "unreleased" : true,
         "sloID": "139",
         "title": "Engels",
         "lpib_bouw_id": [
@@ -589,6 +635,7 @@
     },
     {
         "id": "9a4c143d-cb18-456f-868b-bfba9f5fbb96",
+        "unreleased" : true,
         "sloID": "140",
         "title": "Kunstzinnige ori\u00ebntatie",
         "lpib_bouw_id": [
@@ -605,6 +652,7 @@
     },
     {
         "id": "1ebfa4de-76e4-45f8-afa3-e336d63e4cbe",
+        "unreleased" : true,
         "sloID": "146",
         "title": "Nederlands",
         "lpib_bouw_id": [
@@ -616,6 +664,7 @@
     },
     {
         "id": "b29aa481-05b1-4968-b915-072881751ac0",
+        "unreleased" : true,
         "sloID": "147",
         "title": "Ori\u00ebntatie op jezelf en de wereld",
         "lpib_bouw_id": [
@@ -630,6 +679,7 @@
     },
     {
         "id": "7f478458-53ed-46f8-a8d2-3f4a7e7cc73f",
+        "unreleased" : true,
         "sloID": "151",
         "title": "Rekenen\/wiskunde",
         "lpib_bouw_id": [
@@ -641,6 +691,7 @@
     },
     {
         "id": "001a2877-bf27-472b-9a51-32fc6dc63a1d",
+        "unreleased" : true,
         "sloID": "152",
         "title": "Vakoverstijgend",
         "lpib_bouw_id": [
@@ -652,6 +703,7 @@
     },
     {
         "id": "c4b707df-0c5b-4f5f-80a4-6bf14920154f",
+        "unreleased" : true,
         "sloID": "159",
         "title": "Bewegingsonderwijs en sport",
         "lpib_bouw_id": [
@@ -663,6 +715,7 @@
     },
     {
         "id": "0d61ac33-ce9d-4b24-9e69-367cb83228d3",
+        "unreleased" : true,
         "sloID": "160",
         "title": "Engels",
         "lpib_bouw_id": [
@@ -674,6 +727,7 @@
     },
     {
         "id": "6db1fc01-5952-4d02-8568-7989026c2db1",
+        "unreleased" : true,
         "sloID": "161",
         "title": "Kunstzinnige ori\u00ebntatie",
         "lpib_bouw_id": [
@@ -690,6 +744,7 @@
     },
     {
         "id": "8d366fcc-bc15-4e93-9ee3-409975c94a13",
+        "unreleased" : true,
         "sloID": "167",
         "title": "Nederlands",
         "lpib_bouw_id": [
@@ -701,6 +756,7 @@
     },
     {
         "id": "89188b9a-959a-4d83-9708-1d63e60e335c",
+        "unreleased" : true,
         "sloID": "168",
         "title": "Ori\u00ebntatie op jezelf en de wereld",
         "lpib_bouw_id": [
@@ -715,6 +771,7 @@
     },
     {
         "id": "2fdc0662-bf11-42e5-91c8-5797e9261044",
+        "unreleased" : true,
         "sloID": "172",
         "title": "Rekenen\/wiskunde",
         "lpib_bouw_id": [
@@ -726,6 +783,7 @@
     },
     {
         "id": "fdec9c00-64cd-4a03-b5a2-161ef43b6282",
+        "unreleased" : true,
         "sloID": "173",
         "title": "Vakoverstijgend",
         "lpib_bouw_id": [
@@ -737,6 +795,7 @@
     },
     {
         "id": "a6887afc-b77e-43b3-a9f3-fc9e28739a6c",
+        "unreleased" : true,
         "sloID": "203",
         "title": "Vakoverstijgend",
         "lpib_bouw_id": [
@@ -748,6 +807,7 @@
     },
     {
         "id": "10596c2a-dd9c-4f20-b523-a153e8b4e281",
+        "unreleased" : true,
         "sloID": "90",
         "title": "Rekenen",
         "lpib_bouw_id": [
@@ -759,6 +819,7 @@
     },
     {
         "id": "af18fc2d-1fd3-415d-84cb-ccaba4290593",
+        "unreleased" : true,
         "sloID": "96",
         "title": "Taal",
         "lpib_bouw_id": [
@@ -770,6 +831,7 @@
     },
     {
         "id": "64b35456-cf80-4517-a7cc-aaf838d9e76e",
+        "unreleased" : true,
         "sloID": "204",
         "title": "Vakoverstijgend",
         "lpib_bouw_id": [
@@ -781,6 +843,7 @@
     },
     {
         "id": "be7b254b-ddbf-46e9-8989-6e8028a282d0",
+        "unreleased" : true,
         "sloID": "174",
         "title": "Bewegingsonderwijs en sport",
         "lpib_bouw_id": [
@@ -792,6 +855,7 @@
     },
     {
         "id": "d5da3be6-a5c0-4321-b17b-c553297a4239",
+        "unreleased" : true,
         "sloID": "175",
         "title": "Kunst en Cultuur",
         "lpib_bouw_id": [
@@ -807,6 +871,7 @@
     },
     {
         "id": "ef40ff41-35fa-4207-aee5-2ce1031e8fc7",
+        "unreleased" : true,
         "sloID": "180",
         "title": "Mens en Maatschappij",
         "lpib_bouw_id": [
@@ -822,6 +887,7 @@
     },
     {
         "id": "8f2ce04f-76a8-4d93-82a7-554c1ceea9d4",
+        "unreleased" : true,
         "sloID": "185",
         "title": "Mens en Natuur",
         "lpib_bouw_id": [
@@ -836,6 +902,7 @@
     },
     {
         "id": "92a9da37-8284-482d-a3d6-c7b9413019ae",
+        "unreleased" : true,
         "sloID": "191",
         "title": "Moderne vreemde talen",
         "lpib_bouw_id": [
@@ -850,6 +917,7 @@
     },
     {
         "id": "29162fd9-ce29-4c41-8bb9-68f90283f251",
+        "unreleased" : true,
         "sloID": "195",
         "title": "Nederlands",
         "lpib_bouw_id": [
@@ -861,6 +929,7 @@
     },
     {
         "id": "b4bac984-c79b-41bb-af2e-bf477ac3cac0",
+        "unreleased" : true,
         "sloID": "196",
         "title": "Rekenen en Wiskunde",
         "lpib_bouw_id": [
@@ -872,6 +941,7 @@
     },
     {
         "id": "54147aed-7ab0-4938-9a15-4d68b3a0cd7d",
+        "unreleased" : true,
         "sloID": "197",
         "title": "Vakoverstijgend",
         "lpib_bouw_id": [
